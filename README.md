@@ -1,2 +1,0 @@
-# letterboxd-wrapped
-# letterboxd-wrapped
