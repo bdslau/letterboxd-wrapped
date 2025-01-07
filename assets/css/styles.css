@@ -283,9 +283,16 @@ button:active {
 
 
 
-
 /* Mobile Responsiveness for Canvas and Grid */
 @media (max-width: 768px) {
+    body{
+        padding: 0px; /* Padding on the left of the page */
+    }
+
+    .input-container {
+        width: 20px;
+    }
+
     .grid-container {
         grid-template-columns: 1fr; /* Single column layout */
         gap: 10px; /* Reduce grid gap */
@@ -312,14 +319,42 @@ button:active {
     }
 
     .plot-titles {
-        font-size: 14px;
-        padding: 10px;
+        font-size: 10px;
+        padding: 15px;
     }
 
     .button-container-plots {
-        top: 10px;
-        right: 10px;
+        top: 0px;
+        right: 0px;
+        padding-top: 15px;
     }
+
+
+
+
+
+
+    #releasesProportions_id {
+        width: 90% !important;  /* Ensure it takes 90% of the container */
+        height: 90% !important;  /* Adjust height if needed */
+    }
+
+    #bestPicWinners_id {
+        width: 80% !important;  /* Ensure it takes 90% of the container */
+        height: 80% !important;  /* Adjust height if needed */
+    }
+
+    #top100Arg_id {
+        width: 80% !important;  /* Ensure it takes 90% of the container */
+        height: 80% !important;  /* Adjust height if needed */
+    }
+
+    #prontoMovies_id {
+        width: 80% !important;  /* Ensure it takes 90% of the container */
+        height: 80% !important;  /* Adjust height if needed */
+    }
+
+
 }
 
 
