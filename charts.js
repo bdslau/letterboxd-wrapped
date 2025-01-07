@@ -1924,6 +1924,11 @@ function releasesProportions(user_data) {
         }
         }
     );
+
+    // Trigger a resize on window resize (this will help the chart resize dynamically)
+    window.addEventListener('resize', function() {
+        releasesProportionsChart.update();
+    });
 }
 
 
@@ -2187,10 +2192,13 @@ function bestPicWinners(user_data) {
                     const { width } = chart;
                     const { ctx } = chart;
                     ctx.save();
-                    ctx.font = 'bold 16px Arial';
                     ctx.fillStyle = '#333';
                     ctx.textAlign = 'center';
                     ctx.textBaseline = 'middle';
+
+                    // Dynamically adjust font size with min and max limits
+                    let fontSize = Math.max(16, Math.min(width / 10, 20)); // Min 16px, Max 20px
+                    ctx.font = `bold ${fontSize}px Arial`; // Set the font size
 
                     const centerX = width / 2;
                     const centerY = chart.chartArea.top + (chart.chartArea.bottom - chart.chartArea.top) / 2;
@@ -2266,10 +2274,13 @@ function top100_Arg(user_data) {
                     const { width } = chart;
                     const { ctx } = chart;
                     ctx.save();
-                    ctx.font = 'bold 16px Arial';
                     ctx.fillStyle = '#333';
                     ctx.textAlign = 'center';
                     ctx.textBaseline = 'middle';
+
+                    // Dynamically adjust font size with min and max limits
+                    let fontSize = Math.max(16, Math.min(width / 10, 20)); // Min 16px, Max 20px
+                    ctx.font = `bold ${fontSize}px Arial`; // Set the font size
 
                     const centerX = width / 2;
                     const centerY = chart.chartArea.top + (chart.chartArea.bottom - chart.chartArea.top) / 2;
@@ -2345,10 +2356,13 @@ function prontoMovies(user_data) {
                     const { width } = chart;
                     const { ctx } = chart;
                     ctx.save();
-                    ctx.font = 'bold 16px Arial';
                     ctx.fillStyle = '#333';
                     ctx.textAlign = 'center';
                     ctx.textBaseline = 'middle';
+
+                    // Dynamically adjust font size with min and max limits
+                    let fontSize = Math.max(16, Math.min(width / 10, 20)); // Min 16px, Max 20px
+                    ctx.font = `bold ${fontSize}px Arial`; // Set the font size
 
                     const centerX = width / 2;
                     const centerY = chart.chartArea.top + (chart.chartArea.bottom - chart.chartArea.top) / 2;
