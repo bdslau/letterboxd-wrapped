@@ -316,7 +316,7 @@ top100_Arg.to_json('assets/docs/top100_Arg.json', orient='records')
 
 # Countries data -------------------------------------------------------
 # Add the countries to the diaries data
-countries_ratings = diary24.merge(countries_data, on='query', how='inner')
+countries_ratings = diary24_noRewatch.merge(countries_data, on='query', how='inner')
 
 # Group by 'user' and 'country', calculate avg_user_rating and watch_count
 grouped_countries = (
@@ -352,6 +352,9 @@ countries_rated = (
 countries_watched = countries_watched[['user', 'country', 'watch_count']]
 countries_rated = countries_rated[['user', 'country', 'avg_user_rating']]
 
+# Round avg_user_rating
+countries_rated['avg_user_rating'] = (countries_rated['avg_user_rating'].astype(float) / 2).round(2)
+
 # Save to JSON file
 countries_watched.to_json('assets/docs/countriesWatched_data.json', orient='records')
 countries_rated.to_json('assets/docs/countriesRated_data.json', orient='records')
@@ -371,7 +374,7 @@ countries_rated.to_json('assets/docs/countriesRated_data.json', orient='records'
 
 # Languages data -------------------------------------------------------
 # Add the languages to the diaries data
-languages_ratings = diary24.merge(languages_data, on='query', how='inner')
+languages_ratings = diary24_noRewatch.merge(languages_data, on='query', how='inner')
 
 # Rename column 'Language' to 'language'
 languages_ratings.rename(columns={'Language': 'language'}, inplace=True)
@@ -413,6 +416,9 @@ languages_rated = (
 languages_watched = languages_watched[['user', 'language', 'watch_count']]
 languages_rated = languages_rated[['user', 'language', 'avg_user_rating']]
 
+# Round avg_user_rating
+languages_rated['avg_user_rating'] = (languages_rated['avg_user_rating'].astype(float) / 2).round(2)
+
 # Save to JSON file
 languages_watched.to_json('assets/docs/languagesWatched_data.json', orient='records')
 languages_rated.to_json('assets/docs/languagesRated_data.json', orient='records')
@@ -426,7 +432,7 @@ languages_rated.to_json('assets/docs/languagesRated_data.json', orient='records'
 
 # Genres data -------------------------------------------------------
 # Add the genres to the diaries data
-genres_ratings = diary24.merge(genres_data, on='query', how='inner')
+genres_ratings = diary24_noRewatch.merge(genres_data, on='query', how='inner')
 
 # Group by 'user' and 'genre', calculate avg_user_rating and watch_count
 grouped_genres = (
@@ -461,6 +467,9 @@ genres_rated = (
 # Select columns from genres_watched and genres_rated
 genres_watched = genres_watched[['user', 'genre', 'watch_count']]
 genres_rated = genres_rated[['user', 'genre', 'avg_user_rating']]
+
+# Round avg_user_rating
+genres_rated['avg_user_rating'] = (genres_rated['avg_user_rating'].astype(float) / 2).round(2)
 
 # Save to JSON file
 genres_watched.to_json('assets/docs/genresWatched_data.json', orient='records')
@@ -558,6 +567,9 @@ with open('assets/docs/high_low_data.json', 'w', encoding='utf-8') as f:
 # Positive and Difference with Average -------------------------------------------------------
 # Create a duplicate of the original dataframe
 detailed_diary_float = detailed_diary.copy()
+
+# If movie appears more than once, keep newest rating
+detailed_diary_float = detailed_diary_float.sort_values('viewing_date').drop_duplicates(subset=['user', 'query'], keep='last')
 
 # Convert 'rating' and 'avg_rating' columns to float
 detailed_diary_float['rating'] = pd.to_numeric(detailed_diary_float['rating'], errors='coerce')
