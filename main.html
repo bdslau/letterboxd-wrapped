@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="es-419">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pronto Pinarello</title>
+
+    <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
+
+    <script src="https://www.gstatic.com/charts/loader.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+</head>
+
+<body>
+    <!-- Main statistics -->
+    <div class="input-container">
+        <label for="compareInput">Usuario:</label>
+        <input type="text" id="userInput" placeholder="Usuario" value="stk5">
+        <button id="submitButtonWrapped">Enviar</button>
+    </div>
+    
+    <div class="grid-container">
+        <div class="item item1">
+            <h2 class="plot-titles">Películas favoritas del año</h2>
+            <div class="button-container-plots">
+                <button id="topReleases_button" class="plot-button selected">Estrenos</button>
+                <button id="topMovies_button" class="plot-button">Todas</button>
+            </div>
+            <div id="topReleases_id" class="posters releases"></div>
+            <div id="topMovies_id" class="posters releases" style="display: none;"></div>
+        </div>
+
+
+        <div class="item item2">
+            <div id="displayStats_id"></div>
+        </div>
+
+
+        <div class="item item3">
+            <h2 class="plot-titles">Películas vistas por día</h2>
+            <div class="canvas-container">
+                <canvas id="userDays_id" width="400" height="250"></canvas>
+            </div>
+        </div>  
+
+
+        <div class="item item4">
+            <h2 class="plot-titles">Data semanal</h2>
+            <div class="button-container-plots">
+                <button id="weeklyWatched_button" class="plot-button selected">Cantidad</button>
+                <button id="weeklyRated_button" class="plot-button">Calificaciones</button>
+            </div>
+            <canvas id="weeklyWatched_id"></canvas>
+            <canvas id="weeklyRated_id" style="display: none;"></canvas>
+        </div>
+
+
+        <div class="item item5">
+            <h2 class="plot-titles">Géneros</h2>
+            <div class="button-container-plots">
+                <button id="genresWatched_button" class="plot-button selected">Más Vistos</button>
+                <button id="genresRated_button" class="plot-button">Mejor Calificados</button>
+            </div>
+            <div class="canvas-container">
+                <canvas id="genresWatched_id" width="400" height="375"></canvas>
+                <canvas id="genresRated_id" style="display: none;" width="400" height="375"></canvas>
+            </div>
+        </div>
+
+
+        <div class="item item6">
+            <h2 class="plot-titles">Países</h2>
+            <div class="button-container-plots">
+                <button id="countriesWatched_button" class="plot-button selected">Más Vistos</button>
+                <button id="countriesRated_button" class="plot-button">Mejor Calificados</button>
+            </div>
+            <div class="canvas-container">
+                <canvas id="countriesWatched_id" width="400" height="375"></canvas>
+                <canvas id="countriesRated_id" style="display: none;" width="400" height="375"></canvas>
+            </div>
+        </div>
+
+
+        <div class="item item7">
+            <h2 class="plot-titles">Idiomas</h2>
+            <div class="button-container-plots">
+                <button id="languagesWatched_button" class="plot-button selected">Más Vistos</button>
+                <button id="languagesRated_button" class="plot-button">Mejor Calificados</button>
+            </div>
+            <div class="canvas-container">
+                <canvas id="languagesWatched_id" width="400" height="375"></canvas>
+                <canvas id="languagesRated_id" style="display: none;" width="400" height="375"></canvas>
+            </div>
+        </div>
+
+
+        <div class="item item8">
+            <h2 class="plot-titles">Actores/Actrices</h2>
+            <div class="button-container-plots">
+                <button id="actorsWatched_button" class="plot-button selected">Más Vistos</button>
+                <button id="actorsRated_button" class="plot-button">Mejor Calificados</button>
+            </div>
+            <div id="actorsWatched_id" class="posters releases"></div>
+            <div id="actorsRated_id" class="posters releases" style="display: none;"></div>
+        </div>
+        
+
+        <div class="item item9">
+            Writters, Cinematography, etc. <br>
+            Proximamente porq me dio paja
+        </div>
+
+
+        <div class="item item10">
+            <h2 class="plot-titles">Directores</h2>
+            <div class="button-container-plots">
+                <button id="directorsWatched_button" class="plot-button selected">Más Vistos</button>
+                <button id="directorsRated_button" class="plot-button">Mejor Calificados</button>
+            </div>
+            <div id="directorsWatched_id" class="posters releases"></div>
+            <div id="directorsRated_id" class="posters releases" style="display: none;"></div>
+        </div>
+
+
+        <div class="item item11">
+            <h2 class="plot-titles">Calificaciones</h2>
+            <div class="canvas-container">
+                <canvas id="ratingStars_id" width="400" height="250"></canvas>
+            </div>
+        </div>
+
+        
+        <div class="item item12">
+            <h2 class="plot-titles">Proporción de estrenos</h2>
+            <div class="canvas-container">
+                <canvas id="releasesProportions_id" width="300" height="200" style="padding-left: 30px;"></canvas>
+            </div>
+        </div>
+
+        <div class="item item23">
+            <h2 class="plot-titles">Mayor diferencia con el promedio</h2>
+            <div class="button-container-plots">
+                <button id="diffAvg_Positive_button" class="plot-button selected">Positiva</button>
+                <button id="diffAvg_Negative_button" class="plot-button">Negativa</button>
+            </div>
+            <div id="diffAvg_Positive_id" class="posters releases"></div>
+            <div id="diffAvg_Negative_id" class="posters releases" style="display: none;"></div>
+        </div>
+
+        <div class="item item23">
+            <h2 class="plot-titles">Altos y bajos</h2>
+            <div id="highAndLows_id" class="posters releases"></div>
+        </div>
+
+        <div class="item item13">
+            <h2 class="plot-titles">Ganadoras a Mejor Película - Oscars</h2>
+            <div class="canvas-container">
+                <canvas id="bestPicWinners_id" width="300" height="150"></canvas>
+            </div>
+        </div>
+
+        <div class="item item14">
+            <h2 class="plot-titles">Top 100 Argentina</h2>
+            <div class="canvas-container">
+                <canvas id="top100Arg_id" width="300" height="150"></canvas>
+            </div>
+        </div>
+
+        <div class="item item15">
+            <h2 class="plot-titles">Pronto Pinarello</h2>
+            <div class="canvas-container">
+                <canvas id="prontoMovies_id" width="300" height="150"></canvas>
+            </div>
+        </div>
+    </div>
+
+
+
+    <!-- Comparation Section -->
+    <div class="input-container">
+        <label for="compareInput">Comparar con:</label>
+        <input type="text" id="compareInput" placeholder="Usuario" value="donjorge86">
+        <button id="compareButtonWrapped">Enviar</button>
+    </div>
+
+    <div class="grid-container">
+        <div class="item item22">
+            <h2 class="plot-titles">Mejor calificadas resumitos</h2>
+            <div class="button-container-plots">
+                <button id="topReleasesResumitos_button" class="plot-button selected">Estrenos</button>
+                <button id="topMoviesResumitos_button" class="plot-button">Todas</button>
+                <button id="topStreamResumitos_button" class="plot-button">En Stream</button>
+            </div>
+            <div id="topReleasesResumitos_id" class="posters releases"></div>
+            <div id="topMoviesResumitos_id" class="posters releases" style="display: none;"></div>
+            <div id="topStreamResumitos_id" class="posters releases" style="display: none;"></div>
+        </div>
+
+        <div class="item item16">
+            <h2 class="plot-titles">Benevolencia vs. promedio</h2>
+            <div id="avg_benevolence_score_id"></div>
+        </div>
+
+        <div class="item item17">
+            <h2 class="plot-titles">Películas vistas en común</h2>
+            <div id="movies_in_common_id"></div>
+        </div>
+
+        <div class="item item18">
+            <h2 class="plot-titles">Porcentaje de coincidencia</h2>
+            <div id="matching_score_id"></div>
+        </div>
+
+        <div class="item item19">
+            <h2 class="plot-titles">Películas con mayor diferencia</h2>
+            <div class="button-container-plots">
+                <button id="compared_topPositiveDiff_button" class="plot-button selected">Positiva</button>
+                <button id="compared_topNegativeDiff_button" class="plot-button">Negativa</button>
+            </div>
+            <div id="compared_topPositiveDiff_id" class="posters releases"></div>
+            <div id="compared_topNegativeDiff_id" class="posters releases" style="display: none;"></div>
+        </div>
+
+        <div class="item item20">
+            <div style="padding: 5px; text-align: center;">
+                aca iría la diferencia de pelis vistas<br>
+                tipo: +6.5 hs / +5 pelis<br>
+                pero tmb me dio paja
+            </div>
+        </div>
+
+        <div class="item item21">
+            <h2 class="plot-titles">Benevolencia vs. usuario</h2>
+            <div id="compared_benevolenceScore_id"></div>
+        </div>
+    </div>
+
+    <script src="/assets/js/charts.js"></script>
+</body>
+</html>
