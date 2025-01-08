@@ -321,12 +321,62 @@ button:active {
     .plot-titles {
         font-size: 10px;
         padding: 15px;
+        margin: 0;
     }
 
     .button-container-plots {
         top: 0px;
         right: 0px;
-        padding-top: 15px;
+        padding-top: 10px;
+        padding-right: 5px;
+        position: absolute;
+        gap: 10px;
+    }
+
+    .plot-button {
+        padding: 5px 10px; /* Adjust padding inside buttons */
+    }
+
+
+
+    .item1 {
+        flex-direction: column; /* Stack elements vertically */
+        align-items: center; /* Center-align content */
+        text-align: center; /* Ensure text aligns in the middle */
+    }
+
+    .item4 {
+        height: 250px;
+    }
+
+    .item5 {
+        height: 350px;
+    }
+    
+    .item6 {
+        height: 350px;
+    }
+    
+    .item7 {
+        height: 350px;
+    }
+
+    .item8 {
+        flex-direction: column; /* Stack elements vertically */
+        align-items: center; /* Center-align content */
+        text-align: center; /* Ensure text aligns in the middle */
+    }
+
+    .item10 {
+        flex-direction: column; /* Stack elements vertically */
+        align-items: center; /* Center-align content */
+        text-align: center; /* Ensure text aligns in the middle */
+    }
+
+    .item23 {
+        flex-direction: column; /* Stack elements vertically */
+        align-items: center; /* Center-align content */
+        text-align: center; /* Ensure text aligns in the middle */
     }
 
 
