@@ -636,8 +636,8 @@ function drawCharts() {
 
 // PLOT: Top Releases of the Year
 let topReleasesChart = null; // Global variable to store the chart instance
-function topReleases(releases_data) {
-    console.log('topReleases called with data:', releases_data); // Debugging statement
+function topReleases(user_data) {
+    console.log('topReleases called with data:', user_data); // Debugging statement
     const userInput = document.getElementById('userInput'); // Get the user input
 
     if (!userInput) {
@@ -648,9 +648,9 @@ function topReleases(releases_data) {
     const selectedUser = userInput.value.trim();
 
     // Filter data if input is not empty
-    let filteredData = releases_data;
+    let filteredData = user_data;
     if (selectedUser) {
-        filteredData = releases_data.filter(item => item.user === selectedUser);
+        filteredData = user_data.filter(item => item.user === selectedUser);
     }
 
     // Destroy existing chart instance if it exists
@@ -675,6 +675,11 @@ function topReleases(releases_data) {
         movieDiv.style.margin = '20px';
         movieDiv.style.textAlign = 'center';
 
+        // Create an anchor tag for the clickable link
+        const link = document.createElement('a');
+        link.href = item.film_url; // Set the film URL
+        link.target = '_blank'; // Open in a new tab/window
+
         const img = document.createElement('img');
         img.src = item.movie;
         img.style.width = '100px';
@@ -686,17 +691,24 @@ function topReleases(releases_data) {
         rating.style.marginTop = '5px';
         rating.style.color = '#131313'; // Change rating color to a darker grey
 
-        movieDiv.appendChild(img);
+        // Append the image to the link
+        link.appendChild(img);
+
+        // Append the link and rating to the movie div
+        movieDiv.appendChild(link);
         movieDiv.appendChild(rating);
+
+        // Append the movie div to the container
         container.appendChild(movieDiv);
     });
 }
 
 
+
 // PLOT: Top Movies of the Year
 let topMoviesChart = null; // Global variable to store the chart instance
-function topMovies(releases_data) {
-    console.log('topReleases called with data:', releases_data); // Debugging statement
+function topMovies(user_data) {
+    console.log('topMovies called with data:', user_data); // Debugging statement
     const userInput = document.getElementById('userInput'); // Get the user input
 
     if (!userInput) {
@@ -707,9 +719,9 @@ function topMovies(releases_data) {
     const selectedUser = userInput.value.trim();
 
     // Filter data if input is not empty
-    let filteredData = releases_data;
+    let filteredData = user_data;
     if (selectedUser) {
-        filteredData = releases_data.filter(item => item.user === selectedUser);
+        filteredData = user_data.filter(item => item.user === selectedUser);
     }
 
     // Destroy existing chart instance if it exists
@@ -734,6 +746,11 @@ function topMovies(releases_data) {
         movieDiv.style.margin = '20px';
         movieDiv.style.textAlign = 'center';
 
+        // Create an anchor tag for the clickable link
+        const link = document.createElement('a');
+        link.href = item.film_url; // Set the film URL
+        link.target = '_blank'; // Open in a new tab/window
+
         const img = document.createElement('img');
         img.src = item.movie;
         img.style.width = '100px';
@@ -745,11 +762,18 @@ function topMovies(releases_data) {
         rating.style.marginTop = '5px';
         rating.style.color = '#131313'; // Change rating color to a darker grey
 
-        movieDiv.appendChild(img);
+        // Append the image to the link
+        link.appendChild(img);
+
+        // Append the link and rating to the movie div
+        movieDiv.appendChild(link);
         movieDiv.appendChild(rating);
+
+        // Append the movie div to the container
         container.appendChild(movieDiv);
     });
 }
+
 
 
 // PLOT: Display stats
@@ -925,6 +949,12 @@ function weeklyWatched(user_data) {
 
     // Create a new chart instance
     const ctx = document.getElementById('weeklyWatched_id').getContext('2d');
+
+    // Create gradient
+    const gradient = ctx.createLinearGradient(0, 0, ctx.canvas.width, 0); // Horizontal gradient
+    gradient.addColorStop(0, '#00e054'); // Start color
+    gradient.addColorStop(1, '#40bcf4'); // End color
+
     weeklyWatchedChart = new Chart(ctx, {
         type: 'bar',
         data: {
@@ -932,8 +962,8 @@ function weeklyWatched(user_data) {
             datasets: [
                 {
                     data: filteredData.map(row => row.weekly_quantity),
-                    backgroundColor: 'rgba(0, 0, 0, 0.69)',
-                    hoverBackgroundColor: '#DC7283',
+                    backgroundColor: gradient, // Apply gradient
+                    hoverBackgroundColor: '#556678',
                     borderWidth: 0
                 }
             ]
@@ -958,8 +988,6 @@ function weeklyWatched(user_data) {
             tooltips: {
                 callbacks: {
                     title: function(tooltipItem, data) {
-                        console.log('tooltipItem:', tooltipItem);
-                        console.log('data:', data);
                         const value = data.datasets[tooltipItem[0].datasetIndex].data[tooltipItem[0].index];
                         if (value <= 1) {
                             return `${value} Peli`;
@@ -976,7 +1004,46 @@ function weeklyWatched(user_data) {
                 },
                 displayColors: false
             },
-            layout: { padding: 20 }
+            layout: { padding: 20 },
+            onClick: function(event) {
+                // Get the clicked element
+                const activePoints = weeklyWatchedChart.getElementsAtEventForMode(event, 'nearest', { intersect: true });
+
+                // Log the entire activePoints object to understand its structure
+                console.log('Active Points:', activePoints);
+
+                if (activePoints.length > 0) {
+                    // Log the properties of the clicked element to verify how to extract the index
+                    console.log('Clicked Element:', activePoints[0]);
+
+                    const clickedIndex = activePoints[0]._index; // Get the index using _index (sometimes .index might not work)
+                    console.log('Clicked Index:', clickedIndex); // Debug the clicked index
+
+                    // Check if the index is within the bounds of filteredData
+                    if (clickedIndex >= 0 && clickedIndex < filteredData.length) {
+                        const clickedWeekNumber = filteredData[clickedIndex].week_number; // Get the corresponding week number
+                        console.log('Clicked Week Number:', clickedWeekNumber); // Debug week_number
+
+                        // Ensure selectedUser and clickedWeekNumber are valid
+                        if (selectedUser && clickedWeekNumber) {
+                            // Construct the URL
+                            const url = `https://letterboxd.com/${selectedUser}/films/diary/for/2024/week/${clickedWeekNumber}/`;
+
+                            // Log the generated URL
+                            console.log('Generated URL:', url);
+
+                            // Open the URL in a new tab/window
+                            window.open(url, '_blank');
+                        } else {
+                            console.error('Selected user or week number is missing.');
+                        }
+                    } else {
+                        console.error('Clicked index is out of bounds.');
+                    }
+                } else {
+                    console.error('No active points found on click.');
+                }
+            }
         }
     });
 }
@@ -1000,6 +1067,9 @@ function weeklyRatings(user_data) {
         filteredData = user_data.filter(item => item.user === selectedUser);
     }
 
+    // Log to ensure filteredData is correct
+    console.log('Filtered Data:', filteredData);
+
     // Destroy existing chart instance if it exists
     if (weeklyRatingsChart) {
         weeklyRatingsChart.destroy();
@@ -1007,6 +1077,12 @@ function weeklyRatings(user_data) {
 
     // Create a new chart instance
     const ctx = document.getElementById('weeklyRated_id').getContext('2d');
+
+    // Create gradient
+    const gradient = ctx.createLinearGradient(0, 0, ctx.canvas.width, 0); // Horizontal gradient
+    gradient.addColorStop(0, '#00e054'); // Start color
+    gradient.addColorStop(1, '#40bcf4'); // End color
+
     weeklyRatingsChart = new Chart(ctx, {
         type: 'bar',
         data: {
@@ -1014,8 +1090,8 @@ function weeklyRatings(user_data) {
             datasets: [
                 {
                     data: filteredData.map(row => row.avg_weekly_rating),
-                    backgroundColor: 'rgba(0, 0, 0, 0.69)',
-                    hoverBackgroundColor: '#DC7283',
+                    backgroundColor: gradient, // Apply gradient
+                    hoverBackgroundColor: '#556678', // Hover color
                     borderWidth: 0
                 }
             ]
@@ -1040,8 +1116,6 @@ function weeklyRatings(user_data) {
             tooltips: {
                 callbacks: {
                     title: function(tooltipItem, data) {
-                        console.log('tooltipItem:', tooltipItem);
-                        console.log('data:', data);
                         const value = data.datasets[tooltipItem[0].datasetIndex].data[tooltipItem[0].index];
                         return `${value} ★`;
                     },
@@ -1054,7 +1128,46 @@ function weeklyRatings(user_data) {
                 },
                 displayColors: false
             },
-            layout: { padding: 20 }
+            layout: { padding: 20 },
+            onClick: function(event) {
+                // Get the clicked element
+                const activePoints = weeklyRatingsChart.getElementsAtEventForMode(event, 'nearest', { intersect: true });
+
+                // Log the entire activePoints object to understand its structure
+                console.log('Active Points:', activePoints);
+
+                if (activePoints.length > 0) {
+                    // Log the properties of the clicked element to verify how to extract the index
+                    console.log('Clicked Element:', activePoints[0]);
+
+                    const clickedIndex = activePoints[0]._index; // Get the index using _index (sometimes .index might not work)
+                    console.log('Clicked Index:', clickedIndex); // Debug the clicked index
+
+                    // Check if the index is within the bounds of filteredData
+                    if (clickedIndex >= 0 && clickedIndex < filteredData.length) {
+                        const clickedWeekNumber = filteredData[clickedIndex].week_number; // Get the corresponding week number
+                        console.log('Clicked Week Number:', clickedWeekNumber); // Debug week_number
+
+                        // Ensure selectedUser and clickedWeekNumber are valid
+                        if (selectedUser && clickedWeekNumber) {
+                            // Construct the URL
+                            const url = `https://letterboxd.com/${selectedUser}/films/diary/for/2024/week/${clickedWeekNumber}/`;
+
+                            // Log the generated URL
+                            console.log('Generated URL:', url);
+
+                            // Open the URL in a new tab/window
+                            window.open(url, '_blank');
+                        } else {
+                            console.error('Selected user or week number is missing.');
+                        }
+                    } else {
+                        console.error('Clicked index is out of bounds.');
+                    }
+                } else {
+                    console.error('No active points found on click.');
+                }
+            }
         }
     });
 }
@@ -1532,12 +1645,20 @@ function actorsWatched(user_data) {
     container.innerHTML = '';
 
     filteredData.forEach(data => {
+        // Wrangle the URL
+        const fullUrl = `https://letterboxd.com/${selectedUser}/films/diary/for/2024/with${data.person_lboxd_url}`;
+
         // Create a div for each actor
         const actorDiv = document.createElement('div');
         actorDiv.style.display = 'inline-block';
         actorDiv.style.textAlign = 'center';
         actorDiv.style.margin = '10px';
         actorDiv.style.padding = '10px';
+
+        // Create an anchor tag for the clickable link
+        const link = document.createElement('a');
+        link.href = fullUrl; // Set the wrangled URL
+        link.target = '_blank'; // Open in a new tab/window
 
         // Create an image element
         const img = document.createElement('img');
@@ -1546,6 +1667,9 @@ function actorsWatched(user_data) {
         img.style.height = '100px';
         img.style.borderRadius = '50%'; // Make the image circular
         img.style.objectFit = 'cover';
+
+        // Append the image to the link
+        link.appendChild(img);
 
         // Create a name element
         const name = document.createElement('div');
@@ -1561,7 +1685,7 @@ function actorsWatched(user_data) {
         watchCount.style.fontSize = '10px';
 
         // Append elements to the actor div
-        actorDiv.appendChild(img);
+        actorDiv.appendChild(link); // Append the clickable image
         actorDiv.appendChild(name);
         actorDiv.appendChild(watchCount);
 
@@ -1599,12 +1723,20 @@ function actorsRated(user_data) {
     container.innerHTML = '';
 
     filteredData.forEach(data => {
+        // Wrangle the URL
+        const fullUrl = `https://letterboxd.com/${selectedUser}/films/diary/for/2024/with${data.person_lboxd_url}`;
+
         // Create a div for each actor
         const actorDiv = document.createElement('div');
         actorDiv.style.display = 'inline-block';
         actorDiv.style.textAlign = 'center';
         actorDiv.style.margin = '10px';
         actorDiv.style.padding = '10px';
+
+        // Create an anchor tag for the clickable link
+        const link = document.createElement('a');
+        link.href = fullUrl; // Set the wrangled URL
+        link.target = '_blank'; // Open in a new tab/window
 
         // Create an image element
         const img = document.createElement('img');
@@ -1614,6 +1746,9 @@ function actorsRated(user_data) {
         img.style.borderRadius = '50%'; // Make the image circular
         img.style.objectFit = 'cover';
 
+        // Append the image to the link
+        link.appendChild(img);
+
         // Create a name element
         const name = document.createElement('div');
         name.textContent = data.name;
@@ -1621,14 +1756,14 @@ function actorsRated(user_data) {
         name.style.color = '#131313';
         name.style.fontSize = '12px';
 
-        // Create a avg_user_rating element
+        // Create an avg_user_rating element
         const avg_user_rating = document.createElement('div');
         avg_user_rating.textContent = `${data.avg_user_rating} ★`;
         avg_user_rating.style.color = '#a1a1a1';
         avg_user_rating.style.fontSize = '10px';
 
         // Append elements to the actor div
-        actorDiv.appendChild(img);
+        actorDiv.appendChild(link); // Append the clickable image
         actorDiv.appendChild(name);
         actorDiv.appendChild(avg_user_rating);
 
@@ -1658,7 +1793,7 @@ function directorsWatched(user_data) {
     const container = document.getElementById('directorsWatched_id');
 
     if (!container) {
-        console.error('Element with id "actorsWatched_id" not found.');
+        console.error('Element with id "directorsWatched_id" not found.');
         return; // Stop execution if container doesn't exist
     }
 
@@ -1666,12 +1801,20 @@ function directorsWatched(user_data) {
     container.innerHTML = '';
 
     filteredData.forEach(data => {
-        // Create a div for each actor
+        // Wrangle the URL
+        const fullUrl = `https://letterboxd.com/${selectedUser}/films/diary/for/2024/with${data.person_lboxd_url}`;
+
+        // Create a div for each director
         const directorDiv = document.createElement('div');
         directorDiv.style.display = 'inline-block';
         directorDiv.style.textAlign = 'center';
         directorDiv.style.margin = '10px';
         directorDiv.style.padding = '10px';
+
+        // Create an anchor tag for the clickable link
+        const link = document.createElement('a');
+        link.href = fullUrl; // Set the wrangled URL
+        link.target = '_blank'; // Open in a new tab/window
 
         // Create an image element
         const img = document.createElement('img');
@@ -1680,6 +1823,9 @@ function directorsWatched(user_data) {
         img.style.height = '100px';
         img.style.borderRadius = '50%'; // Make the image circular
         img.style.objectFit = 'cover';
+
+        // Append the image to the link
+        link.appendChild(img);
 
         // Create a name element
         const name = document.createElement('div');
@@ -1694,12 +1840,12 @@ function directorsWatched(user_data) {
         watchCount.style.color = '#a1a1a1';
         watchCount.style.fontSize = '10px';
 
-        // Append elements to the actor div
-        directorDiv.appendChild(img);
+        // Append elements to the director div
+        directorDiv.appendChild(link); // Append the clickable image
         directorDiv.appendChild(name);
         directorDiv.appendChild(watchCount);
 
-        // Append actor div to the container
+        // Append director div to the container
         container.appendChild(directorDiv);
     });
 }
@@ -1725,7 +1871,7 @@ function directorsRated(user_data) {
     const container = document.getElementById('directorsRated_id');
 
     if (!container) {
-        console.error('Element with id "actorsRated_id" not found.');
+        console.error('Element with id "directorsRated_id" not found.');
         return; // Stop execution if container doesn't exist
     }
 
@@ -1733,12 +1879,20 @@ function directorsRated(user_data) {
     container.innerHTML = '';
 
     filteredData.forEach(data => {
+        // Wrangle the URL
+        const fullUrl = `https://letterboxd.com/${selectedUser}/films/diary/for/2024/with${data.person_lboxd_url}`;
+
         // Create a div for each director
         const directorDiv = document.createElement('div');
         directorDiv.style.display = 'inline-block';
         directorDiv.style.textAlign = 'center';
         directorDiv.style.margin = '10px';
         directorDiv.style.padding = '10px';
+
+        // Create an anchor tag for the clickable link
+        const link = document.createElement('a');
+        link.href = fullUrl; // Set the wrangled URL
+        link.target = '_blank'; // Open in a new tab/window
 
         // Create an image element
         const img = document.createElement('img');
@@ -1748,6 +1902,9 @@ function directorsRated(user_data) {
         img.style.borderRadius = '50%'; // Make the image circular
         img.style.objectFit = 'cover';
 
+        // Append the image to the link
+        link.appendChild(img);
+
         // Create a name element
         const name = document.createElement('div');
         name.textContent = data.name;
@@ -1755,24 +1912,24 @@ function directorsRated(user_data) {
         name.style.color = '#131313';
         name.style.fontSize = '12px';
 
-        // Create a avg_user_rating element
+        // Create an avg_user_rating element
         const avg_user_rating = document.createElement('div');
         avg_user_rating.textContent = `${data.avg_user_rating} ★`;
         avg_user_rating.style.color = '#a1a1a1';
         avg_user_rating.style.fontSize = '10px';
 
-        // Append elements to the actor div
-        directorDiv.appendChild(img);
+        // Append elements to the director div
+        directorDiv.appendChild(link); // Append the clickable image
         directorDiv.appendChild(name);
         directorDiv.appendChild(avg_user_rating);
 
-        // Append actor div to the container
+        // Append director div to the container
         container.appendChild(directorDiv);
     });
 }
 
 
-// PLOT: Movies watched per day of the week
+// PLOT: Movies watched per rating
 let ratingStarsChart = null; // Global variable to store the chart instance
 function ratingStars(user_data) {
     console.log('ratingStars called with data:', user_data); // Debugging statement
@@ -1802,7 +1959,7 @@ function ratingStars(user_data) {
         {
             type: 'bar',
             data: {
-                labels: filteredData.map(row => row.stars),
+                labels: filteredData.map(row => row.rating),
                 datasets: [
                     {
                         data: filteredData.map(row => row.rating_count),
@@ -1832,12 +1989,10 @@ function ratingStars(user_data) {
                 tooltips: {
                     callbacks: {
                         title: function(tooltipItems, data) {
-                            // Assuming filteredData is accessible here
                             let index = tooltipItems[0].index;
                             return filteredData[index].stars;
                         },
                         label: function(tooltipItem, data) {
-                            // Assuming filteredData is accessible here
                             let index = tooltipItem.index;
                             return filteredData[index].rating_count + " Pelis";
                         }
@@ -1845,7 +2000,18 @@ function ratingStars(user_data) {
                     // Disables the color box in the tooltip
                     displayColors: false
                 },
-                layout: { padding: 20 }
+                layout: { padding: 20 },
+                onClick: function(evt, activeElements) {
+                    if (activeElements.length > 0) {
+                        const datasetIndex = activeElements[0]._datasetIndex;
+                        const index = activeElements[0]._index;
+                        const rating = filteredData[index].rating;
+                        
+                        // Navigate to the URL
+                        const url = `https://letterboxd.com/${selectedUser}/films/diary/for/2024/rated/${rating}/`;
+                        window.open(url, '_blank'); // Opens in a new tab
+                    }
+                }
             }
         }
     );
@@ -1979,6 +2145,18 @@ function positiveDiff(user_data) {
         img.style.height = '150px';
         img.style.display = 'block';
 
+        // Change cursor to a hand when hovering over the image
+        img.style.cursor = 'pointer';
+
+        // Add click event listener to open URL in a new tab
+        img.addEventListener('click', () => {
+            if (item.film_url) {
+                window.open(item.film_url, '_blank');
+            } else {
+                console.warn('film_url is missing for item:', item);
+            }
+        });
+
         const rating = document.createElement('div');
         rating.textContent = item.rating;
         rating.style.marginTop = '5px';
@@ -2045,6 +2223,18 @@ function negativeDiff(user_data) {
         img.style.height = '150px';
         img.style.display = 'block';
 
+        // Change cursor to a hand when hovering over the image
+        img.style.cursor = 'pointer';
+
+        // Add click event listener to open URL in a new tab
+        img.addEventListener('click', () => {
+            if (item.film_url) {
+                window.open(item.film_url, '_blank');
+            } else {
+                console.warn('film_url is missing for item:', item);
+            }
+        });
+
         const rating = document.createElement('div');
         rating.textContent = item.rating;
         rating.style.marginTop = '5px';
@@ -2062,6 +2252,7 @@ function negativeDiff(user_data) {
         container.appendChild(movieDiv);
     });
 }
+
 
 // PLOT: High and Low movies
 let high_low_moviesChart = null; // Global variable to store the chart instance
@@ -2116,6 +2307,18 @@ function high_low_movies(user_data) {
         img.style.width = '100px';
         img.style.height = '150px';
         img.style.display = 'block';
+
+        // Change cursor to a hand when hovering over the image
+        img.style.cursor = 'pointer';
+
+        // Add click event listener to open URL in a new tab
+        img.addEventListener('click', () => {
+            if (item.film_url) {
+                window.open(item.film_url, '_blank');
+            } else {
+                console.warn('film_url is missing for item:', item);
+            }
+        });
 
         const valueLabels = document.createElement('div');
         valueLabels.textContent = item.value_labels;
@@ -3005,3 +3208,4 @@ buttons.forEach((button) => {
         });
     });
 });
+
