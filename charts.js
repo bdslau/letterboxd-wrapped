@@ -1075,7 +1075,7 @@ function weeklyRatings(user_data) {
         filteredData = user_data.filter(item => item.user === selectedUser);
     }
 
-    // Log filtered data to verify
+    // Log to ensure filteredData is correct
     console.log('Filtered Data:', filteredData);
 
     // Destroy existing chart instance if it exists
@@ -1105,7 +1105,9 @@ function weeklyRatings(user_data) {
             ]
         },
         options: {
-            title: { display: false },
+            title: {
+                display: false
+            },
             legend: { display: false },
             responsive: true,
             maintainAspectRatio: false,
@@ -1115,7 +1117,7 @@ function weeklyRatings(user_data) {
                     gridLines: { display: false } // Remove y-axis grid lines
                 }],
                 xAxes: [{
-                    ticks: { display: false }, // Remove x-axis text
+                    ticks: { display: false }, // Remove x-axis grid lines
                     gridLines: { display: false } // Remove x-axis grid lines
                 }]
             },
@@ -1136,16 +1138,49 @@ function weeklyRatings(user_data) {
             },
             layout: { padding: 20 },
             onClick: function(event) {
+                // Mobile detection logic
+                const isMobile = /Mobi|Android/i.test(navigator.userAgent);
+                if (isMobile) {
+                    console.log("Click functionality disabled on mobile devices");
+                    return; // Prevent URL redirection on mobile
+                }
+
+                // Get the clicked element
                 const activePoints = weeklyRatingsChart.getElementsAtEventForMode(event, 'nearest', { intersect: true });
 
-                if (activePoints.length > 0) {
-                    const clickedIndex = activePoints[0]._index; // Get the index using _index
-                    const clickedWeekNumber = filteredData[clickedIndex].week_number;
+                // Log the entire activePoints object to understand its structure
+                console.log('Active Points:', activePoints);
 
-                    if (selectedUser && clickedWeekNumber) {
-                        const url = `https://letterboxd.com/${selectedUser}/films/diary/for/2024/week/${clickedWeekNumber}/`;
-                        window.open(url, '_blank');
+                if (activePoints.length > 0) {
+                    // Log the properties of the clicked element to verify how to extract the index
+                    console.log('Clicked Element:', activePoints[0]);
+
+                    const clickedIndex = activePoints[0]._index; // Get the index using _index (sometimes .index might not work)
+                    console.log('Clicked Index:', clickedIndex); // Debug the clicked index
+
+                    // Check if the index is within the bounds of filteredData
+                    if (clickedIndex >= 0 && clickedIndex < filteredData.length) {
+                        const clickedWeekNumber = filteredData[clickedIndex].week_number; // Get the corresponding week number
+                        console.log('Clicked Week Number:', clickedWeekNumber); // Debug week_number
+
+                        // Ensure selectedUser and clickedWeekNumber are valid
+                        if (selectedUser && clickedWeekNumber) {
+                            // Construct the URL
+                            const url = `https://letterboxd.com/${selectedUser}/films/diary/for/2024/week/${clickedWeekNumber}/`;
+
+                            // Log the generated URL
+                            console.log('Generated URL:', url);
+
+                            // Open the URL in a new tab/window
+                            window.open(url, '_blank');
+                        } else {
+                            console.error('Selected user or week number is missing.');
+                        }
+                    } else {
+                        console.error('Clicked index is out of bounds.');
                     }
+                } else {
+                    console.error('No active points found on click.');
                 }
             }
         }
@@ -1945,7 +1980,7 @@ function ratingStars(user_data) {
     gradient.addColorStop(1, '#40bcf4'); // End color
 
     ratingStarsChart = new Chart(
-        ctx,
+        document.getElementById("ratingStars_id"),
         {
             type: 'bar',
             data: {
@@ -1960,7 +1995,9 @@ function ratingStars(user_data) {
                 ]
             },
             options: {
-                title: { display: false },
+                title: {
+                    display: false
+                },
                 legend: { display: false },
                 responsive: true,
                 maintainAspectRatio: false,
@@ -1985,6 +2022,7 @@ function ratingStars(user_data) {
                             return filteredData[index].rating_count + " Pelis";
                         }
                     },
+                    // Disables the color box in the tooltip
                     displayColors: false
                 },
                 layout: { padding: 20 },
