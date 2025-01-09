@@ -1006,6 +1006,14 @@ function weeklyWatched(user_data) {
             },
             layout: { padding: 20 },
             onClick: function(event) {
+                // Detect if the device is mobile
+                const isMobile = /Mobi|Android/i.test(navigator.userAgent);
+
+                if (isMobile) {
+                    console.log('Click disabled on mobile devices.');
+                    return; // Do nothing if it's a mobile device
+                }
+
                 // Get the clicked element
                 const activePoints = weeklyWatchedChart.getElementsAtEventForMode(event, 'nearest', { intersect: true });
 
