@@ -1138,6 +1138,15 @@ function weeklyRatings(user_data) {
             },
             layout: { padding: 20 },
             onClick: function(event) {
+                // Check if the device is a mobile device
+                const isMobile = /Mobi|Android/i.test(navigator.userAgent);
+                
+                if (isMobile) {
+                    // Prevent click action on mobile devices
+                    console.log('Mobile device detected, click event ignored');
+                    return; // Prevent further actions (URL redirection)
+                }
+
                 // Get the clicked element
                 const activePoints = weeklyRatingsChart.getElementsAtEventForMode(event, 'nearest', { intersect: true });
 
@@ -1956,12 +1965,22 @@ function ratingStars(user_data) {
         filteredData = user_data.filter(item => item.user === selectedUser);
     }
 
+    // Log filtered data to verify
+    console.log('Filtered Data:', filteredData);
+
     // Destroy existing chart instance if it exists
     if (ratingStarsChart) {
         ratingStarsChart.destroy();
     }
 
     // Create a new chart instance
+    const ctx = document.getElementById("ratingStars_id").getContext('2d');
+
+    // Create gradient
+    const gradient = ctx.createLinearGradient(0, 0, ctx.canvas.width, 0); // Horizontal gradient
+    gradient.addColorStop(0, '#00e054'); // Start color
+    gradient.addColorStop(1, '#40bcf4'); // End color
+
     ratingStarsChart = new Chart(
         document.getElementById("ratingStars_id"),
         {
@@ -1971,7 +1990,7 @@ function ratingStars(user_data) {
                 datasets: [
                     {
                         data: filteredData.map(row => row.rating_count),
-                        backgroundColor: 'rgba(0, 0, 0, 0.69)',
+                        backgroundColor: gradient, // Apply gradient
                         hoverBackgroundColor: '#DC7283',
                         borderWidth: 0
                     }
@@ -2015,8 +2034,13 @@ function ratingStars(user_data) {
                         const index = activeElements[0]._index;
                         const rating = filteredData[index].rating;
                         
-                        // Navigate to the URL
+                        // Construct the URL
                         const url = `https://letterboxd.com/${selectedUser}/films/diary/for/2024/rated/${rating}/`;
+                        
+                        // Log the generated URL
+                        console.log('Generated URL:', url);
+                        
+                        // Navigate to the URL
                         window.open(url, '_blank'); // Opens in a new tab
                     }
                 }
@@ -3216,4 +3240,5 @@ buttons.forEach((button) => {
         });
     });
 });
+
 
