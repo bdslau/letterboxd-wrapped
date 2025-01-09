@@ -2025,7 +2025,14 @@ function ratingStars(user_data) {
                 },
                 layout: { padding: 20 },
                 onClick: function(evt, activeElements) {
-                    if (!isMobile && activeElements.length > 0) {
+                    // If mobile, do not trigger URL opening
+                    if (isMobile) {
+                        console.log('Click detected on mobile. URL will not open.');
+                        return; // Prevent URL opening
+                    }
+
+                    // Proceed only if click occurs on a valid element
+                    if (activeElements.length > 0) {
                         const datasetIndex = activeElements[0]._datasetIndex;
                         const index = activeElements[0]._index;
                         const rating = filteredData[index].rating;
@@ -2038,14 +2045,13 @@ function ratingStars(user_data) {
                         
                         // Navigate to the URL
                         window.open(url, '_blank'); // Opens in a new tab
-                    } else {
-                        console.log('Click detected on mobile. URL will not open.');
                     }
                 }
             }
         }
     );
 }
+
 
 
 // PLOT: proportion of RELEASES watched
