@@ -998,7 +998,7 @@ function weeklyWatched(user_data) {
                     label: function(tooltipItem, data) {
                         const weekNumber = data.labels[tooltipItem.index];
                         const weekRange = filteredData[tooltipItem.index].week_range;
-                        const arrayLines = [`${weekNumber} Sem.`, `${weekRange}`];
+                        const arrayLines = [`Sem. ${weekNumber}`, `${weekRange}`];
                         return arrayLines;
                     }
                 },
