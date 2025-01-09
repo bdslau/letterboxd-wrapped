@@ -2025,7 +2025,7 @@ function ratingStars(user_data) {
                 },
                 layout: { padding: 20 },
                 onClick: function(evt, activeElements) {
-                    if (activeElements.length > 0) {
+                    if (!isMobile && activeElements.length > 0) {
                         const datasetIndex = activeElements[0]._datasetIndex;
                         const index = activeElements[0]._index;
                         const rating = filteredData[index].rating;
@@ -2038,6 +2038,8 @@ function ratingStars(user_data) {
                         
                         // Navigate to the URL
                         window.open(url, '_blank'); // Opens in a new tab
+                    } else {
+                        console.log('Click detected on mobile. URL will not open.');
                     }
                 }
             }
