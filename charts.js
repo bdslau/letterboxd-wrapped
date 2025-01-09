@@ -6,7 +6,7 @@ google.charts.setOnLoadCallback(drawCharts); // Ensure all charts are drawn afte
 // Function to draw all charts
 function drawCharts() {
     // PLOT: Movies watched per day of the week
-    fetch('/assets/docs/user_days.json')
+    fetch('/letterboxd-wrapped/assets/docs/user_days.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load user_days.json');
             return response.json();
@@ -27,7 +27,7 @@ function drawCharts() {
     
         
     // PLOT: Top Releases of the Year
-    fetch('/assets/docs/user_topReleases.json')
+    fetch('/letterboxd-wrapped/assets/docs/user_topReleases.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load user_topReleases.json');
             return response.json();
@@ -48,7 +48,7 @@ function drawCharts() {
     
         
     // PLOT: Display stats
-    fetch('/assets/docs/display_stats.json')
+    fetch('/letterboxd-wrapped/assets/docs/display_stats.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load display_stats.json');
             return response.json();
@@ -69,7 +69,7 @@ function drawCharts() {
 
 
     // PLOT: Top Movies of the Year
-    fetch('/assets/docs/user_topAllMovies.json')
+    fetch('/letterboxd-wrapped/assets/docs/user_topAllMovies.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load user_topAllMovies.json');
             return response.json();
@@ -90,7 +90,7 @@ function drawCharts() {
 
     
     // PLOT: Ratings and movies watched per week
-    fetch('/assets/docs/user_weekly_data.json')
+    fetch('/letterboxd-wrapped/assets/docs/user_weekly_data.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load user_weekly_data.json');
             return response.json();
@@ -113,7 +113,7 @@ function drawCharts() {
 
 
     // PLOT: Most watched GENRES
-    fetch('/assets/docs/genresWatched_data.json')
+    fetch('/letterboxd-wrapped/assets/docs/genresWatched_data.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load genresWatched_data.json');
             return response.json();
@@ -134,7 +134,7 @@ function drawCharts() {
 
 
     // PLOT: Highest rated GENRES
-    fetch('/assets/docs/genresRated_data.json')
+    fetch('/letterboxd-wrapped/assets/docs/genresRated_data.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load genresRated_data.json');
             return response.json();
@@ -155,7 +155,7 @@ function drawCharts() {
 
 
     // PLOT: Most watched COUNTRIES
-    fetch('/assets/docs/countriesWatched_data.json')
+    fetch('/letterboxd-wrapped/assets/docs/countriesWatched_data.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load countriesWatched_data.json');
             return response.json();
@@ -176,7 +176,7 @@ function drawCharts() {
 
 
     // PLOT: Highest rated COUNTRIES
-    fetch('/assets/docs/countriesRated_data.json')
+    fetch('/letterboxd-wrapped/assets/docs/countriesRated_data.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load countriesRated_data.json');
             return response.json();
@@ -197,7 +197,7 @@ function drawCharts() {
 
 
     // PLOT: Most watched LANGUAGES
-    fetch('/assets/docs/languagesWatched_data.json')
+    fetch('/letterboxd-wrapped/assets/docs/languagesWatched_data.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load languagesWatched_data.json');
             return response.json();
@@ -218,7 +218,7 @@ function drawCharts() {
 
 
     // PLOT: Highest rated LANGUAGES
-    fetch('/assets/docs/languagesRated_data.json')
+    fetch('/letterboxd-wrapped/assets/docs/languagesRated_data.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load languagesRated_data.json');
             return response.json();
@@ -239,7 +239,7 @@ function drawCharts() {
 
 
     // PLOT: Most watched ACTORS
-    fetch('/assets/docs/actors_watched.json')
+    fetch('/letterboxd-wrapped/assets/docs/actors_watched.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load actors_watched.json');
             return response.json();
@@ -260,7 +260,7 @@ function drawCharts() {
 
 
     // PLOT: Highest rated ACTORS
-    fetch('/assets/docs/actors_rated.json')
+    fetch('/letterboxd-wrapped/assets/docs/actors_rated.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load actors_rated.json');
             return response.json();
@@ -281,7 +281,7 @@ function drawCharts() {
 
 
     // PLOT: Most watched DIRECTORS
-    fetch('/assets/docs/directors_watched.json')
+    fetch('/letterboxd-wrapped/assets/docs/directors_watched.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load directors_watched.json');
             return response.json();
@@ -302,7 +302,7 @@ function drawCharts() {
 
 
     // PLOT: Highest rated DIRECTORS
-    fetch('/assets/docs/directors_rated.json')
+    fetch('/letterboxd-wrapped/assets/docs/directors_rated.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load directors_rated.json');
             return response.json();
@@ -323,7 +323,7 @@ function drawCharts() {
 
 
     // PLOT: Films per rating STAR
-    fetch('/assets/docs/ratings_data.json')
+    fetch('/letterboxd-wrapped/assets/docs/ratings_data.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load ratings_data.json');
             return response.json();
@@ -344,7 +344,7 @@ function drawCharts() {
     
     
     // PLOT: proportion of RELEASES watched
-    fetch('/assets/docs/releasesProportion.json')
+    fetch('/letterboxd-wrapped/assets/docs/releasesProportion.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load releasesProportion.json');
             return response.json();
@@ -365,7 +365,7 @@ function drawCharts() {
 
 
     // PLOT: biggest POSITIVE difference
-    fetch('/assets/docs/positive_diff.json')
+    fetch('/letterboxd-wrapped/assets/docs/positive_diff.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load positive_diff.json');
             return response.json();
@@ -386,7 +386,7 @@ function drawCharts() {
     
     
     // PLOT: Biggest NEGATIVE difference
-    fetch('/assets/docs/negative_diff.json')
+    fetch('/letterboxd-wrapped/assets/docs/negative_diff.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load negative_diff.json');
             return response.json();
@@ -407,7 +407,7 @@ function drawCharts() {
     
     
     // PLOT: High and Low movies
-    fetch('/assets/docs/high_low_data.json')
+    fetch('/letterboxd-wrapped/assets/docs/high_low_data.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load high_low_data.json');
             return response.json();
@@ -428,7 +428,7 @@ function drawCharts() {
     
     
     // PLOT: Best Picture Winners
-    fetch('/assets/docs/best_pic_winners.json')
+    fetch('/letterboxd-wrapped/assets/docs/best_pic_winners.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load best_pic_winners.json');
             return response.json();
@@ -449,7 +449,7 @@ function drawCharts() {
     
     
     // PLOT: Top 100 Argentina
-    fetch('/assets/docs/top100_Arg.json')
+    fetch('/letterboxd-wrapped/assets/docs/top100_Arg.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load top100_Arg.json');
             return response.json();
@@ -470,7 +470,7 @@ function drawCharts() {
     
     
     // PLOT: Pronto Pinarello Movies
-    fetch('/assets/docs/prontoMovies.json')
+    fetch('/letterboxd-wrapped/assets/docs/prontoMovies.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load prontoMovies.json');
             return response.json();
@@ -491,7 +491,7 @@ function drawCharts() {
     
     
     // PLOT: Top Releases Resumitos
-    fetch('/assets/docs/top_releases_resumitos.json')
+    fetch('/letterboxd-wrapped/assets/docs/top_releases_resumitos.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load top_releases_resumitos.json');
             return response.json();
@@ -512,7 +512,7 @@ function drawCharts() {
     
 
     // PLOT: Top Movies Resumitos
-    fetch('/assets/docs/top_movies_resumitos.json')
+    fetch('/letterboxd-wrapped/assets/docs/top_movies_resumitos.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load top_movies_resumitos.json');
             return response.json();
@@ -533,7 +533,7 @@ function drawCharts() {
 
     
     // PLOT: Top Watched on Stream Resumitos
-    fetch('/assets/docs/top_stream_resumitos.json')
+    fetch('/letterboxd-wrapped/assets/docs/top_stream_resumitos.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load top_stream_resumitos.json');
             return response.json();
@@ -554,7 +554,7 @@ function drawCharts() {
 
     
     // PLOT: graphics made with user_ratings data
-    fetch('/assets/docs/user_ratings.json')
+    fetch('/letterboxd-wrapped/assets/docs/user_ratings.json')
     .then(response => {
         if (!response.ok) throw new Error('Failed to load user_ratings.json');
         return response.json();
@@ -1948,6 +1948,9 @@ function directorsRated(user_data) {
 let ratingStarsChart = null; // Global variable to store the chart instance
 function ratingStars(user_data) {
     console.log('ratingStars called with data:', user_data); // Debugging statement
+
+    // Mobile detection
+    const isMobile = /Mobi|Android/i.test(navigator.userAgent);
     const userInput = document.getElementById('userInput'); // Get the user input
 
     if (!userInput) {
@@ -1974,11 +1977,6 @@ function ratingStars(user_data) {
     // Create a new chart instance
     const ctx = document.getElementById("ratingStars_id").getContext('2d');
 
-    // Create gradient
-    const gradient = ctx.createLinearGradient(0, 0, ctx.canvas.width, 0); // Horizontal gradient
-    gradient.addColorStop(0, '#00e054'); // Start color
-    gradient.addColorStop(1, '#40bcf4'); // End color
-
     ratingStarsChart = new Chart(
         document.getElementById("ratingStars_id"),
         {
@@ -1988,8 +1986,8 @@ function ratingStars(user_data) {
                 datasets: [
                     {
                         data: filteredData.map(row => row.rating_count),
-                        backgroundColor: gradient, // Apply gradient
-                        hoverBackgroundColor: '#DC7283',
+                        backgroundColor: '#131313', // Set bar color to #131313
+                        hoverBackgroundColor: '#DC7283', // Hover color
                         borderWidth: 0
                     }
                 ]
