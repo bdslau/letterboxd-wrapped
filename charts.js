@@ -2025,10 +2025,11 @@ function ratingStars(user_data) {
                 },
                 layout: { padding: 20 },
                 onClick: function(evt, activeElements) {
-                    // If mobile, do not trigger URL opening
+                    // Prevent URL opening on mobile devices
                     if (isMobile) {
                         console.log('Click detected on mobile. URL will not open.');
-                        return; // Prevent URL opening
+                        evt.preventDefault(); // Prevent default action for mobile
+                        return; // Stop further processing
                     }
 
                     // Proceed only if click occurs on a valid element
@@ -2051,6 +2052,7 @@ function ratingStars(user_data) {
         }
     );
 }
+
 
 
 
