@@ -6,7 +6,7 @@ google.charts.setOnLoadCallback(drawCharts); // Ensure all charts are drawn afte
 // Function to draw all charts
 function drawCharts() {
     // PLOT: Best Picture Winners
-    fetch('/assets/docs/best_pic_winners.json')
+    fetch('/letterboxd-wrapped/assets/docs/best_pic_winners.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load best_pic_winners.json');
             return response.json();
@@ -27,7 +27,7 @@ function drawCharts() {
     
     
     // PLOT: Top 100 Argentina
-    fetch('/assets/docs/top100_Arg.json')
+    fetch('/letterboxd-wrapped/assets/docs/top100_Arg.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load top100_Arg.json');
             return response.json();
@@ -48,7 +48,7 @@ function drawCharts() {
     
     
     // PLOT: Top Releases Resumitos
-    fetch('/assets/docs/top_releases_resumitos.json')
+    fetch('/letterboxd-wrapped/assets/docs/top_releases_resumitos.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load top_releases_resumitos.json');
             return response.json();
@@ -69,7 +69,7 @@ function drawCharts() {
     
 
     // PLOT: Top Movies Resumitos
-    fetch('/assets/docs/top_movies_resumitos.json')
+    fetch('/letterboxd-wrapped/assets/docs/top_movies_resumitos.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load top_movies_resumitos.json');
             return response.json();
@@ -90,7 +90,7 @@ function drawCharts() {
 
     
     // PLOT: Top Watched on Stream Resumitos
-    fetch('/assets/docs/top_stream_resumitos.json')
+    fetch('/letterboxd-wrapped/assets/docs/top_stream_resumitos.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load top_stream_resumitos.json');
             return response.json();
@@ -111,7 +111,7 @@ function drawCharts() {
 
     
     // PLOT: graphics made with user_ratings data
-    fetch('/assets/docs/user_ratings.json')
+    fetch('/letterboxd-wrapped/assets/docs/user_ratings.json')
     .then(response => {
         if (!response.ok) throw new Error('Failed to load user_ratings.json');
         return response.json();
