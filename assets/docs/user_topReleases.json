@@ -1,0 +1,2690 @@
+[
+    {
+        "user": "tucodelentejas",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-230-0-345-crop.jpg?v=1aa778d2c6",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/deadpool-wolverine/"
+    },
+    {
+        "user": "d4ir4",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/7/1/1/9/6/1071196-the-wild-robot-0-230-0-345-crop.jpg?v=a70bdbaea0",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/the-wild-robot/"
+    },
+    {
+        "user": "rsberrocal",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/5/8/4/4/2/1158442-desert-of-namibia-0-230-0-345-crop.jpg?v=54e7c9b161",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/desert-of-namibia/"
+    },
+    {
+        "user": "algocinefila",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/9/3/0/0/2/1193002-encontrando-a-jessica-0-230-0-345-crop.jpg?v=de5ae68d26",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/encontrando-a-jessica/"
+    },
+    {
+        "user": "chicosingorra",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/challengers/"
+    },
+    {
+        "user": "emibarrilete",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/2/6/9/9/2/1/1269921-an-evening-with-dua-lipa-0-230-0-345-crop.jpg?v=aad2d46a77",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/an-evening-with-dua-lipa/"
+    },
+    {
+        "user": "pitusacognitiva",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/5/0/4/5/9/850459-alien-romulus-0-230-0-345-crop.jpg?v=acabb7fd83",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/alien-romulus/"
+    },
+    {
+        "user": "cielitoalz",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/3/9/8/8/0/0/398800-the-zone-of-interest-0-230-0-345-crop.jpg?v=0514f658e1",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/the-zone-of-interest/"
+    },
+    {
+        "user": "pitusacognitiva",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/challengers/"
+    },
+    {
+        "user": "clairacurtis",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/1/0/0/5/9/1110059-longlegs-0-230-0-345-crop.jpg?v=9d77241a8c",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/longlegs/"
+    },
+    {
+        "user": "nofloba",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/4/7/0/2/5/1047025-the-blue-star-0-230-0-345-crop.jpg?v=d8e59db832",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/the-blue-star-2023/"
+    },
+    {
+        "user": "clairacurtis",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/challengers/"
+    },
+    {
+        "user": "tomas95bv",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/3/9/4/5/1/739451-flow-2024-0-230-0-345-crop.jpg?v=32f49339d9",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/flow-2024/"
+    },
+    {
+        "user": "rsberrocal",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-230-0-345-crop.jpg?v=9c632c1bbe",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/anora/"
+    },
+    {
+        "user": "afroluffy",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-230-0-345-crop.jpg?v=9c632c1bbe",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/anora/"
+    },
+    {
+        "user": "tomas95bv",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/2/6/9/9/2/1/1269921-an-evening-with-dua-lipa-0-230-0-345-crop.jpg?v=aad2d46a77",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/an-evening-with-dua-lipa/"
+    },
+    {
+        "user": "cinemistica",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/3/1/1/6/4/931164-trap-0-230-0-345-crop.jpg?v=23298a998e",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/trap-2024/"
+    },
+    {
+        "user": "emibarrilete",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/1/8/4/2/7/818427-maria-0-230-0-345-crop.jpg?v=2338aa3d3d",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/maria-2023-3/"
+    },
+    {
+        "user": "clairacurtis",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/7/5/1/7/5/1175175-hayao-miyazaki-and-the-heron-0-230-0-345-crop.jpg?v=30888ae574",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/hayao-miyazaki-and-the-heron/"
+    },
+    {
+        "user": "nofloba",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/5/8/2/7/8/1158278-planetwalker-0-230-0-345-crop.jpg?v=241b624ce7",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/planetwalker/"
+    },
+    {
+        "user": "juliborg_",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-230-0-345-crop.jpg?v=cc533700f8",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/dune-part-two/"
+    },
+    {
+        "user": "afroluffy",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/challengers/"
+    },
+    {
+        "user": "turco",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/2/7/3/959273-gaga-chromatica-ball-0-230-0-345-crop.jpg?v=73dec5aebe",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/gaga-chromatica-ball-2024/"
+    },
+    {
+        "user": "clairacurtis",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/4/1/9/5/7/1041957-sing-sing-0-230-0-345-crop.jpg?v=97487da766",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/sing-sing-2023/"
+    },
+    {
+        "user": "algocinefila",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/0/4/1/5/5/704155-the-outrun-0-230-0-345-crop.jpg?v=5727e4a6cc",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/the-outrun/"
+    },
+    {
+        "user": "porza9",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/5/3/6/0/7/1153607-artificial-disintelligence-0-230-0-345-crop.jpg?v=e3754500fb",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/artificial-disintelligence/"
+    },
+    {
+        "user": "juanwagner",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/3/6/1098336-despues-de-un-buen-dia-0-230-0-345-crop.jpg?v=2a36617d5e",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/despues-de-un-buen-dia/"
+    },
+    {
+        "user": "verenjena22",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/4/8/5/0/6/448506-despicable-me-4-0-230-0-345-crop.jpg?v=3391582e43",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/despicable-me-4/"
+    },
+    {
+        "user": "dododok",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/0/0/8/5/8/800858-joker-folie-a-deux-0-230-0-345-crop.jpg?v=a4bf0389e2",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/joker-folie-a-deux/"
+    },
+    {
+        "user": "rsberrocal",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "rsberrocal",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/7/4/3/0/7/1074307-182-beyond-youthful-days-0-230-0-345-crop.jpg?v=f6c0936797",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/182-beyond-youthful-days/"
+    },
+    {
+        "user": "clairacurtis",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/3/4/8/3/9/934839-janet-planet-0-230-0-345-crop.jpg?v=68d114d081",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/janet-planet/"
+    },
+    {
+        "user": "turco",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/6/3/8/4/7/1163847-madonna-the-celebration-tour-in-rio-0-230-0-345-crop.jpg?v=6973e0e0ae",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/madonna-the-celebration-tour-in-rio/"
+    },
+    {
+        "user": "juanitagroisman",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/7/7/2/5/3/877253-conclave-0-230-0-345-crop.jpg?v=f9cbf50dec",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/conclave/"
+    },
+    {
+        "user": "crisamr91",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/9/4/3/9/2/794392-i-m-not-everything-i-want-to-be-0-230-0-345-crop.jpg?v=c55703d638",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/im-not-everything-i-want-to-be/"
+    },
+    {
+        "user": "d4ir4",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/7/0/4/7/2/970472-music-by-john-williams-0-230-0-345-crop.jpg?v=4b01ea03ff",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/music-by-john-williams/"
+    },
+    {
+        "user": "turco",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/2/0/1098320-will-harper-0-230-0-345-crop.jpg?v=5b968ef637",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/will-harper/"
+    },
+    {
+        "user": "rsberrocal",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/1/4/4/7/0/1114470-gloria--0-230-0-345-crop.jpg?v=c2352b7be4",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/gloria-2024/"
+    },
+    {
+        "user": "crisamr91",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/5/3/0/1/1/853011-love-lies-bleeding-0-230-0-345-crop.jpg?v=06376e593e",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/love-lies-bleeding-2024/"
+    },
+    {
+        "user": "jaragon23",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-230-0-345-crop.jpg?v=9c632c1bbe",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/anora/"
+    },
+    {
+        "user": "algocinefila",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/2/8/2/6/1/928261-kinds-of-kindness-0-230-0-345-crop.jpg?v=719ff64e2b",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/kinds-of-kindness/"
+    },
+    {
+        "user": "exoghost99",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/3/3/7/0/3/6/337036-wicked-2024-0-230-0-345-crop.jpg?v=c519c37ff7",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/wicked-2024/"
+    },
+    {
+        "user": "pitusacognitiva",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/7/6/7/7/3/776773-alemania-0-230-0-345-crop.jpg?v=7a91499b77",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/alemania-2023/"
+    },
+    {
+        "user": "jaragon23",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-230-0-345-crop.jpg?v=cc533700f8",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/dune-part-two/"
+    },
+    {
+        "user": "joaqlandi",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/7/1/1/9/6/1071196-the-wild-robot-0-230-0-345-crop.jpg?v=a70bdbaea0",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/the-wild-robot/"
+    },
+    {
+        "user": "valentin23",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/3/1/1/6/4/931164-trap-0-230-0-345-crop.jpg?v=23298a998e",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/trap-2024/"
+    },
+    {
+        "user": "stk5",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-230-0-345-crop.jpg?v=9c632c1bbe",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/anora/"
+    },
+    {
+        "user": "valentin23",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/7/9/7/8/3/979783-the-watchers-0-230-0-345-crop.jpg?v=efaa9f479d",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/the-watchers-2024/"
+    },
+    {
+        "user": "jaragon23",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/challengers/"
+    },
+    {
+        "user": "emibarrilete",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/3/6/1098336-despues-de-un-buen-dia-0-230-0-345-crop.jpg?v=2a36617d5e",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/despues-de-un-buen-dia/"
+    },
+    {
+        "user": "juanwagner",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/2/3/6/4/8/823648-beetlejuice-beetlejuice-0-230-0-345-crop.jpg?v=2759be608e",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/beetlejuice-beetlejuice/"
+    },
+    {
+        "user": "afroluffy",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "lucasvar",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-230-0-345-crop.jpg?v=9c632c1bbe",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/anora/"
+    },
+    {
+        "user": "tomas95bv",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-230-0-345-crop.jpg?v=9c632c1bbe",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/anora/"
+    },
+    {
+        "user": "turco",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/1/0/6/8/3/1010683-saturday-night-0-230-0-345-crop.jpg?v=f4857efc36",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/saturday-night-2024/"
+    },
+    {
+        "user": "crisamr91",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/2/3/3/3/3/7/1233337-casa-diversa-0-230-0-345-crop.jpg?v=1fb721dd37",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/casa-diversa/"
+    },
+    {
+        "user": "crisamr91",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/6/5/0/1/8/1165018-that-split-up-place-0-230-0-345-crop.jpg?v=3251f618a9",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/that-split-up-place/"
+    },
+    {
+        "user": "yeyito",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/2/1/5/7/8/921578-inside-out-2-0-230-0-345-crop.jpg?v=efa25e5cca",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/inside-out-2-2024/"
+    },
+    {
+        "user": "franco_c",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/2/0/9/3/5/3/1209353-a-while-at-the-border-0-230-0-345-crop.jpg?v=46b4cd86e8",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/a-while-at-the-border/"
+    },
+    {
+        "user": "rsberrocal",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/2/0/0/8/7/9/1200879-la-storia-del-frank-e-della-nina-0-230-0-345-crop.jpg?v=1f3ad9625c",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/the-story-of-frank-and-nina/"
+    },
+    {
+        "user": "car_lita",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/7/3/1/0/8/973108-winnie-the-pooh-blood-and-honey-2-0-230-0-345-crop.jpg?v=4af703e9f2",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/winnie-the-pooh-blood-and-honey-2/"
+    },
+    {
+        "user": "polialvarez",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-230-0-345-crop.jpg?v=cc533700f8",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/dune-part-two/"
+    },
+    {
+        "user": "solbaudry",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/2/1/5/7/8/921578-inside-out-2-0-230-0-345-crop.jpg?v=efa25e5cca",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/inside-out-2-2024/"
+    },
+    {
+        "user": "d4ir4",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/2/7/4/3/7/1/1274371-765874-unification-0-230-0-345-crop.jpg?v=a641f51fd3",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/765874-unification/"
+    },
+    {
+        "user": "julietp",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/8/6/9/7/8/486978-gladiator-ii-0-230-0-345-crop.jpg?v=0fb2edf525",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/gladiator-ii/"
+    },
+    {
+        "user": "franco_c",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/3/9/8/8/0/0/398800-the-zone-of-interest-0-230-0-345-crop.jpg?v=0514f658e1",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/the-zone-of-interest/"
+    },
+    {
+        "user": "nofloba",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/7/4/8/2/6/1174826-rhino-man-0-230-0-345-crop.jpg?v=238d821545",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/rhino-man/"
+    },
+    {
+        "user": "cinemistica",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/7/1/1/9/6/1071196-the-wild-robot-0-230-0-345-crop.jpg?v=a70bdbaea0",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/the-wild-robot/"
+    },
+    {
+        "user": "solbaudry",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/0/4/5/3/1/1004531-speak-no-evil-0-230-0-345-crop.jpg?v=2c01632a58",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/speak-no-evil-2024/"
+    },
+    {
+        "user": "juanitagroisman",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/6/3/4/6/3/1163463-illusions-for-sale-the-rise-and-fall-of-generation-zoe-0-230-0-345-crop.jpg?v=dd165ce859",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/illusions-for-sale-the-rise-and-fall-of-generation-zoe/"
+    },
+    {
+        "user": "emibarrilete",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/3/3/7/0/3/6/337036-wicked-2024-0-230-0-345-crop.jpg?v=c519c37ff7",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/wicked-2024/"
+    },
+    {
+        "user": "meliolivera97",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/3/6/1098336-despues-de-un-buen-dia-0-230-0-345-crop.jpg?v=2a36617d5e",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/despues-de-un-buen-dia/"
+    },
+    {
+        "user": "lucasiflores",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/3/6/1098336-despues-de-un-buen-dia-0-230-0-345-crop.jpg?v=2a36617d5e",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/despues-de-un-buen-dia/"
+    },
+    {
+        "user": "pitusacognitiva",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-230-0-345-crop.jpg?v=cc533700f8",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/dune-part-two/"
+    },
+    {
+        "user": "afroluffy",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/3/9/8/8/0/0/398800-the-zone-of-interest-0-230-0-345-crop.jpg?v=0514f658e1",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/the-zone-of-interest/"
+    },
+    {
+        "user": "nofloba",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/9/4/2/8/8/1094288-my-want-of-you-partakes-of-me-0-230-0-345-crop.jpg?v=37a0e5fb13",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/my-want-of-you-partakes-of-me/"
+    },
+    {
+        "user": "clairacurtis",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-230-0-345-crop.jpg?v=9c632c1bbe",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/anora/"
+    },
+    {
+        "user": "lucasvar",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-230-0-345-crop.jpg?v=cc533700f8",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/dune-part-two/"
+    },
+    {
+        "user": "juanwagner",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "cinemistica",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/2/7/6/6/9/1127669-look-back-0-230-0-345-crop.jpg?v=6a67407577",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/look-back-2024/"
+    },
+    {
+        "user": "sofialamorte",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/2/3/6/4/8/823648-beetlejuice-beetlejuice-0-230-0-345-crop.jpg?v=2759be608e",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/beetlejuice-beetlejuice/"
+    },
+    {
+        "user": "cinemistica",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-230-0-345-crop.jpg?v=9c632c1bbe",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/anora/"
+    },
+    {
+        "user": "gerardeboedo",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/7/9/4/4/8/879448-moon-garden-0-230-0-345-crop.jpg?v=02dc769846",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/moon-garden/"
+    },
+    {
+        "user": "brenmenendez",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/1/1/9/6/6/911966-haikyu-the-dumpster-battle-0-230-0-345-crop.jpg?v=eb94163e7b",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/haikyu-the-dumpster-battle/"
+    },
+    {
+        "user": "tomas95bv",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/7/1/1/9/6/1071196-the-wild-robot-0-230-0-345-crop.jpg?v=a70bdbaea0",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/the-wild-robot/"
+    },
+    {
+        "user": "ccamilacarro",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/challengers/"
+    },
+    {
+        "user": "juli_neme",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/3/3/7/0/3/6/337036-wicked-2024-0-230-0-345-crop.jpg?v=c519c37ff7",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/wicked-2024/"
+    },
+    {
+        "user": "donjorge86",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/3/6/1098336-despues-de-un-buen-dia-0-230-0-345-crop.jpg?v=2a36617d5e",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/despues-de-un-buen-dia/"
+    },
+    {
+        "user": "tomas95bv",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/7/7/2/5/3/877253-conclave-0-230-0-345-crop.jpg?v=f9cbf50dec",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/conclave/"
+    },
+    {
+        "user": "turco",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/0/9/3/3/950933-a-mothers-embrace-0-230-0-345-crop.jpg?v=e56e095b48",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/a-mothers-embrace/"
+    },
+    {
+        "user": "crisamr91",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/6/2/0/4/996204-kill-the-jockey-0-230-0-345-crop.jpg?v=3bd4a58ff5",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/kill-the-jockey/"
+    },
+    {
+        "user": "juanitagroisman",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "algocinefila",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/3/6/1098336-despues-de-un-buen-dia-0-230-0-345-crop.jpg?v=2a36617d5e",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/despues-de-un-buen-dia/"
+    },
+    {
+        "user": "brenmenendez",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/2/4/8/8/0/1/1248801-the-menendez-brothers-0-230-0-345-crop.jpg?v=913aaefbfd",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/the-menendez-brothers/"
+    },
+    {
+        "user": "d4ir4",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/7/7/2/5/3/877253-conclave-0-230-0-345-crop.jpg?v=f9cbf50dec",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/conclave/"
+    },
+    {
+        "user": "stk5",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/7/2/2/3/0/772230-i-saw-the-tv-glow-0-230-0-345-crop.jpg?v=c5e712bb90",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/i-saw-the-tv-glow/"
+    },
+    {
+        "user": "jimenalucero",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/7/6/7/7/3/776773-alemania-0-230-0-345-crop.jpg?v=7a91499b77",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/alemania-2023/"
+    },
+    {
+        "user": "jaragon23",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/4/1/9/5/7/1041957-sing-sing-0-230-0-345-crop.jpg?v=97487da766",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/sing-sing-2023/"
+    },
+    {
+        "user": "lumbago90",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/7/1/1/9/6/1071196-the-wild-robot-0-230-0-345-crop.jpg?v=a70bdbaea0",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/the-wild-robot/"
+    },
+    {
+        "user": "cinemistica",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/7/7/2/2/997722-juror-2-0-230-0-345-crop.jpg?v=14601fa694",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/juror-2/"
+    },
+    {
+        "user": "sofialamorte",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-230-0-345-crop.jpg?v=1aa778d2c6",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/deadpool-wolverine/"
+    },
+    {
+        "user": "lafloromero",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "nofloba",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/9/9/978599-nai-nai-wai-po-0-230-0-345-crop.jpg?v=5e0e1eba21",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/nai-nai-wai-po/"
+    },
+    {
+        "user": "crisamr91",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/8/8/7/5/1/488751-monkey-man-0-230-0-345-crop.jpg?v=0c25a18552",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/monkey-man/"
+    },
+    {
+        "user": "porza9",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/2/9/1/2/3/0/1291230-2024-ano-de-la-defensa-de-la-muerte-la-esclavitud-0-230-0-345-crop.jpg?v=f235a2fed6",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/2024-ano-de-la-defensa-de-la-muerte-la-esclavitud/"
+    },
+    {
+        "user": "chicosingorra",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/2/5/9/2/6/1025926-orion-and-the-dark-0-230-0-345-crop.jpg?v=f33d4b7a5a",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/orion-and-the-dark/"
+    },
+    {
+        "user": "afroluffy",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/2/6/3/3/8/9/1263389-one-piece-fan-letter-2024-0-230-0-345-crop.jpg?v=f96f578b13",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/one-piece-fan-letter/"
+    },
+    {
+        "user": "megustalalluvia",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/3/6/1098336-despues-de-un-buen-dia-0-230-0-345-crop.jpg?v=2a36617d5e",
+        "rating": "★★★★★",
+        "film_url": "https://letterboxd.com/film/despues-de-un-buen-dia/"
+    },
+    {
+        "user": "disnick123",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/challengers/"
+    },
+    {
+        "user": "mrpereza",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-230-0-345-crop.jpg?v=9c632c1bbe",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/anora/"
+    },
+    {
+        "user": "pitusacognitiva",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-230-0-345-crop.jpg?v=1aa778d2c6",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/deadpool-wolverine/"
+    },
+    {
+        "user": "valentin23",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/7/7/2/2/997722-juror-2-0-230-0-345-crop.jpg?v=14601fa694",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/juror-2/"
+    },
+    {
+        "user": "davidehrlich",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/7/2/2/3/0/772230-i-saw-the-tv-glow-0-230-0-345-crop.jpg?v=c5e712bb90",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/i-saw-the-tv-glow/"
+    },
+    {
+        "user": "juanmastrott",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/3/1/3/9/993139-dahomey-0-230-0-345-crop.jpg?v=1f91d7f3a8",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/dahomey/"
+    },
+    {
+        "user": "gabinotti",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/5/3/5/6/9/1153569-la-presentacion-0-230-0-345-crop.jpg?v=5f802667ad",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-introduction/"
+    },
+    {
+        "user": "jaragon23",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/5/4/5/9/1/1054591-the-remarkable-life-of-ibelin-0-230-0-345-crop.jpg?v=f5d628ae44",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-remarkable-life-of-ibelin/"
+    },
+    {
+        "user": "lucasvar",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/1/0/0/5/9/1110059-longlegs-0-230-0-345-crop.jpg?v=9d77241a8c",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/longlegs/"
+    },
+    {
+        "user": "afroluffy",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/0/5/2/2/1/705221-furiosa-a-mad-max-saga-0-230-0-345-crop.jpg?v=3c0e322842",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/furiosa-a-mad-max-saga/"
+    },
+    {
+        "user": "gerardeboedo",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "tomas95bv",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/1/0/0/5/9/1110059-longlegs-0-230-0-345-crop.jpg?v=9d77241a8c",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/longlegs/"
+    },
+    {
+        "user": "juanwagner",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/7/7/2/2/997722-juror-2-0-230-0-345-crop.jpg?v=14601fa694",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/juror-2/"
+    },
+    {
+        "user": "leandrocoria",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/2/5/3/3/1/1025331-heretic-2024-0-230-0-345-crop.jpg?v=c79c5c8121",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/heretic-2024/"
+    },
+    {
+        "user": "davidehrlich",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/1/5/8/7/4/1115874-no-other-land-0-230-0-345-crop.jpg?v=7a96e00fce",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/no-other-land/"
+    },
+    {
+        "user": "polialvarez",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/4/6/5/6/834656-civil-war-0-230-0-345-crop.jpg?v=aefec33dbe",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/civil-war-2024/"
+    },
+    {
+        "user": "mrpereza",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "cielitoalz",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/challengers/"
+    },
+    {
+        "user": "stk5",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/3/1/1/6/4/931164-trap-0-230-0-345-crop.jpg?v=23298a998e",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/trap-2024/"
+    },
+    {
+        "user": "cielitoalz",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/5/3/5/6/2/1153562-el-cambio-de-guardia-0-230-0-345-crop.jpg?v=f99a7496f3",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/guard-mount/"
+    },
+    {
+        "user": "pitusacognitiva",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/5/3/0/1/1/853011-love-lies-bleeding-0-230-0-345-crop.jpg?v=06376e593e",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/love-lies-bleeding-2024/"
+    },
+    {
+        "user": "cristianponce",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/4/4/5/4/954454-the-major-tones-0-230-0-345-crop.jpg?v=4c38c49407",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-major-tones/"
+    },
+    {
+        "user": "juanitagroisman",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-230-0-345-crop.jpg?v=cc533700f8",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/dune-part-two/"
+    },
+    {
+        "user": "juanwagner",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/3/9/8/8/0/0/398800-the-zone-of-interest-0-230-0-345-crop.jpg?v=0514f658e1",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-zone-of-interest/"
+    },
+    {
+        "user": "svafnerd",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/0/5/2/2/1/705221-furiosa-a-mad-max-saga-0-230-0-345-crop.jpg?v=3c0e322842",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/furiosa-a-mad-max-saga/"
+    },
+    {
+        "user": "stk5",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/0/5/2/2/1/705221-furiosa-a-mad-max-saga-0-230-0-345-crop.jpg?v=3c0e322842",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/furiosa-a-mad-max-saga/"
+    },
+    {
+        "user": "davidehrlich",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/6/1/8/0/6/1161806-the-seed-of-the-sacred-fig-0-230-0-345-crop.jpg?v=93abc60195",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-seed-of-the-sacred-fig/"
+    },
+    {
+        "user": "d4ir4",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-230-0-345-crop.jpg?v=cc533700f8",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/dune-part-two/"
+    },
+    {
+        "user": "yeyito",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "davidehrlich",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "cielitoalz",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-230-0-345-crop.jpg?v=cc533700f8",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/dune-part-two/"
+    },
+    {
+        "user": "nofloba",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/1/4/0/2/3/1114023-the-in-between-2024-0-230-0-345-crop.jpg?v=da28a57735",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-in-between-2024/"
+    },
+    {
+        "user": "elbachee",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/2/7/6/6/9/1127669-look-back-0-230-0-345-crop.jpg?v=6a67407577",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/look-back-2024/"
+    },
+    {
+        "user": "valentin23",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-230-0-345-crop.jpg?v=9c632c1bbe",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/anora/"
+    },
+    {
+        "user": "megustalalluvia",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/7/7/2/2/997722-juror-2-0-230-0-345-crop.jpg?v=14601fa694",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/juror-2/"
+    },
+    {
+        "user": "miloteca",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-230-0-345-crop.jpg?v=cc533700f8",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/dune-part-two/"
+    },
+    {
+        "user": "donjorge86",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-230-0-345-crop.jpg?v=9c632c1bbe",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/anora/"
+    },
+    {
+        "user": "algocinefila",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/challengers/"
+    },
+    {
+        "user": "valentin23",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/0/2/4/7/1/902471-laroy-texas-0-230-0-345-crop.jpg?v=7e326b9e39",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/laroy-texas/"
+    },
+    {
+        "user": "donjorge86",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/4/6/5/6/834656-civil-war-0-230-0-345-crop.jpg?v=aefec33dbe",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/civil-war-2024/"
+    },
+    {
+        "user": "lafloromero",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-230-0-345-crop.jpg?v=9c632c1bbe",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/anora/"
+    },
+    {
+        "user": "svafnerd",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/2/1/5/7/8/921578-inside-out-2-0-230-0-345-crop.jpg?v=efa25e5cca",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/inside-out-2-2024/"
+    },
+    {
+        "user": "algocinefila",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/7/7/2/2/997722-juror-2-0-230-0-345-crop.jpg?v=14601fa694",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/juror-2/"
+    },
+    {
+        "user": "alfonsomendoza",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/3/2/7/3/9/932739-terrifier-3-0-230-0-345-crop.jpg?v=6c46b036d1",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/terrifier-3/"
+    },
+    {
+        "user": "jaragon23",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/3/8/2/1/8/1038218-the-shadow-strays-0-230-0-345-crop.jpg?v=b89f763738",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-shadow-strays/"
+    },
+    {
+        "user": "lucasiflores",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/2/8/7/7/9/5/1287795-once-in-a-lifetime-argentina-0-230-0-345-crop.jpg?v=4471360cf5",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/once-in-a-lifetime-argentina/"
+    },
+    {
+        "user": "juanwagner",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/6/2/0/4/996204-kill-the-jockey-0-230-0-345-crop.jpg?v=3bd4a58ff5",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/kill-the-jockey/"
+    },
+    {
+        "user": "gerardeboedo",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/9/0/1/0/5/890105-humanist-vampire-seeking-consenting-suicidal-person-0-230-0-345-crop.jpg?v=17a4ea90a4",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/humanist-vampire-seeking-consenting-suicidal-person/"
+    },
+    {
+        "user": "disnick123",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/3/6/1098336-despues-de-un-buen-dia-0-230-0-345-crop.jpg?v=2a36617d5e",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/despues-de-un-buen-dia/"
+    },
+    {
+        "user": "solbaudry",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/2/8/2/6/1/928261-kinds-of-kindness-0-230-0-345-crop.jpg?v=719ff64e2b",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/kinds-of-kindness/"
+    },
+    {
+        "user": "lumbago90",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-230-0-345-crop.jpg?v=9c632c1bbe",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/anora/"
+    },
+    {
+        "user": "donjorge86",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/7/1/1/9/6/1071196-the-wild-robot-0-230-0-345-crop.jpg?v=a70bdbaea0",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-wild-robot/"
+    },
+    {
+        "user": "lxonxl",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/3/6/1098336-despues-de-un-buen-dia-0-230-0-345-crop.jpg?v=2a36617d5e",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/despues-de-un-buen-dia/"
+    },
+    {
+        "user": "cinemistica",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/challengers/"
+    },
+    {
+        "user": "rocanx",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/6/1/3/4/9/1061349-vampire-zombies-from-space-0-230-0-345-crop.jpg?v=005e60ad87",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/vampire-zombies-from-space/"
+    },
+    {
+        "user": "gerardeboedo",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/9/5/0/0/7/895007-lisa-frankenstein-0-230-0-345-crop.jpg?v=55fbeb4cde",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/lisa-frankenstein/"
+    },
+    {
+        "user": "gabinotti",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/4/4/4/4/5/944445-the-last-stop-in-yuma-county-0-230-0-345-crop.jpg?v=9b1c118522",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-last-stop-in-yuma-county/"
+    },
+    {
+        "user": "juanmastrott",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/challengers/"
+    },
+    {
+        "user": "svafnerd",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/5/4/1/1/5/754115-the-lord-of-the-rings-the-war-of-the-rohirrim-0-230-0-345-crop.jpg?v=21bf081230",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-lord-of-the-rings-the-war-of-the-rohirrim/"
+    },
+    {
+        "user": "gabinotti",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/3/1/1/6/4/931164-trap-0-230-0-345-crop.jpg?v=23298a998e",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/trap-2024/"
+    },
+    {
+        "user": "svafnerd",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/4/6/5/6/834656-civil-war-0-230-0-345-crop.jpg?v=aefec33dbe",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/civil-war-2024/"
+    },
+    {
+        "user": "miloteca",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/2/0/4/4/8/820448-the-beast-0-230-0-345-crop.jpg?v=82e61c5fee",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-beast-2023-1/"
+    },
+    {
+        "user": "turco",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/6/2/0/4/996204-kill-the-jockey-0-230-0-345-crop.jpg?v=3bd4a58ff5",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/kill-the-jockey/"
+    },
+    {
+        "user": "porza9",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/1/8/7/9/8/818798-red-rooms-0-230-0-345-crop.jpg?v=af37112bc2",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/red-rooms/"
+    },
+    {
+        "user": "brenmenendez",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/6/4/0/5/6/1164056-transmitzvah-0-230-0-345-crop.jpg?v=92c3312c22",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/transmitzvah/"
+    },
+    {
+        "user": "valentin23",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/1/8/7/9/8/818798-red-rooms-0-230-0-345-crop.jpg?v=af37112bc2",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/red-rooms/"
+    },
+    {
+        "user": "megustalalluvia",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/5/6/7/9/2/6/567926-am-i-ok--0-230-0-345-crop.jpg?v=463589be15",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/am-i-ok/"
+    },
+    {
+        "user": "polialvarez",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/challengers/"
+    },
+    {
+        "user": "rocanx",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "juanmastrott",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/5/3/5/6/2/1153562-el-cambio-de-guardia-0-230-0-345-crop.jpg?v=f99a7496f3",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/guard-mount/"
+    },
+    {
+        "user": "leandrocoria",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/6/2/6/1058626-the-last-repair-shop-0-230-0-345-crop.jpg?v=7aea3442a7",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-last-repair-shop/"
+    },
+    {
+        "user": "juanitagroisman",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/challengers/"
+    },
+    {
+        "user": "lucasvar",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/challengers/"
+    },
+    {
+        "user": "solbaudry",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-230-0-345-crop.jpg?v=1aa778d2c6",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/deadpool-wolverine/"
+    },
+    {
+        "user": "malei13",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/challengers/"
+    },
+    {
+        "user": "donjorge86",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/6/2/0/4/996204-kill-the-jockey-0-230-0-345-crop.jpg?v=3bd4a58ff5",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/kill-the-jockey/"
+    },
+    {
+        "user": "ivan2805",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "manutencio",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-230-0-345-crop.jpg?v=9c632c1bbe",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/anora/"
+    },
+    {
+        "user": "akasers0",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/0/1/2/3/3/801233-merry-christmas-0-230-0-345-crop.jpg?v=55df5e361a",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/merry-christmas-2024/"
+    },
+    {
+        "user": "juanmastrott",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-230-0-345-crop.jpg?v=cc533700f8",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/dune-part-two/"
+    },
+    {
+        "user": "davidehrlich",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/0/5/2/2/1/705221-furiosa-a-mad-max-saga-0-230-0-345-crop.jpg?v=3c0e322842",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/furiosa-a-mad-max-saga/"
+    },
+    {
+        "user": "meliolivera97",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/6/2/0/4/996204-kill-the-jockey-0-230-0-345-crop.jpg?v=3bd4a58ff5",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/kill-the-jockey/"
+    },
+    {
+        "user": "alfonsomendoza",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-230-0-345-crop.jpg?v=9c632c1bbe",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/anora/"
+    },
+    {
+        "user": "davidehrlich",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-230-0-345-crop.jpg?v=9c632c1bbe",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/anora/"
+    },
+    {
+        "user": "polialvarez",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/1/0/0/5/9/1110059-longlegs-0-230-0-345-crop.jpg?v=9d77241a8c",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/longlegs/"
+    },
+    {
+        "user": "juanmastrott",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-230-0-345-crop.jpg?v=9c632c1bbe",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/anora/"
+    },
+    {
+        "user": "cristianponce",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/0/4/9/6/3/1004963-riddle-of-fire-0-230-0-345-crop.jpg?v=40db790a84",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/riddle-of-fire/"
+    },
+    {
+        "user": "donjorge86",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "cielitoalz",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-230-0-345-crop.jpg?v=9c632c1bbe",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/anora/"
+    },
+    {
+        "user": "gabinotti",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/0/2/4/7/1/902471-laroy-texas-0-230-0-345-crop.jpg?v=7e326b9e39",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/laroy-texas/"
+    },
+    {
+        "user": "gerardeboedo",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/5/1/9/1/9/1151919-el-protocolo-mutazion-0-230-0-345-crop.jpg?v=0a3786fb81",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/el-protocolo-mutazion/"
+    },
+    {
+        "user": "akasers0",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/2/4/8/7/8/1124878-moana-2-0-230-0-345-crop.jpg?v=602f079650",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/moana-2/"
+    },
+    {
+        "user": "juanmastrott",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/3/9/8/8/0/0/398800-the-zone-of-interest-0-230-0-345-crop.jpg?v=0514f658e1",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-zone-of-interest/"
+    },
+    {
+        "user": "lxonxl",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/challengers/"
+    },
+    {
+        "user": "solbaudry",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/3/3/7/0/3/6/337036-wicked-2024-0-230-0-345-crop.jpg?v=c519c37ff7",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/wicked-2024/"
+    },
+    {
+        "user": "ccamilacarro",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/8/6/9/7/8/486978-gladiator-ii-0-230-0-345-crop.jpg?v=0fb2edf525",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/gladiator-ii/"
+    },
+    {
+        "user": "brunoap",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/9/6/7/8/7/1096787-culpa-cero-0-230-0-345-crop.jpg?v=1a6189c52a",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/culpa-cero/"
+    },
+    {
+        "user": "leandrocoria",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★½",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "franco_c",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/4/6/9/1/954691-ecos-de-xinjiang-0-230-0-345-crop.jpg?v=5810edb7b7",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/echoes-from-xinjiang/"
+    },
+    {
+        "user": "ytraeloabal",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/3/6/1098336-despues-de-un-buen-dia-0-230-0-345-crop.jpg?v=2a36617d5e",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/despues-de-un-buen-dia/"
+    },
+    {
+        "user": "mrpereza",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/7/7/2/2/997722-juror-2-0-230-0-345-crop.jpg?v=14601fa694",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/juror-2/"
+    },
+    {
+        "user": "lucasvar",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/2/3/6/0/992360-smile-2-2024-0-230-0-345-crop.jpg?v=88ee6db259",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/smile-2-2024/"
+    },
+    {
+        "user": "ccamilacarro",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/4/1/6/0/8/641608-twisters-0-230-0-345-crop.jpg?v=b1bb3d5cc7",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/twisters/"
+    },
+    {
+        "user": "mrpereza",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/0/6/1098306-ghostlight-0-230-0-345-crop.jpg?v=f28bcaa322",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/ghostlight-2024/"
+    },
+    {
+        "user": "leandrocoria",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/9/5/0/0/7/895007-lisa-frankenstein-0-230-0-345-crop.jpg?v=55fbeb4cde",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/lisa-frankenstein/"
+    },
+    {
+        "user": "disnick123",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/7/4/5/7/7/874577-out-of-my-mind-2024-0-230-0-345-crop.jpg?v=62dd42f05b",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/out-of-my-mind-2024/"
+    },
+    {
+        "user": "d4ir4",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/3/9/8/8/0/0/398800-the-zone-of-interest-0-230-0-345-crop.jpg?v=0514f658e1",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-zone-of-interest/"
+    },
+    {
+        "user": "consulting_",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/8/8/7/5/1/488751-monkey-man-0-230-0-345-crop.jpg?v=0c25a18552",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/monkey-man/"
+    },
+    {
+        "user": "megustalalluvia",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "hbiasotti",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/1/0/6/8/3/1010683-saturday-night-0-230-0-345-crop.jpg?v=f4857efc36",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/saturday-night-2024/"
+    },
+    {
+        "user": "sofialamorte",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/6/1/3/4/9/1061349-vampire-zombies-from-space-0-230-0-345-crop.jpg?v=005e60ad87",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/vampire-zombies-from-space/"
+    },
+    {
+        "user": "gabinotti",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/1/9/4/5/8/1119458-paytime-0-230-0-345-crop.jpg?v=6cd6022287",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/paytime/"
+    },
+    {
+        "user": "lafloromero",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/5/3/0/1/1/853011-love-lies-bleeding-0-230-0-345-crop.jpg?v=06376e593e",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/love-lies-bleeding-2024/"
+    },
+    {
+        "user": "stk5",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/2/7/6/6/9/1127669-look-back-0-230-0-345-crop.jpg?v=6a67407577",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/look-back-2024/"
+    },
+    {
+        "user": "verenjena22",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/5/9/8/2/7/4/598274-mean-girls-0-230-0-345-crop.jpg?v=c5c5a46d52",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/mean-girls-2024/"
+    },
+    {
+        "user": "sof_tiramisu",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-230-0-345-crop.jpg?v=1aa778d2c6",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/deadpool-wolverine/"
+    },
+    {
+        "user": "juliborg_",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-230-0-345-crop.jpg?v=1aa778d2c6",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/deadpool-wolverine/"
+    },
+    {
+        "user": "manutencio",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/2/2/8/5/8/922858-maxxxine-0-230-0-345-crop.jpg?v=a0fd94e61f",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/maxxxine/"
+    },
+    {
+        "user": "svafnerd",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/1/7/8/6/991786-we-live-in-time-0-230-0-345-crop.jpg?v=14245ba118",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/we-live-in-time/"
+    },
+    {
+        "user": "stk5",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/0/6/1098306-ghostlight-0-230-0-345-crop.jpg?v=f28bcaa322",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/ghostlight-2024/"
+    },
+    {
+        "user": "svafnerd",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/8/6/9/7/8/486978-gladiator-ii-0-230-0-345-crop.jpg?v=0fb2edf525",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/gladiator-ii/"
+    },
+    {
+        "user": "lucasiflores",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-230-0-345-crop.jpg?v=1aa778d2c6",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/deadpool-wolverine/"
+    },
+    {
+        "user": "porza9",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/4/7/1/6/4/1047164-the-second-act-0-230-0-345-crop.jpg?v=86602d3dc5",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-second-act/"
+    },
+    {
+        "user": "rocanx",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/5/8/9/6/1/1158961-chainsaws-were-singing-0-230-0-345-crop.jpg?v=3f715b7bf0",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/chainsaws-were-singing/"
+    },
+    {
+        "user": "cristianponce",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/2/2/8/5/8/922858-maxxxine-0-230-0-345-crop.jpg?v=a0fd94e61f",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/maxxxine/"
+    },
+    {
+        "user": "milurock",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/9/2/0/8/1/1192081-mon-laferte-te-amo-0-230-0-345-crop.jpg?v=ee37a408e5",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/mon-laferte-i-love-you/"
+    },
+    {
+        "user": "gerardeboedo",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/5/8/9/6/1/1158961-chainsaws-were-singing-0-230-0-345-crop.jpg?v=3f715b7bf0",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/chainsaws-were-singing/"
+    },
+    {
+        "user": "cristianponce",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/3/1/1/6/4/931164-trap-0-230-0-345-crop.jpg?v=23298a998e",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/trap-2024/"
+    },
+    {
+        "user": "cristianponce",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/0/3/838103-starve-acre-0-230-0-345-crop.jpg?v=a4eb23f036",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/starve-acre/"
+    },
+    {
+        "user": "cielitoalz",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/6/2/6/1058626-the-last-repair-shop-0-230-0-345-crop.jpg?v=7aea3442a7",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-last-repair-shop/"
+    },
+    {
+        "user": "gabinotti",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/2/7/8/3/2/927832-strange-darling-0-230-0-345-crop.jpg?v=4bfda06e23",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/strange-darling/"
+    },
+    {
+        "user": "lucasvar",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/6/2/0/4/996204-kill-the-jockey-0-230-0-345-crop.jpg?v=3bd4a58ff5",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/kill-the-jockey/"
+    },
+    {
+        "user": "jimenalucero",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/5/0/4/5/9/850459-alien-romulus-0-230-0-345-crop.jpg?v=acabb7fd83",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/alien-romulus/"
+    },
+    {
+        "user": "juli_neme",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/2/8/2/6/1/928261-kinds-of-kindness-0-230-0-345-crop.jpg?v=719ff64e2b",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/kinds-of-kindness/"
+    },
+    {
+        "user": "andreapajares",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/2/2/4/1/3/622413-transformers-one-0-230-0-345-crop.jpg?v=b86bf0cdb6",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/transformers-one/"
+    },
+    {
+        "user": "porza9",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/1/0/0/5/9/1110059-longlegs-0-230-0-345-crop.jpg?v=9d77241a8c",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/longlegs/"
+    },
+    {
+        "user": "lucasiflores",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/2/1/5/7/8/921578-inside-out-2-0-230-0-345-crop.jpg?v=efa25e5cca",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/inside-out-2-2024/"
+    },
+    {
+        "user": "rocanx",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/8/2/9/1/6/1182916-a-place-called-silence-2024-0-230-0-345-crop.jpg?v=f119717dcd",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/a-place-called-silence-2024/"
+    },
+    {
+        "user": "ccamilacarro",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/1/0/0/5/9/1110059-longlegs-0-230-0-345-crop.jpg?v=9d77241a8c",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/longlegs/"
+    },
+    {
+        "user": "megustalalluvia",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/4/6/5/6/834656-civil-war-0-230-0-345-crop.jpg?v=aefec33dbe",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/civil-war-2024/"
+    },
+    {
+        "user": "miloteca",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/5/9/0/2/9/1159029-witches-2024-0-230-0-345-crop.jpg?v=bc2c566b7a",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/witches-2024/"
+    },
+    {
+        "user": "verenjena22",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/8/2/5/3/5/682535-a-quiet-place-day-one-0-230-0-345-crop.jpg?v=3eadd927ba",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/a-quiet-place-day-one/"
+    },
+    {
+        "user": "juli_neme",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/6/2/0/4/996204-kill-the-jockey-0-230-0-345-crop.jpg?v=3bd4a58ff5",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/kill-the-jockey/"
+    },
+    {
+        "user": "leandrocoria",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/1/4/6/3/9/914639-to-kill-a-tiger-0-230-0-345-crop.jpg?v=d1935a594d",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/to-kill-a-tiger/"
+    },
+    {
+        "user": "lumbago90",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-230-0-345-crop.jpg?v=cc533700f8",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/dune-part-two/"
+    },
+    {
+        "user": "disnick123",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/5/9/8/2/7/4/598274-mean-girls-0-230-0-345-crop.jpg?v=c5c5a46d52",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/mean-girls-2024/"
+    },
+    {
+        "user": "juliborg_",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/2/2/8/5/8/922858-maxxxine-0-230-0-345-crop.jpg?v=a0fd94e61f",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/maxxxine/"
+    },
+    {
+        "user": "ccamilacarro",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/5/0/4/5/9/850459-alien-romulus-0-230-0-345-crop.jpg?v=acabb7fd83",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/alien-romulus/"
+    },
+    {
+        "user": "polialvarez",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-230-0-345-crop.jpg?v=1aa778d2c6",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/deadpool-wolverine/"
+    },
+    {
+        "user": "dododok",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/1/9/0/6/8/919068-hundreds-of-beavers-0-230-0-345-crop.jpg?v=374498b1c0",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/hundreds-of-beavers/"
+    },
+    {
+        "user": "joaqlandi",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/challengers/"
+    },
+    {
+        "user": "juliborg_",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "barbiemaestra",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/3/1/1/6/4/931164-trap-0-230-0-345-crop.jpg?v=23298a998e",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/trap-2024/"
+    },
+    {
+        "user": "barbiemaestra",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "manutencio",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "brenmenendez",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "hbiasotti",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/2/0/1/0/8/5/1201085-the-miu-miu-affair-0-230-0-345-crop.jpg?v=d48b3525e9",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-miu-miu-affair/"
+    },
+    {
+        "user": "leandrocoria",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/9/9/978599-nai-nai-wai-po-0-230-0-345-crop.jpg?v=5e0e1eba21",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/nai-nai-wai-po/"
+    },
+    {
+        "user": "matiasparkman",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/9/0/1/0/5/890105-humanist-vampire-seeking-consenting-suicidal-person-0-230-0-345-crop.jpg?v=17a4ea90a4",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/humanist-vampire-seeking-consenting-suicidal-person/"
+    },
+    {
+        "user": "megustalalluvia",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/6/2/0/4/996204-kill-the-jockey-0-230-0-345-crop.jpg?v=3bd4a58ff5",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/kill-the-jockey/"
+    },
+    {
+        "user": "chicosingorra",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "mrpereza",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/1/6/9/2/8/1016928-super-man-the-christopher-reeve-story-0-230-0-345-crop.jpg?v=40dde60ca4",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/super-man-the-christopher-reeve-story/"
+    },
+    {
+        "user": "bel_romero",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/3/2/7/3/9/932739-terrifier-3-0-230-0-345-crop.jpg?v=6c46b036d1",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/terrifier-3/"
+    },
+    {
+        "user": "matiasparkman",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/6/2/0/4/996204-kill-the-jockey-0-230-0-345-crop.jpg?v=3bd4a58ff5",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/kill-the-jockey/"
+    },
+    {
+        "user": "ytraeloabal",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/6/2/0/4/996204-kill-the-jockey-0-230-0-345-crop.jpg?v=3bd4a58ff5",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/kill-the-jockey/"
+    },
+    {
+        "user": "chicosingorra",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/7/7/0/4/6/877046-hit-man-0-230-0-345-crop.jpg?v=7a8e101a9d",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/hit-man-2023/"
+    },
+    {
+        "user": "rocanx",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/5/0/4/5/9/850459-alien-romulus-0-230-0-345-crop.jpg?v=acabb7fd83",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/alien-romulus/"
+    },
+    {
+        "user": "lafloromero",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/7/0/4/7/2/970472-music-by-john-williams-0-230-0-345-crop.jpg?v=4b01ea03ff",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/music-by-john-williams/"
+    },
+    {
+        "user": "emibarrilete",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/2/0/1/0/8/5/1201085-the-miu-miu-affair-0-230-0-345-crop.jpg?v=d48b3525e9",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-miu-miu-affair/"
+    },
+    {
+        "user": "cristianponce",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/0/2/0/6/2/1102062-ick-0-230-0-345-crop.jpg?v=5ff9466342",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/ick/"
+    },
+    {
+        "user": "disnick123",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/7/1/1/9/6/1071196-the-wild-robot-0-230-0-345-crop.jpg?v=a70bdbaea0",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-wild-robot/"
+    },
+    {
+        "user": "malei13",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "andreapajares",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/3/9/5/2/2/739522-godzilla-x-kong-the-new-empire-0-230-0-345-crop.jpg?v=7c2eb6e620",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/godzilla-kong-the-new-empire/"
+    },
+    {
+        "user": "disnick123",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "malei13",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/7/1/1/9/6/1071196-the-wild-robot-0-230-0-345-crop.jpg?v=a70bdbaea0",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-wild-robot/"
+    },
+    {
+        "user": "polialvarez",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/1/0/9/1/8/910918-the-greatest-hits-0-230-0-345-crop.jpg?v=450c6ff85c",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-greatest-hits/"
+    },
+    {
+        "user": "franco_c",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/7/6/3/4/5/1076345-the-man-who-loved-ufos-0-230-0-345-crop.jpg?v=024ca5258a",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-man-who-loved-ufos/"
+    },
+    {
+        "user": "lumbago90",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "lafloromero",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/7/1/1/9/6/1071196-the-wild-robot-0-230-0-345-crop.jpg?v=a70bdbaea0",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-wild-robot/"
+    },
+    {
+        "user": "mrpereza",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/8/5/5/7/2/685572-crossing-0-230-0-345-crop.jpg?v=514bd9bd59",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/crossing-2024/"
+    },
+    {
+        "user": "juliborg_",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/3/7/0/1/7/8/370178-the-first-omen-0-230-0-345-crop.jpg?v=ee3160fca0",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-first-omen/"
+    },
+    {
+        "user": "ytraeloabal",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/4/4/5/4/954454-the-major-tones-0-230-0-345-crop.jpg?v=4c38c49407",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-major-tones/"
+    },
+    {
+        "user": "consulting_",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/challengers/"
+    },
+    {
+        "user": "brenmenendez",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/4/5/5/3/8/1045538-my-hero-academia-you-re-next-0-230-0-345-crop.jpg?v=6051725c4b",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/my-hero-academia-youre-next/"
+    },
+    {
+        "user": "milurock",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "lxonxl",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "sofialamorte",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/9/5/0/0/7/895007-lisa-frankenstein-0-230-0-345-crop.jpg?v=55fbeb4cde",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/lisa-frankenstein/"
+    },
+    {
+        "user": "ccamilacarro",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "verenjena22",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-230-0-345-crop.jpg?v=1aa778d2c6",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/deadpool-wolverine/"
+    },
+    {
+        "user": "lumbago90",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/3/9/8/8/0/0/398800-the-zone-of-interest-0-230-0-345-crop.jpg?v=0514f658e1",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-zone-of-interest/"
+    },
+    {
+        "user": "akasers0",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/4/6/1/1/9/1046119-kill-0-230-0-345-crop.jpg?v=9e34bed10a",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/kill-2023-1/"
+    },
+    {
+        "user": "brenmenendez",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-230-0-345-crop.jpg?v=1aa778d2c6",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/deadpool-wolverine/"
+    },
+    {
+        "user": "matiasparkman",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/5/0/4/5/9/850459-alien-romulus-0-230-0-345-crop.jpg?v=acabb7fd83",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/alien-romulus/"
+    },
+    {
+        "user": "ytraeloabal",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/8/7/5/9/5/987595-chronicles-of-a-wandering-saint-0-230-0-345-crop.jpg?v=d063d8e91e",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/chronicles-of-a-wandering-saint/"
+    },
+    {
+        "user": "rocanx",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/2/5/3/3/1/1025331-heretic-2024-0-230-0-345-crop.jpg?v=c79c5c8121",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/heretic-2024/"
+    },
+    {
+        "user": "juanitagroisman",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/8/6/9/7/8/486978-gladiator-ii-0-230-0-345-crop.jpg?v=0fb2edf525",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/gladiator-ii/"
+    },
+    {
+        "user": "solbaudry",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/1/0/0/5/9/1110059-longlegs-0-230-0-345-crop.jpg?v=9d77241a8c",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/longlegs/"
+    },
+    {
+        "user": "akasers0",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/3/9/8/8/0/0/398800-the-zone-of-interest-0-230-0-345-crop.jpg?v=0514f658e1",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-zone-of-interest/"
+    },
+    {
+        "user": "franco_c",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/4/4/5/4/954454-the-major-tones-0-230-0-345-crop.jpg?v=4c38c49407",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-major-tones/"
+    },
+    {
+        "user": "alfonsomendoza",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-230-0-345-crop.jpg?v=1aa778d2c6",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/deadpool-wolverine/"
+    },
+    {
+        "user": "dododok",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/7/5/1/7/5/1175175-hayao-miyazaki-and-the-heron-0-230-0-345-crop.jpg?v=30888ae574",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/hayao-miyazaki-and-the-heron/"
+    },
+    {
+        "user": "consulting_",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/9/5/0/0/7/895007-lisa-frankenstein-0-230-0-345-crop.jpg?v=55fbeb4cde",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/lisa-frankenstein/"
+    },
+    {
+        "user": "emibarrilete",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/2/7/7/9/6/1127796-como-el-mar-0-230-0-345-crop.jpg?v=1a00ef2bf9",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/como-el-mar/"
+    },
+    {
+        "user": "verenjena22",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/2/3/6/4/8/823648-beetlejuice-beetlejuice-0-230-0-345-crop.jpg?v=2759be608e",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/beetlejuice-beetlejuice/"
+    },
+    {
+        "user": "zendrik",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "consulting_",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/2/5/3/3/1/1025331-heretic-2024-0-230-0-345-crop.jpg?v=c79c5c8121",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/heretic-2024/"
+    },
+    {
+        "user": "lucasiflores",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/7/7/2/5/3/877253-conclave-0-230-0-345-crop.jpg?v=f9cbf50dec",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/conclave/"
+    },
+    {
+        "user": "juliborg_",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/2/1/5/7/8/921578-inside-out-2-0-230-0-345-crop.jpg?v=efa25e5cca",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/inside-out-2-2024/"
+    },
+    {
+        "user": "lxonxl",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/3/7/7/3/3/1037733-disco-ibiza-locomia-0-230-0-345-crop.jpg?v=25ac2ae8bf",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/disco-ibiza-locomia/"
+    },
+    {
+        "user": "julietp",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/0/5/2/2/1/705221-furiosa-a-mad-max-saga-0-230-0-345-crop.jpg?v=3c0e322842",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/furiosa-a-mad-max-saga/"
+    },
+    {
+        "user": "meliolivera97",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-230-0-345-crop.jpg?v=cc533700f8",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/dune-part-two/"
+    },
+    {
+        "user": "porza9",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/0/6/1098306-ghostlight-0-230-0-345-crop.jpg?v=f28bcaa322",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/ghostlight-2024/"
+    },
+    {
+        "user": "hbiasotti",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/6/2/0/4/996204-kill-the-jockey-0-230-0-345-crop.jpg?v=3bd4a58ff5",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/kill-the-jockey/"
+    },
+    {
+        "user": "lafloromero",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/6/2/0/4/996204-kill-the-jockey-0-230-0-345-crop.jpg?v=3bd4a58ff5",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/kill-the-jockey/"
+    },
+    {
+        "user": "hbiasotti",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-230-0-345-crop.jpg?v=9c632c1bbe",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/anora/"
+    },
+    {
+        "user": "ivan2805",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/8/2/9/959829-memoir-of-a-snail-0-230-0-345-crop.jpg?v=e23dff99a0",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/memoir-of-a-snail/"
+    },
+    {
+        "user": "julietp",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/3/7/0/1/7/8/370178-the-first-omen-0-230-0-345-crop.jpg?v=ee3160fca0",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-first-omen/"
+    },
+    {
+        "user": "lxonxl",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/6/2/0/4/996204-kill-the-jockey-0-230-0-345-crop.jpg?v=3bd4a58ff5",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/kill-the-jockey/"
+    },
+    {
+        "user": "ytraeloabal",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "brunoap",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-230-0-345-crop.jpg?v=cc533700f8",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/dune-part-two/"
+    },
+    {
+        "user": "ytraeloabal",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/challengers/"
+    },
+    {
+        "user": "miloteca",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/4/7/2/1/6/1147216-mads-0-230-0-345-crop.jpg?v=5708716cb5",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/mads/"
+    },
+    {
+        "user": "chicosingorra",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/2/1/5/2/7/921527-ricky-stanicky-0-230-0-345-crop.jpg?v=203d0c3794",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/ricky-stanicky/"
+    },
+    {
+        "user": "ivan2805",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-230-0-345-crop.jpg?v=cc533700f8",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/dune-part-two/"
+    },
+    {
+        "user": "sofialamorte",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/6/1/2/5/0/861250-drive-away-dolls-0-230-0-345-crop.jpg?v=2e83bbe648",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/drive-away-dolls/"
+    },
+    {
+        "user": "ivan2805",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-230-0-345-crop.jpg?v=9c632c1bbe",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/anora/"
+    },
+    {
+        "user": "dododok",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/8/1/4/4/998144-getting-lost-0-230-0-345-crop.jpg?v=bbc33a02e7",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/getting-lost/"
+    },
+    {
+        "user": "lucasiflores",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/6/2/0/4/996204-kill-the-jockey-0-230-0-345-crop.jpg?v=3bd4a58ff5",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/kill-the-jockey/"
+    },
+    {
+        "user": "verenjena22",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/2/1/5/7/8/921578-inside-out-2-0-230-0-345-crop.jpg?v=efa25e5cca",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/inside-out-2-2024/"
+    },
+    {
+        "user": "matiasparkman",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/3/6/1098336-despues-de-un-buen-dia-0-230-0-345-crop.jpg?v=2a36617d5e",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/despues-de-un-buen-dia/"
+    },
+    {
+        "user": "meliolivera97",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/2/1/5/7/8/921578-inside-out-2-0-230-0-345-crop.jpg?v=efa25e5cca",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/inside-out-2-2024/"
+    },
+    {
+        "user": "alfonsomendoza",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "miloteca",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/a-different-man/"
+    },
+    {
+        "user": "consulting_",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/3/8/8/9/4/938894-immaculate-0-230-0-345-crop.jpg?v=22d251986e",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/immaculate-2024/"
+    },
+    {
+        "user": "exoghost99",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-230-0-345-crop.jpg?v=1aa778d2c6",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/deadpool-wolverine/"
+    },
+    {
+        "user": "yeyito",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/7/7/2/2/997722-juror-2-0-230-0-345-crop.jpg?v=14601fa694",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/juror-2/"
+    },
+    {
+        "user": "brunoap",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/4/6/5/6/834656-civil-war-0-230-0-345-crop.jpg?v=aefec33dbe",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/civil-war-2024/"
+    },
+    {
+        "user": "elbachee",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/4/7/0/2/5/1047025-the-blue-star-0-230-0-345-crop.jpg?v=d8e59db832",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/the-blue-star-2023/"
+    },
+    {
+        "user": "alfonsomendoza",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/5/0/4/5/9/850459-alien-romulus-0-230-0-345-crop.jpg?v=acabb7fd83",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/alien-romulus/"
+    },
+    {
+        "user": "lxonxl",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/3/4/1/5/843415-late-night-with-the-devil-0-230-0-345-crop.jpg?v=b6c384f7c5",
+        "rating": "★★★★",
+        "film_url": "https://letterboxd.com/film/late-night-with-the-devil/"
+    },
+    {
+        "user": "miloteca",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "meliolivera97",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/9/6/7/8/7/1096787-culpa-cero-0-230-0-345-crop.jpg?v=1a6189c52a",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/culpa-cero/"
+    },
+    {
+        "user": "akasers0",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "lumbago90",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/5/3/0/1/1/853011-love-lies-bleeding-0-230-0-345-crop.jpg?v=06376e593e",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/love-lies-bleeding-2024/"
+    },
+    {
+        "user": "alfonsomendoza",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/3/4/1/5/843415-late-night-with-the-devil-0-230-0-345-crop.jpg?v=b6c384f7c5",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/late-night-with-the-devil/"
+    },
+    {
+        "user": "sofialamorte",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/5/8/3/9/7/758397-the-idea-of-you-0-230-0-345-crop.jpg?v=8c9e3b74af",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/the-idea-of-you-2024/"
+    },
+    {
+        "user": "yeyito",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/4/9/0/5/3/949053-its-whats-inside-0-230-0-345-crop.jpg?v=ea1abf3c49",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/its-whats-inside/"
+    },
+    {
+        "user": "yeyito",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/3/4/1/5/843415-late-night-with-the-devil-0-230-0-345-crop.jpg?v=b6c384f7c5",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/late-night-with-the-devil/"
+    },
+    {
+        "user": "consulting_",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/3/4/1/5/843415-late-night-with-the-devil-0-230-0-345-crop.jpg?v=b6c384f7c5",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/late-night-with-the-devil/"
+    },
+    {
+        "user": "dododok",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/2/4/9/9/4/1124994-the-antisocial-network-memes-to-mayhem-0-230-0-345-crop.jpg?v=d45bbca732",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/the-antisocial-network-memes-to-mayhem/"
+    },
+    {
+        "user": "bel_romero",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/3/4/1/5/843415-late-night-with-the-devil-0-230-0-345-crop.jpg?v=b6c384f7c5",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/late-night-with-the-devil/"
+    },
+    {
+        "user": "ivan2805",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/9/6/7/8/7/1096787-culpa-cero-0-230-0-345-crop.jpg?v=1a6189c52a",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/culpa-cero/"
+    },
+    {
+        "user": "malei13",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-230-0-345-crop.jpg?v=1aa778d2c6",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/deadpool-wolverine/"
+    },
+    {
+        "user": "akasers0",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/4/8/5/0/6/448506-despicable-me-4-0-230-0-345-crop.jpg?v=3391582e43",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/despicable-me-4/"
+    },
+    {
+        "user": "diechanx",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-230-0-345-crop.jpg?v=1aa778d2c6",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/deadpool-wolverine/"
+    },
+    {
+        "user": "bel_romero",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/3/1/1/6/4/931164-trap-0-230-0-345-crop.jpg?v=23298a998e",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/trap-2024/"
+    },
+    {
+        "user": "bel_romero",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/2/3/6/4/8/823648-beetlejuice-beetlejuice-0-230-0-345-crop.jpg?v=2759be608e",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/beetlejuice-beetlejuice/"
+    },
+    {
+        "user": "meliolivera97",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/1/0/0/5/9/1110059-longlegs-0-230-0-345-crop.jpg?v=9d77241a8c",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/longlegs/"
+    },
+    {
+        "user": "hbiasotti",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/0/5/2/2/1/705221-furiosa-a-mad-max-saga-0-230-0-345-crop.jpg?v=3c0e322842",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/furiosa-a-mad-max-saga/"
+    },
+    {
+        "user": "malei13",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/2/3/6/4/8/823648-beetlejuice-beetlejuice-0-230-0-345-crop.jpg?v=2759be608e",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/beetlejuice-beetlejuice/"
+    },
+    {
+        "user": "brunoap",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/1/9/7/2/4/719724-bob-marley-one-love-0-230-0-345-crop.jpg?v=99a53535c0",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/bob-marley-one-love/"
+    },
+    {
+        "user": "sof_tiramisu",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/0/4/5/3/1/1004531-speak-no-evil-0-230-0-345-crop.jpg?v=2c01632a58",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/speak-no-evil-2024/"
+    },
+    {
+        "user": "jimenalucero",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/3/2/7/3/9/932739-terrifier-3-0-230-0-345-crop.jpg?v=6c46b036d1",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/terrifier-3/"
+    },
+    {
+        "user": "malei13",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/8/1/4/0/0/981400-the-room-next-door-0-230-0-345-crop.jpg?v=6eabb7ce9a",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/the-room-next-door-2024/"
+    },
+    {
+        "user": "bel_romero",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "julietp",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/2/5/9/2/6/1025926-orion-and-the-dark-0-230-0-345-crop.jpg?v=f33d4b7a5a",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/orion-and-the-dark/"
+    },
+    {
+        "user": "milurock",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/0/0/8/5/8/800858-joker-folie-a-deux-0-230-0-345-crop.jpg?v=a4bf0389e2",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/joker-folie-a-deux/"
+    },
+    {
+        "user": "ivan2805",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/5/0/4/5/9/850459-alien-romulus-0-230-0-345-crop.jpg?v=acabb7fd83",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/alien-romulus/"
+    },
+    {
+        "user": "brunoap",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/5/0/4/5/9/850459-alien-romulus-0-230-0-345-crop.jpg?v=acabb7fd83",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/alien-romulus/"
+    },
+    {
+        "user": "brunoap",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/3/2/7/3/9/932739-terrifier-3-0-230-0-345-crop.jpg?v=6c46b036d1",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/terrifier-3/"
+    },
+    {
+        "user": "manutencio",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/9/2/3/6/0/992360-smile-2-2024-0-230-0-345-crop.jpg?v=88ee6db259",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/smile-2-2024/"
+    },
+    {
+        "user": "chicosingorra",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/2/7/6/6/9/1127669-look-back-0-230-0-345-crop.jpg?v=6a67407577",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/look-back-2024/"
+    },
+    {
+        "user": "manutencio",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/3/2/7/3/9/932739-terrifier-3-0-230-0-345-crop.jpg?v=6c46b036d1",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/terrifier-3/"
+    },
+    {
+        "user": "milurock",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/2/8/2/6/1/928261-kinds-of-kindness-0-230-0-345-crop.jpg?v=719ff64e2b",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/kinds-of-kindness/"
+    },
+    {
+        "user": "sof_tiramisu",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "tucodelentejas",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/1/9/3/2/0/819320-venom-the-last-dance-0-230-0-345-crop.jpg?v=6a049e8f65",
+        "rating": "★★★½",
+        "film_url": "https://letterboxd.com/film/venom-the-last-dance/"
+    },
+    {
+        "user": "yeyito",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/1/7/9/1/7/1117917-nahir-0-230-0-345-crop.jpg?v=07b203bf6d",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/nahir-2024/"
+    },
+    {
+        "user": "juli_neme",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/0/1/4/1/3/1101413-jaque-mate-0-230-0-345-crop.jpg?v=0385794fd4",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/jaque-mate/"
+    },
+    {
+        "user": "manutencio",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/1/0/0/5/9/1110059-longlegs-0-230-0-345-crop.jpg?v=9d77241a8c",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/longlegs/"
+    },
+    {
+        "user": "zendrik",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/8/6/9/7/8/486978-gladiator-ii-0-230-0-345-crop.jpg?v=0fb2edf525",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/gladiator-ii/"
+    },
+    {
+        "user": "joaqlandi",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/8/3/4/5/1/683451-damsel-0-230-0-345-crop.jpg?v=c22af16d0a",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/damsel-2024/"
+    },
+    {
+        "user": "bel_romero",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/4/1/6/0/8/641608-twisters-0-230-0-345-crop.jpg?v=b1bb3d5cc7",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/twisters/"
+    },
+    {
+        "user": "tucodelentejas",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/3/9/5/2/2/739522-godzilla-x-kong-the-new-empire-0-230-0-345-crop.jpg?v=7c2eb6e620",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/godzilla-kong-the-new-empire/"
+    },
+    {
+        "user": "franco_c",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/5/0/5/6/6/750566-woman-of-the-hour-0-230-0-345-crop.jpg?v=ea66716683",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/woman-of-the-hour/"
+    },
+    {
+        "user": "joaqlandi",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/9/7/8/7/2/1097872-the-other-way-around-0-230-0-345-crop.jpg?v=43e1de911e",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/the-other-way-around/"
+    },
+    {
+        "user": "andreapajares",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/7/0/8/0/0/670800-the-garfield-movie-0-230-0-345-crop.jpg?v=634c4b364f",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/the-garfield-movie/"
+    },
+    {
+        "user": "sof_tiramisu",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/7/9/0/7/2/679072-mothers-instinct-0-230-0-345-crop.jpg?v=7f989f6061",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/mothers-instinct-2024/"
+    },
+    {
+        "user": "dododok",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/7/6/3/4/5/1076345-the-man-who-loved-ufos-0-230-0-345-crop.jpg?v=024ca5258a",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/the-man-who-loved-ufos/"
+    },
+    {
+        "user": "sof_tiramisu",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/2/1/5/7/8/921578-inside-out-2-0-230-0-345-crop.jpg?v=efa25e5cca",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/inside-out-2-2024/"
+    },
+    {
+        "user": "zendrik",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-230-0-345-crop.jpg?v=1aa778d2c6",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/deadpool-wolverine/"
+    },
+    {
+        "user": "juli_neme",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/2/1/5/7/8/921578-inside-out-2-0-230-0-345-crop.jpg?v=efa25e5cca",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/inside-out-2-2024/"
+    },
+    {
+        "user": "barbiemaestra",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/challengers/"
+    },
+    {
+        "user": "sof_tiramisu",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/7/9/0/6/1/879061-the-book-of-clarence-0-230-0-345-crop.jpg?v=4a384194eb",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/the-book-of-clarence-2023/"
+    },
+    {
+        "user": "matiasparkman",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/7/2/2/3/0/772230-i-saw-the-tv-glow-0-230-0-345-crop.jpg?v=c5e712bb90",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/i-saw-the-tv-glow/"
+    },
+    {
+        "user": "tucodelentejas",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/2/3/6/4/8/823648-beetlejuice-beetlejuice-0-230-0-345-crop.jpg?v=2759be608e",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/beetlejuice-beetlejuice/"
+    },
+    {
+        "user": "hbiasotti",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/3/1/1/6/4/931164-trap-0-230-0-345-crop.jpg?v=23298a998e",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/trap-2024/"
+    },
+    {
+        "user": "jimenalucero",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/2/3/6/4/8/823648-beetlejuice-beetlejuice-0-230-0-345-crop.jpg?v=2759be608e",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/beetlejuice-beetlejuice/"
+    },
+    {
+        "user": "joaqlandi",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/0/5/2/2/1/705221-furiosa-a-mad-max-saga-0-230-0-345-crop.jpg?v=3c0e322842",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/furiosa-a-mad-max-saga/"
+    },
+    {
+        "user": "matiasparkman",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/3/4/1/5/843415-late-night-with-the-devil-0-230-0-345-crop.jpg?v=b6c384f7c5",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/late-night-with-the-devil/"
+    },
+    {
+        "user": "elbachee",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/5/4/4/5/5/954455-southern-storm-0-230-0-345-crop.jpg?v=ec1ac23031",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/southern-storm/"
+    },
+    {
+        "user": "jimenalucero",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/4/3/4/1/5/843415-late-night-with-the-devil-0-230-0-345-crop.jpg?v=b6c384f7c5",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/late-night-with-the-devil/"
+    },
+    {
+        "user": "tucodelentejas",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/8/0/1/7/0/780170-the-beekeeper-0-230-0-345-crop.jpg?v=bf94429baa",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/the-beekeeper-2024/"
+    },
+    {
+        "user": "joaqlandi",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/6/7/5/5/0/667550-the-fall-guy-0-230-0-345-crop.jpg?v=5f491a1281",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/the-fall-guy-2024/"
+    },
+    {
+        "user": "elbachee",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/7/3/6/9/7/1173697-south-park-the-end-of-obesity-0-230-0-345-crop.jpg?v=6cd545a386",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/south-park-the-end-of-obesity/"
+    },
+    {
+        "user": "barbiemaestra",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/3/9/8/8/0/0/398800-the-zone-of-interest-0-230-0-345-crop.jpg?v=0514f658e1",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/the-zone-of-interest/"
+    },
+    {
+        "user": "isa_ycaza3010",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/2/3/6/4/8/823648-beetlejuice-beetlejuice-0-230-0-345-crop.jpg?v=2759be608e",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/beetlejuice-beetlejuice/"
+    },
+    {
+        "user": "jimenalucero",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/1/0/0/5/9/1110059-longlegs-0-230-0-345-crop.jpg?v=9d77241a8c",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/longlegs/"
+    },
+    {
+        "user": "diechanx",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "diechanx",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/0/5/2/2/1/705221-furiosa-a-mad-max-saga-0-230-0-345-crop.jpg?v=3c0e322842",
+        "rating": "★★½",
+        "film_url": "https://letterboxd.com/film/furiosa-a-mad-max-saga/"
+    },
+    {
+        "user": "exoghost99",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/5/7/8/7/7/4/578774-kingdom-of-the-planet-of-the-apes-0-230-0-345-crop.jpg?v=b765efe92a",
+        "rating": "★★½",
+        "film_url": "https://letterboxd.com/film/kingdom-of-the-planet-of-the-apes/"
+    },
+    {
+        "user": "milurock",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/1/0/0/5/9/1110059-longlegs-0-230-0-345-crop.jpg?v=9d77241a8c",
+        "rating": "★★½",
+        "film_url": "https://letterboxd.com/film/longlegs/"
+    },
+    {
+        "user": "andreapajares",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/8/2/7/5/4/682754-mufasa-the-lion-king-0-230-0-345-crop.jpg?v=eb5c9fcffd",
+        "rating": "★★½",
+        "film_url": "https://letterboxd.com/film/mufasa-the-lion-king/"
+    },
+    {
+        "user": "zendrik",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/6/7/5/5/0/667550-the-fall-guy-0-230-0-345-crop.jpg?v=5f491a1281",
+        "rating": "★★½",
+        "film_url": "https://letterboxd.com/film/the-fall-guy-2024/"
+    },
+    {
+        "user": "zendrik",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/2/1/5/7/8/921578-inside-out-2-0-230-0-345-crop.jpg?v=efa25e5cca",
+        "rating": "★★½",
+        "film_url": "https://letterboxd.com/film/inside-out-2-2024/"
+    },
+    {
+        "user": "zendrik",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/7/7/6/0/8/877608-emilia-perez-0-230-0-345-crop.jpg?v=cc7782128e",
+        "rating": "★★½",
+        "film_url": "https://letterboxd.com/film/emilia-perez/"
+    },
+    {
+        "user": "andreapajares",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/7/2/2/6/7/972267-it-ends-with-us-0-230-0-345-crop.jpg?v=000b1dcb16",
+        "rating": "★★",
+        "film_url": "https://letterboxd.com/film/it-ends-with-us/"
+    },
+    {
+        "user": "exoghost99",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/0/5/8/7/6/905876-carry-on-2024-0-230-0-345-crop.jpg?v=bc2c1c0d8f",
+        "rating": "★★",
+        "film_url": "https://letterboxd.com/film/carry-on-2024/"
+    },
+    {
+        "user": "isa_ycaza3010",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/2/6/2/5/7/6/1262576-buy-now-the-shopping-conspiracy-0-230-0-345-crop.jpg?v=1a4699e5bd",
+        "rating": "★★",
+        "film_url": "https://letterboxd.com/film/buy-now-the-shopping-conspiracy/"
+    },
+    {
+        "user": "elbachee",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-230-0-345-crop.jpg?v=cc533700f8",
+        "rating": "★★",
+        "film_url": "https://letterboxd.com/film/dune-part-two/"
+    },
+    {
+        "user": "isa_ycaza3010",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "★★",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    },
+    {
+        "user": "isa_ycaza3010",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/0/0/8/5/8/800858-joker-folie-a-deux-0-230-0-345-crop.jpg?v=a4bf0389e2",
+        "rating": "★★",
+        "film_url": "https://letterboxd.com/film/joker-folie-a-deux/"
+    },
+    {
+        "user": "juli_neme",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/5/9/8/2/7/4/598274-mean-girls-0-230-0-345-crop.jpg?v=c5c5a46d52",
+        "rating": "★★",
+        "film_url": "https://letterboxd.com/film/mean-girls-2024/"
+    },
+    {
+        "user": "juli_vegg",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/2/9/1/2/1/3/291213-road-house-0-230-0-345-crop.jpg?v=c0d0e95ba3",
+        "rating": "★½",
+        "film_url": "https://letterboxd.com/film/road-house-2024/"
+    },
+    {
+        "user": "tucodelentejas",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/2/9/1/2/1/3/291213-road-house-0-230-0-345-crop.jpg?v=c0d0e95ba3",
+        "rating": "★½",
+        "film_url": "https://letterboxd.com/film/road-house-2024/"
+    },
+    {
+        "user": "diechanx",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/3/9/8/8/0/0/398800-the-zone-of-interest-0-230-0-345-crop.jpg?v=0514f658e1",
+        "rating": "★½",
+        "film_url": "https://letterboxd.com/film/the-zone-of-interest/"
+    },
+    {
+        "user": "diechanx",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/8/1/8/6/7/1081867-i-cant-live-without-you-2024-0-230-0-345-crop.jpg?v=86b1612fa4",
+        "rating": "★",
+        "film_url": "https://letterboxd.com/film/i-cant-live-without-you-2024/"
+    },
+    {
+        "user": "juli_vegg",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/0/1/4/1/3/1101413-jaque-mate-0-230-0-345-crop.jpg?v=0385794fd4",
+        "rating": "★",
+        "film_url": "https://letterboxd.com/film/jaque-mate/"
+    },
+    {
+        "user": "barbiemaestra",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/7/4/3/7/9/4/743794-time-cut-0-230-0-345-crop.jpg?v=07d35999c6",
+        "rating": "★",
+        "film_url": "https://letterboxd.com/film/time-cut/"
+    },
+    {
+        "user": "juli_vegg",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/0/8/1/8/6/7/1081867-i-cant-live-without-you-2024-0-230-0-345-crop.jpg?v=86b1612fa4",
+        "rating": "½",
+        "film_url": "https://letterboxd.com/film/i-cant-live-without-you-2024/"
+    },
+    {
+        "user": "car_lita",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/8/1/6/1/4/1181614-the-wailing-0-230-0-345-crop.jpg?v=65bbaca171",
+        "rating": "",
+        "film_url": "https://letterboxd.com/film/the-wailing-2024/"
+    },
+    {
+        "user": "car_lita",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/2/7/8/3/2/927832-strange-darling-0-230-0-345-crop.jpg?v=4bfda06e23",
+        "rating": "",
+        "film_url": "https://letterboxd.com/film/strange-darling/"
+    },
+    {
+        "user": "car_lita",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/7/0/8/9/0/1170890-hell-hole-0-230-0-345-crop.jpg?v=969a8a6489",
+        "rating": "",
+        "film_url": "https://letterboxd.com/film/hell-hole-2024/"
+    },
+    {
+        "user": "car_lita",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/8/9/7/6/0/989760-your-monster-0-230-0-345-crop.jpg?v=93d5994063",
+        "rating": "",
+        "film_url": "https://letterboxd.com/film/your-monster-2024/"
+    },
+    {
+        "user": "car_lita",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/4/2/7/7/8/1142778-slay-0-230-0-345-crop.jpg?v=865758e04a",
+        "rating": "",
+        "film_url": "https://letterboxd.com/film/slay-2024/"
+    },
+    {
+        "user": "julietary",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/1/1/6/5/7/7/1116577-an-odd-turn-0-230-0-345-crop.jpg?v=3dec4cc098",
+        "rating": "",
+        "film_url": "https://letterboxd.com/film/an-odd-turn/"
+    },
+    {
+        "user": "julietary",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/2/0/4/4/8/820448-the-beast-0-230-0-345-crop.jpg?v=82e61c5fee",
+        "rating": "",
+        "film_url": "https://letterboxd.com/film/the-beast-2023-1/"
+    },
+    {
+        "user": "julietary",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/9/8/6/7/0/4/986704-four-unloved-women-adrift-on-a-purposeless-sea-experience-0-230-0-345-crop.jpg?v=43e057c7ac",
+        "rating": "",
+        "film_url": "https://letterboxd.com/film/four-unloved-women-adrift-on-a-purposeless-sea-experience-the-ecstasy-of-dissection/"
+    },
+    {
+        "user": "julietary",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/5/9/8/2/7/4/598274-mean-girls-0-230-0-345-crop.jpg?v=c5c5a46d52",
+        "rating": "",
+        "film_url": "https://letterboxd.com/film/mean-girls-2024/"
+    },
+    {
+        "user": "julietary",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/1/2/4/7/3/2/3/1247323-a-nonsense-christmas-with-sabrina-carpenter-0-230-0-345-crop.jpg?v=161525d20f",
+        "rating": "",
+        "film_url": "https://letterboxd.com/film/a-nonsense-christmas-with-sabrina-carpenter/"
+    },
+    {
+        "user": "julietary",
+        "movie": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-230-0-345-crop.jpg?v=ab9e1072f8",
+        "rating": "",
+        "film_url": "https://letterboxd.com/film/the-substance/"
+    }
+]
