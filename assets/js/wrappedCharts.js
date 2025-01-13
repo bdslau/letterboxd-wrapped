@@ -2354,6 +2354,15 @@ function movieMap(user_data) {
             const projection = d3.geoMercator().scale(130).translate([window.innerWidth / 2, window.innerHeight / 2]);
             const path = d3.geoPath().projection(projection);
 
+            // Set up zoom behavior
+            const zoom = d3.zoom()
+                .scaleExtent([1, 8]) // Limit zoom scale (min, max)
+                .on('zoom', function (event) {
+                    svg.selectAll('path').attr('transform', event.transform); // Apply transform on zoom
+                });
+
+            svg.call(zoom); // Attach zoom behavior to the SVG container
+
             svg.selectAll('path')
                 .data(geojson.features)
                 .enter()
