@@ -125,6 +125,8 @@
 
 
 
+
+
 .canvas-container {
     padding-top: 20px;
     width: 100%;
@@ -313,9 +315,8 @@
     }
 
     .item24 {
-        grid-column: span 12; /* Full width for smaller screens */
-        height: 400px;         /* Reduce height to fit smaller screen sizes */
-        padding: 10px;         /* Less padding for better fitting */
+        height: 400px; /* Reduce height for mobile */
+        padding: 10px; /* Reduce padding */
     }
 
     
@@ -345,8 +346,8 @@
     }
 
     #mapContainer {
-        width: 100%;           /* Ensure the SVG fills the container width */
-        height: 100%;          /* Ensure the SVG fills the container height */
+        width: 100%;
+        height: 100%;
     }
 
 
