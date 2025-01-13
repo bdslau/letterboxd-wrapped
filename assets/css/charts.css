@@ -312,6 +312,13 @@
         text-align: center; /* Ensure text aligns in the middle */
     }
 
+    .item24 {
+        grid-column: span 12; /* Full width for smaller screens */
+        height: 400px;         /* Reduce height to fit smaller screen sizes */
+        padding: 10px;         /* Less padding for better fitting */
+    }
+
+    
 
 
 
@@ -335,6 +342,11 @@
     #prontoMovies_id {
         width: 80% !important;  /* Ensure it takes 90% of the container */
         height: 80% !important;  /* Adjust height if needed */
+    }
+
+    #mapContainer {
+        width: 100%;           /* Ensure the SVG fills the container width */
+        height: 100%;          /* Ensure the SVG fills the container height */
     }
 
 
