@@ -47,10 +47,14 @@
 .menu-item {
     text-decoration: none;
     color: #131313;
-    font-size: 10px;
+    font-size: 15px;
     display: block;
     margin-bottom: 10px;
     text-align: left;
+    transition: color 0.3s ease; /* Smooth transition for color */
+}
+.menu-item:hover {
+    color: #0056b3; /* Hover color */
 }
 
 
@@ -66,5 +70,8 @@
     }
     .content {
         margin-left: 0;
+    }
+    .menu-item {
+        font-size: 20px;
     }
 }

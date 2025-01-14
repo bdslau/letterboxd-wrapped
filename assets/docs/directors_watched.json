@@ -1,49 +1,49 @@
 [
     {
         "name": "Woody Allen",
-        "url": "https://image.tmdb.org/t/p/w342/wcPQgZLDibuej1RwNTy1R2U2ZJw.jpg",
+        "url": null,
         "user": "valentin23",
         "watch_count": 18,
         "person_lboxd_url": "/director/woody-allen/"
     },
     {
         "name": "Aki Kaurismäki",
-        "url": "https://image.tmdb.org/t/p/w342/t0pdsYfLts7p01OBN1P9UHp1Z0l.jpg",
+        "url": null,
         "user": "cielitoalz",
         "watch_count": 15,
         "person_lboxd_url": "/director/aki-kaurismaki/"
     },
     {
         "name": "Aki Kaurismäki",
-        "url": "https://image.tmdb.org/t/p/w342/t0pdsYfLts7p01OBN1P9UHp1Z0l.jpg",
+        "url": null,
         "user": "juanmastrott",
         "watch_count": 15,
         "person_lboxd_url": "/director/aki-kaurismaki/"
     },
     {
         "name": "Robert Zemeckis",
-        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
+        "url": null,
         "user": "cielitoalz",
         "watch_count": 14,
         "person_lboxd_url": "/director/robert-zemeckis/"
     },
     {
         "name": "Michael Mann",
-        "url": "https://image.tmdb.org/t/p/w342/syowcptZIOosLMwVWbXFOU8jVvd.jpg",
+        "url": null,
         "user": "clairacurtis",
         "watch_count": 14,
         "person_lboxd_url": "/director/michael-mann/"
     },
     {
         "name": "Robert Zemeckis",
-        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
+        "url": null,
         "user": "juanmastrott",
         "watch_count": 14,
         "person_lboxd_url": "/director/robert-zemeckis/"
     },
     {
         "name": "John Carpenter",
-        "url": "https://image.tmdb.org/t/p/w342/3Qp0mg61u1qSZNJh30BFEUZrIMG.jpg",
+        "url": null,
         "user": "valentin23",
         "watch_count": 13,
         "person_lboxd_url": "/director/john-carpenter/"
@@ -56,18 +56,18 @@
         "person_lboxd_url": "/director/steven-spielberg/"
     },
     {
+        "name": "Néstor Frenkel",
+        "url": null,
+        "user": "algocinefila",
+        "watch_count": 11,
+        "person_lboxd_url": "/director/nestor-frenkel/"
+    },
+    {
         "name": "M. Night Shyamalan",
-        "url": "https://image.tmdb.org/t/p/w342/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/9g5IYal9c12tq8XHT65pf0Gqo1f.jpg",
         "user": "valentin23",
         "watch_count": 11,
         "person_lboxd_url": "/director/m-night-shyamalan/"
-    },
-    {
-        "name": "David Mamet",
-        "url": "https://image.tmdb.org/t/p/w342/3Hfebpi4fRSY0lciWUc355ylP6j.jpg",
-        "user": "valentin23",
-        "watch_count": 11,
-        "person_lboxd_url": "/director/david-mamet-1/"
     },
     {
         "name": "Jim Jarmusch",
@@ -77,46 +77,39 @@
         "person_lboxd_url": "/director/jim-jarmusch/"
     },
     {
-        "name": "Néstor Frenkel",
-        "url": "https://image.tmdb.org/t/p/w342/ryowpVIRmdfsrytsYDTxkzVSziW.jpg",
-        "user": "algocinefila",
+        "name": "David Mamet",
+        "url": null,
+        "user": "valentin23",
         "watch_count": 11,
-        "person_lboxd_url": "/director/nestor-frenkel/"
-    },
-    {
-        "name": "Yorgos Lanthimos",
-        "url": "https://image.tmdb.org/t/p/w342/8pqwSOhJDS9Om9xHeaW2ab5uXLS.jpg",
-        "user": "milurock",
-        "watch_count": 10,
-        "person_lboxd_url": "/director/yorgos-lanthimos/"
+        "person_lboxd_url": "/director/david-mamet-1/"
     },
     {
         "name": "Martin Scorsese",
-        "url": "https://image.tmdb.org/t/p/w342/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg",
-        "user": "cielitoalz",
-        "watch_count": 10,
-        "person_lboxd_url": "/director/martin-scorsese/"
-    },
-    {
-        "name": "Quentin Tarantino",
-        "url": "https://image.tmdb.org/t/p/w342/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg",
-        "user": "algocinefila",
-        "watch_count": 10,
-        "person_lboxd_url": "/director/quentin-tarantino/"
-    },
-    {
-        "name": "Martin Scorsese",
-        "url": "https://image.tmdb.org/t/p/w342/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg",
+        "url": null,
         "user": "juanmastrott",
         "watch_count": 10,
         "person_lboxd_url": "/director/martin-scorsese/"
     },
     {
+        "name": "Martin Scorsese",
+        "url": null,
+        "user": "cielitoalz",
+        "watch_count": 10,
+        "person_lboxd_url": "/director/martin-scorsese/"
+    },
+    {
         "name": "M. Night Shyamalan",
-        "url": "https://image.tmdb.org/t/p/w342/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/9g5IYal9c12tq8XHT65pf0Gqo1f.jpg",
         "user": "sofialamorte",
         "watch_count": 10,
         "person_lboxd_url": "/director/m-night-shyamalan/"
+    },
+    {
+        "name": "David Cronenberg",
+        "url": null,
+        "user": "crisamr91",
+        "watch_count": 10,
+        "person_lboxd_url": "/director/david-cronenberg/"
     },
     {
         "name": "Wes Anderson",
@@ -126,11 +119,18 @@
         "person_lboxd_url": "/director/wes-anderson/"
     },
     {
-        "name": "David Lynch",
-        "url": "https://image.tmdb.org/t/p/w342/b6TnSpuqeOlbq7aHH9G4inmQ1v9.jpg",
-        "user": "megustalalluvia",
-        "watch_count": 9,
-        "person_lboxd_url": "/director/david-lynch/"
+        "name": "Quentin Tarantino",
+        "url": "https://image.tmdb.org/t/p/w342/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg",
+        "user": "algocinefila",
+        "watch_count": 10,
+        "person_lboxd_url": "/director/quentin-tarantino/"
+    },
+    {
+        "name": "Yorgos Lanthimos",
+        "url": null,
+        "user": "milurock",
+        "watch_count": 10,
+        "person_lboxd_url": "/director/yorgos-lanthimos/"
     },
     {
         "name": "Peter Bogdanovich",
@@ -140,102 +140,67 @@
         "person_lboxd_url": "/director/peter-bogdanovich/"
     },
     {
-        "name": "David Cronenberg",
-        "url": "https://image.tmdb.org/t/p/w342/3xh4e2gWHDilMLtucHzDGsmJMuQ.jpg",
-        "user": "crisamr91",
+        "name": "David Lynch",
+        "url": "https://image.tmdb.org/t/p/w342/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "user": "megustalalluvia",
         "watch_count": 9,
-        "person_lboxd_url": "/director/david-cronenberg/"
+        "person_lboxd_url": "/director/david-lynch/"
+    },
+    {
+        "name": "Fritz Lang",
+        "url": null,
+        "user": "afroluffy",
+        "watch_count": 8,
+        "person_lboxd_url": "/director/fritz-lang-1/"
+    },
+    {
+        "name": "David Lynch",
+        "url": "https://image.tmdb.org/t/p/w342/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "user": "juanmastrott",
+        "watch_count": 8,
+        "person_lboxd_url": "/director/david-lynch/"
     },
     {
         "name": "Pedro Almodóvar",
-        "url": "https://image.tmdb.org/t/p/w342/eRgGaVKEftJ0rbZCOPzCSOBZi9.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/dKlaXJk3NLcsC1CKMx6xmyW5BZD.jpg",
         "user": "malei13",
         "watch_count": 8,
         "person_lboxd_url": "/director/pedro-almodovar/"
     },
     {
         "name": "Néstor Frenkel",
-        "url": "https://image.tmdb.org/t/p/w342/ryowpVIRmdfsrytsYDTxkzVSziW.jpg",
+        "url": null,
         "user": "milurock",
         "watch_count": 8,
         "person_lboxd_url": "/director/nestor-frenkel/"
     },
     {
         "name": "David Lynch",
-        "url": "https://image.tmdb.org/t/p/w342/b6TnSpuqeOlbq7aHH9G4inmQ1v9.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
         "user": "cielitoalz",
         "watch_count": 8,
         "person_lboxd_url": "/director/david-lynch/"
     },
     {
-        "name": "David Lynch",
-        "url": "https://image.tmdb.org/t/p/w342/b6TnSpuqeOlbq7aHH9G4inmQ1v9.jpg",
-        "user": "juanmastrott",
-        "watch_count": 8,
-        "person_lboxd_url": "/director/david-lynch/"
-    },
-    {
-        "name": "Fritz Lang",
-        "url": "https://image.tmdb.org/t/p/w342/z02YZggZD0YP7nBG5PGHZncacXm.jpg",
-        "user": "afroluffy",
-        "watch_count": 8,
-        "person_lboxd_url": "/director/fritz-lang-1/"
-    },
-    {
         "name": "David Fincher",
-        "url": "https://image.tmdb.org/t/p/w342/tpEczFclQZeKAiCeKZZ0adRvtfz.jpg",
+        "url": null,
         "user": "donjorge86",
         "watch_count": 8,
         "person_lboxd_url": "/director/david-fincher/"
     },
     {
-        "name": "John Cassavetes",
-        "url": "https://image.tmdb.org/t/p/w342/2Bo1ipVthg8uKP26mNGykChukA8.jpg",
-        "user": "miloteca",
+        "name": "Martin Scorsese",
+        "url": null,
+        "user": "pitusacognitiva",
         "watch_count": 7,
-        "person_lboxd_url": "/director/john-cassavetes/"
+        "person_lboxd_url": "/director/martin-scorsese/"
     },
     {
         "name": "Tim Burton",
-        "url": "https://image.tmdb.org/t/p/w342/wcjuY5vD1nlfwWNbvvTGg5dGoRR.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/yHEHAHQpN9PfSEQx1UxZPczhcAi.jpg",
         "user": "mrpereza",
         "watch_count": 7,
         "person_lboxd_url": "/director/tim-burton/"
-    },
-    {
-        "name": "Robert Zemeckis",
-        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
-        "user": "juli_vegg",
-        "watch_count": 7,
-        "person_lboxd_url": "/director/robert-zemeckis/"
-    },
-    {
-        "name": "Steven Spielberg",
-        "url": "https://image.tmdb.org/t/p/w342/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
-        "user": "juli_vegg",
-        "watch_count": 7,
-        "person_lboxd_url": "/director/steven-spielberg/"
-    },
-    {
-        "name": "Tim Burton",
-        "url": "https://image.tmdb.org/t/p/w342/wcjuY5vD1nlfwWNbvvTGg5dGoRR.jpg",
-        "user": "ccamilacarro",
-        "watch_count": 7,
-        "person_lboxd_url": "/director/tim-burton/"
-    },
-    {
-        "name": "Tim Burton",
-        "url": "https://image.tmdb.org/t/p/w342/wcjuY5vD1nlfwWNbvvTGg5dGoRR.jpg",
-        "user": "juli_vegg",
-        "watch_count": 7,
-        "person_lboxd_url": "/director/tim-burton/"
-    },
-    {
-        "name": "Martin Scorsese",
-        "url": "https://image.tmdb.org/t/p/w342/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg",
-        "user": "leandrocoria",
-        "watch_count": 7,
-        "person_lboxd_url": "/director/martin-scorsese/"
     },
     {
         "name": "Ridley Scott",
@@ -246,38 +211,94 @@
     },
     {
         "name": "Brian De Palma",
-        "url": "https://image.tmdb.org/t/p/w342/4xleWFdhtVC7faer6Ru2eyEgfTv.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/t29YojZlOEqNSWvfmY0DDYh3vnb.jpg",
         "user": "pitusacognitiva",
         "watch_count": 7,
         "person_lboxd_url": "/director/brian-de-palma/"
     },
     {
-        "name": "Hayao Miyazaki",
-        "url": "https://image.tmdb.org/t/p/w342/mG3cfxtA5jqDc7fpKgyzZMKoXDh.jpg",
-        "user": "mrpereza",
-        "watch_count": 6,
-        "person_lboxd_url": "/director/hayao-miyazaki/"
+        "name": "Martin Scorsese",
+        "url": null,
+        "user": "leandrocoria",
+        "watch_count": 7,
+        "person_lboxd_url": "/director/martin-scorsese/"
+    },
+    {
+        "name": "Tim Burton",
+        "url": "https://image.tmdb.org/t/p/w342/yHEHAHQpN9PfSEQx1UxZPczhcAi.jpg",
+        "user": "juli_vegg",
+        "watch_count": 7,
+        "person_lboxd_url": "/director/tim-burton/"
+    },
+    {
+        "name": "Tim Burton",
+        "url": "https://image.tmdb.org/t/p/w342/yHEHAHQpN9PfSEQx1UxZPczhcAi.jpg",
+        "user": "ccamilacarro",
+        "watch_count": 7,
+        "person_lboxd_url": "/director/tim-burton/"
+    },
+    {
+        "name": "Steven Spielberg",
+        "url": "https://image.tmdb.org/t/p/w342/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
+        "user": "juli_vegg",
+        "watch_count": 7,
+        "person_lboxd_url": "/director/steven-spielberg/"
+    },
+    {
+        "name": "Robert Zemeckis",
+        "url": null,
+        "user": "juli_vegg",
+        "watch_count": 7,
+        "person_lboxd_url": "/director/robert-zemeckis/"
+    },
+    {
+        "name": "John Cassavetes",
+        "url": null,
+        "user": "miloteca",
+        "watch_count": 7,
+        "person_lboxd_url": "/director/john-cassavetes/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "tomas95bv",
+        "watch_count": 6,
+        "person_lboxd_url": "/director/richard-linklater/"
+    },
+    {
+        "name": "Wes Craven",
+        "url": null,
+        "user": "car_lita",
+        "watch_count": 6,
+        "person_lboxd_url": "/director/wes-craven/"
+    },
+    {
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
         "user": "lumbago90",
         "watch_count": 6,
         "person_lboxd_url": "/director/richard-linklater/"
     },
     {
-        "name": "Martin Scorsese",
-        "url": "https://image.tmdb.org/t/p/w342/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg",
-        "user": "pitusacognitiva",
+        "name": "Denis Villeneuve",
+        "url": null,
+        "user": "zendrik",
         "watch_count": 6,
-        "person_lboxd_url": "/director/martin-scorsese/"
+        "person_lboxd_url": "/director/denis-villeneuve/"
     },
     {
-        "name": "George Miller",
-        "url": "https://image.tmdb.org/t/p/w342/35NQ8HjFXQlGYDz9UkhT08lKl5C.jpg",
-        "user": "jaragon23",
+        "name": "Steven Spielberg",
+        "url": "https://image.tmdb.org/t/p/w342/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
+        "user": "alfonsomendoza",
         "watch_count": 6,
-        "person_lboxd_url": "/director/george-miller/"
+        "person_lboxd_url": "/director/steven-spielberg/"
+    },
+    {
+        "name": "Mike Flanagan",
+        "url": null,
+        "user": "polialvarez",
+        "watch_count": 6,
+        "person_lboxd_url": "/director/mike-flanagan/"
     },
     {
         "name": "Steven Spielberg",
@@ -287,18 +308,53 @@
         "person_lboxd_url": "/director/steven-spielberg/"
     },
     {
-        "name": "Mike Flanagan",
-        "url": "https://image.tmdb.org/t/p/w342/85q5HSDoltjvg1ES0eToNlLjfPB.jpg",
-        "user": "polialvarez",
+        "name": "Wes Anderson",
+        "url": "https://image.tmdb.org/t/p/w342/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg",
+        "user": "malei13",
         "watch_count": 6,
-        "person_lboxd_url": "/director/mike-flanagan/"
+        "person_lboxd_url": "/director/wes-anderson/"
     },
     {
-        "name": "Sofia Coppola",
-        "url": "https://image.tmdb.org/t/p/w342/dzHC2LxmarkBxWLhjp2DRa5oCev.jpg",
-        "user": "ccamilacarro",
+        "name": "Francis Ford Coppola",
+        "url": "https://image.tmdb.org/t/p/w342/IwGgkmW6IoJ9vuNF0T9CU3FYUX.jpg",
+        "user": "pitusacognitiva",
         "watch_count": 6,
-        "person_lboxd_url": "/director/sofia-coppola/"
+        "person_lboxd_url": "/director/francis-ford-coppola/"
+    },
+    {
+        "name": "Hayao Miyazaki",
+        "url": null,
+        "user": "mrpereza",
+        "watch_count": 6,
+        "person_lboxd_url": "/director/hayao-miyazaki/"
+    },
+    {
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "polialvarez",
+        "watch_count": 6,
+        "person_lboxd_url": "/director/richard-linklater/"
+    },
+    {
+        "name": "Clint Eastwood",
+        "url": null,
+        "user": "donjorge86",
+        "watch_count": 6,
+        "person_lboxd_url": "/director/clint-eastwood/"
+    },
+    {
+        "name": "Ridley Scott",
+        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
+        "user": "clairacurtis",
+        "watch_count": 6,
+        "person_lboxd_url": "/director/ridley-scott/"
+    },
+    {
+        "name": "Francis Ford Coppola",
+        "url": "https://image.tmdb.org/t/p/w342/IwGgkmW6IoJ9vuNF0T9CU3FYUX.jpg",
+        "user": "algocinefila",
+        "watch_count": 6,
+        "person_lboxd_url": "/director/francis-ford-coppola/"
     },
     {
         "name": "James Cameron",
@@ -308,15 +364,22 @@
         "person_lboxd_url": "/director/james-cameron/"
     },
     {
-        "name": "Francis Ford Coppola",
-        "url": "https://image.tmdb.org/t/p/w342/3Pblihd6KjXliie9vj4iQJwbNPU.jpg",
-        "user": "algocinefila",
+        "name": "George Miller",
+        "url": null,
+        "user": "jaragon23",
         "watch_count": 6,
-        "person_lboxd_url": "/director/francis-ford-coppola/"
+        "person_lboxd_url": "/director/george-miller/"
+    },
+    {
+        "name": "Sofia Coppola",
+        "url": null,
+        "user": "ccamilacarro",
+        "watch_count": 6,
+        "person_lboxd_url": "/director/sofia-coppola/"
     },
     {
         "name": "Pedro Almodóvar",
-        "url": "https://image.tmdb.org/t/p/w342/eRgGaVKEftJ0rbZCOPzCSOBZi9.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/dKlaXJk3NLcsC1CKMx6xmyW5BZD.jpg",
         "user": "pitusacognitiva",
         "watch_count": 6,
         "person_lboxd_url": "/director/pedro-almodovar/"
@@ -329,312 +392,39 @@
         "person_lboxd_url": "/director/paul-w-s-anderson/"
     },
     {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "tomas95bv",
+        "name": "Yorgos Lanthimos",
+        "url": null,
+        "user": "pitusacognitiva",
         "watch_count": 6,
-        "person_lboxd_url": "/director/richard-linklater/"
-    },
-    {
-        "name": "Ridley Scott",
-        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
-        "user": "clairacurtis",
-        "watch_count": 6,
-        "person_lboxd_url": "/director/ridley-scott/"
+        "person_lboxd_url": "/director/yorgos-lanthimos/"
     },
     {
         "name": "Martin Scorsese",
-        "url": "https://image.tmdb.org/t/p/w342/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg",
+        "url": null,
         "user": "algocinefila",
         "watch_count": 6,
         "person_lboxd_url": "/director/martin-scorsese/"
     },
     {
-        "name": "Francis Ford Coppola",
-        "url": "https://image.tmdb.org/t/p/w342/3Pblihd6KjXliie9vj4iQJwbNPU.jpg",
-        "user": "pitusacognitiva",
-        "watch_count": 6,
-        "person_lboxd_url": "/director/francis-ford-coppola/"
-    },
-    {
-        "name": "Clint Eastwood",
-        "url": "https://image.tmdb.org/t/p/w342/dU35NnjZ4aGw5abIJe3WXVf3Eey.jpg",
-        "user": "donjorge86",
-        "watch_count": 6,
-        "person_lboxd_url": "/director/clint-eastwood/"
-    },
-    {
         "name": "M. Night Shyamalan",
-        "url": "https://image.tmdb.org/t/p/w342/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/9g5IYal9c12tq8XHT65pf0Gqo1f.jpg",
         "user": "clairacurtis",
         "watch_count": 6,
         "person_lboxd_url": "/director/m-night-shyamalan/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "polialvarez",
-        "watch_count": 6,
-        "person_lboxd_url": "/director/richard-linklater/"
-    },
-    {
-        "name": "Wes Craven",
-        "url": "https://image.tmdb.org/t/p/w342/eqwl6owrYykeTGTpKxwcAkbEJmg.jpg",
-        "user": "car_lita",
-        "watch_count": 6,
-        "person_lboxd_url": "/director/wes-craven/"
-    },
-    {
-        "name": "Steven Spielberg",
-        "url": "https://image.tmdb.org/t/p/w342/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
-        "user": "alfonsomendoza",
-        "watch_count": 6,
-        "person_lboxd_url": "/director/steven-spielberg/"
-    },
-    {
-        "name": "Wes Anderson",
-        "url": "https://image.tmdb.org/t/p/w342/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg",
-        "user": "malei13",
-        "watch_count": 6,
-        "person_lboxd_url": "/director/wes-anderson/"
-    },
-    {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "akasers0",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/richard-linklater/"
-    },
-    {
-        "name": "Néstor Frenkel",
-        "url": "https://image.tmdb.org/t/p/w342/ryowpVIRmdfsrytsYDTxkzVSziW.jpg",
-        "user": "juanwagner",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/nestor-frenkel/"
-    },
-    {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "ytraeloabal",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/richard-linklater/"
-    },
-    {
-        "name": "Quentin Tarantino",
-        "url": "https://image.tmdb.org/t/p/w342/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg",
-        "user": "ytraeloabal",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/quentin-tarantino/"
-    },
-    {
-        "name": "Wes Craven",
-        "url": "https://image.tmdb.org/t/p/w342/eqwl6owrYykeTGTpKxwcAkbEJmg.jpg",
-        "user": "d4ir4",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/wes-craven/"
-    },
-    {
-        "name": "David Lynch",
-        "url": "https://image.tmdb.org/t/p/w342/b6TnSpuqeOlbq7aHH9G4inmQ1v9.jpg",
-        "user": "miloteca",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/david-lynch/"
-    },
-    {
-        "name": "Justin Lin",
-        "url": "https://image.tmdb.org/t/p/w342/w0ryazdt8iS3GBrjXfv0FIwvUGY.jpg",
-        "user": "juanwagner",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/justin-lin/"
-    },
-    {
-        "name": "Wes Craven",
-        "url": "https://image.tmdb.org/t/p/w342/eqwl6owrYykeTGTpKxwcAkbEJmg.jpg",
-        "user": "dododok",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/wes-craven/"
-    },
-    {
-        "name": "Céline Sciamma",
-        "url": "https://image.tmdb.org/t/p/w342/vbzTjD01umVCJnXFnBkhd1is6AH.jpg",
-        "user": "cielitoalz",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/celine-sciamma/"
-    },
-    {
-        "name": "Ridley Scott",
-        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
-        "user": "ccamilacarro",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/ridley-scott/"
-    },
-    {
-        "name": "Bryan Singer",
-        "url": "https://image.tmdb.org/t/p/w342/to8mWJabPoWkphkbYKoutCVSj06.jpg",
-        "user": "pitusacognitiva",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/bryan-singer/"
-    },
-    {
-        "name": "Guy Ritchie",
-        "url": "https://image.tmdb.org/t/p/w342/9pLUnjMgIEWXi0mlHYzie9cKUTD.jpg",
-        "user": "d4ir4",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/guy-ritchie/"
-    },
-    {
-        "name": "John Carpenter",
-        "url": "https://image.tmdb.org/t/p/w342/3Qp0mg61u1qSZNJh30BFEUZrIMG.jpg",
-        "user": "juanmastrott",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/john-carpenter/"
-    },
-    {
-        "name": "Chris Columbus",
-        "url": "https://image.tmdb.org/t/p/w342/yCyEz90NqjEXKZ7HYcEhDXlLlPc.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
         "user": "juli_vegg",
         "watch_count": 5,
-        "person_lboxd_url": "/director/chris-columbus/"
-    },
-    {
-        "name": "Edgar Wright",
-        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
-        "user": "juli_vegg",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/edgar-wright/"
-    },
-    {
-        "name": "Steven Spielberg",
-        "url": "https://image.tmdb.org/t/p/w342/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
-        "user": "clairacurtis",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/steven-spielberg/"
-    },
-    {
-        "name": "Mike Flanagan",
-        "url": "https://image.tmdb.org/t/p/w342/85q5HSDoltjvg1ES0eToNlLjfPB.jpg",
-        "user": "jaragon23",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/mike-flanagan/"
-    },
-    {
-        "name": "Justin Lin",
-        "url": "https://image.tmdb.org/t/p/w342/w0ryazdt8iS3GBrjXfv0FIwvUGY.jpg",
-        "user": "juliborg_",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/justin-lin/"
-    },
-    {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "lucasiflores",
-        "watch_count": 5,
         "person_lboxd_url": "/director/richard-linklater/"
     },
     {
-        "name": "John Carney",
-        "url": "https://image.tmdb.org/t/p/w342/a85YTkbKqmF0ht2gr5XF652eQIe.jpg",
-        "user": "donjorge86",
+        "name": "Aki Kaurismäki",
+        "url": null,
+        "user": "crisamr91",
         "watch_count": 5,
-        "person_lboxd_url": "/director/john-carney/"
-    },
-    {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "disnick123",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/richard-linklater/"
-    },
-    {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "megustalalluvia",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/richard-linklater/"
-    },
-    {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "donjorge86",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/richard-linklater/"
-    },
-    {
-        "name": "Clint Eastwood",
-        "url": "https://image.tmdb.org/t/p/w342/dU35NnjZ4aGw5abIJe3WXVf3Eey.jpg",
-        "user": "mrpereza",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/clint-eastwood/"
-    },
-    {
-        "name": "James Whale",
-        "url": "https://image.tmdb.org/t/p/w342/cXE0gUlXfx7qqZMdnUb5AeQMKHr.jpg",
-        "user": "disnick123",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/james-whale/"
-    },
-    {
-        "name": "Justin Lin",
-        "url": "https://image.tmdb.org/t/p/w342/w0ryazdt8iS3GBrjXfv0FIwvUGY.jpg",
-        "user": "alfonsomendoza",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/justin-lin/"
-    },
-    {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "alfonsomendoza",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/richard-linklater/"
-    },
-    {
-        "name": "Ernst Lubitsch",
-        "url": "https://image.tmdb.org/t/p/w342/wq3B38fsOrQZCXCGKqQrqrslCFc.jpg",
-        "user": "afroluffy",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/ernst-lubitsch/"
-    },
-    {
-        "name": "Wes Craven",
-        "url": "https://image.tmdb.org/t/p/w342/eqwl6owrYykeTGTpKxwcAkbEJmg.jpg",
-        "user": "juanwagner",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/wes-craven/"
-    },
-    {
-        "name": "Ridley Scott",
-        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
-        "user": "juanwagner",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/ridley-scott/"
-    },
-    {
-        "name": "Bryan Singer",
-        "url": "https://image.tmdb.org/t/p/w342/to8mWJabPoWkphkbYKoutCVSj06.jpg",
-        "user": "megustalalluvia",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/bryan-singer/"
-    },
-    {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "milurock",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/richard-linklater/"
-    },
-    {
-        "name": "Paul Verhoeven",
-        "url": "https://image.tmdb.org/t/p/w342/wxkroRBtM6NKZdx9sYLFfFSGnaR.jpg",
-        "user": "gabinotti",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/paul-verhoeven-3/"
-    },
-    {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "brenmenendez",
-        "watch_count": 5,
-        "person_lboxd_url": "/director/richard-linklater/"
+        "person_lboxd_url": "/director/aki-kaurismaki/"
     },
     {
         "name": "Daisuke Nishio",
@@ -644,172 +434,368 @@
         "person_lboxd_url": "/director/daisuke-nishio-1/"
     },
     {
+        "name": "Clint Eastwood",
+        "url": null,
+        "user": "mrpereza",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/clint-eastwood/"
+    },
+    {
         "name": "Denys Arcand",
-        "url": "https://image.tmdb.org/t/p/w342/jYqHVVAHbhNvFCMmi2wUm8IanRp.jpg",
+        "url": null,
         "user": "chicosingorra",
         "watch_count": 5,
         "person_lboxd_url": "/director/denys-arcand/"
     },
     {
-        "name": "Michael Bay",
-        "url": "https://image.tmdb.org/t/p/w342/rkC7lei20x5xlFH4SivAXXBh6uR.jpg",
-        "user": "mrpereza",
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "lucasvar",
         "watch_count": 5,
-        "person_lboxd_url": "/director/michael-bay/"
+        "person_lboxd_url": "/director/richard-linklater/"
+    },
+    {
+        "name": "Justin Lin",
+        "url": null,
+        "user": "juanwagner",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/justin-lin/"
+    },
+    {
+        "name": "Ridley Scott",
+        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
+        "user": "ccamilacarro",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/ridley-scott/"
+    },
+    {
+        "name": "Quentin Tarantino",
+        "url": "https://image.tmdb.org/t/p/w342/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg",
+        "user": "ytraeloabal",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/quentin-tarantino/"
     },
     {
         "name": "Yorgos Lanthimos",
-        "url": "https://image.tmdb.org/t/p/w342/8pqwSOhJDS9Om9xHeaW2ab5uXLS.jpg",
-        "user": "lxonxl",
+        "url": null,
+        "user": "crisamr91",
         "watch_count": 5,
         "person_lboxd_url": "/director/yorgos-lanthimos/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "ytraeloabal",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/richard-linklater/"
+    },
+    {
+        "name": "Frank Oz",
+        "url": "https://image.tmdb.org/t/p/w342/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg",
+        "user": "mrpereza",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/frank-oz/"
+    },
+    {
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "milurock",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/richard-linklater/"
+    },
+    {
+        "name": "Wes Craven",
+        "url": null,
+        "user": "d4ir4",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/wes-craven/"
+    },
+    {
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "alfonsomendoza",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/richard-linklater/"
+    },
+    {
+        "name": "James Whale",
+        "url": "https://image.tmdb.org/t/p/w342/cXE0gUlXfx7qqZMdnUb5AeQMKHr.jpg",
+        "user": "disnick123",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/james-whale/"
+    },
+    {
+        "name": "Wes Craven",
+        "url": null,
+        "user": "dododok",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/wes-craven/"
+    },
+    {
+        "name": "George Miller",
+        "url": null,
+        "user": "juanmastrott",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/george-miller/"
+    },
+    {
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "andreapajares",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/richard-linklater/"
+    },
+    {
+        "name": "Ridley Scott",
+        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
+        "user": "zendrik",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/ridley-scott/"
+    },
+    {
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
         "user": "consulting_",
         "watch_count": 5,
         "person_lboxd_url": "/director/richard-linklater/"
     },
     {
+        "name": "Justin Lin",
+        "url": null,
+        "user": "alfonsomendoza",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/justin-lin/"
+    },
+    {
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "brenmenendez",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/richard-linklater/"
+    },
+    {
+        "name": "Justin Lin",
+        "url": null,
+        "user": "juliborg_",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/justin-lin/"
+    },
+    {
         "name": "Bryan Singer",
-        "url": "https://image.tmdb.org/t/p/w342/to8mWJabPoWkphkbYKoutCVSj06.jpg",
+        "url": null,
+        "user": "megustalalluvia",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/bryan-singer/"
+    },
+    {
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "donjorge86",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/richard-linklater/"
+    },
+    {
+        "name": "Yorgos Lanthimos",
+        "url": null,
+        "user": "lxonxl",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/yorgos-lanthimos/"
+    },
+    {
+        "name": "Bryan Singer",
+        "url": null,
         "user": "nofloba",
         "watch_count": 5,
         "person_lboxd_url": "/director/bryan-singer/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "lucasvar",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "akasers0",
         "watch_count": 5,
         "person_lboxd_url": "/director/richard-linklater/"
     },
     {
-        "name": "James Cameron",
-        "url": "https://image.tmdb.org/t/p/w342/9NAZnTjBQ9WcXAQEzZpKy4vdQto.jpg",
-        "user": "algocinefila",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/james-cameron/"
+        "name": "John Carney",
+        "url": null,
+        "user": "donjorge86",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/john-carney/"
     },
     {
-        "name": "Chad Stahelski",
-        "url": "https://image.tmdb.org/t/p/w342/eRCryGwKDH4XqUlrdkERmeBWPo8.jpg",
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "disnick123",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/richard-linklater/"
+    },
+    {
+        "name": "Sam Liu",
+        "url": null,
+        "user": "tomas95bv",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/sam-liu/"
+    },
+    {
+        "name": "George Miller",
+        "url": null,
+        "user": "cielitoalz",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/george-miller/"
+    },
+    {
+        "name": "Paul Verhoeven",
+        "url": null,
+        "user": "gabinotti",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/paul-verhoeven-3/"
+    },
+    {
+        "name": "Ernst Lubitsch",
+        "url": null,
+        "user": "afroluffy",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/ernst-lubitsch/"
+    },
+    {
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "lucasiflores",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/richard-linklater/"
+    },
+    {
+        "name": "Néstor Frenkel",
+        "url": null,
         "user": "juanwagner",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/chad-stahelski/"
+        "watch_count": 5,
+        "person_lboxd_url": "/director/nestor-frenkel/"
     },
     {
-        "name": "Peter Jackson",
-        "url": "https://image.tmdb.org/t/p/w342/bNc908d59Ba8VDNr4eCcm4G1cR.jpg",
-        "user": "dododok",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/peter-jackson/"
+        "name": "David Yates",
+        "url": null,
+        "user": "juli_vegg",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/david-yates/"
+    },
+    {
+        "name": "Ridley Scott",
+        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
+        "user": "juanwagner",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/ridley-scott/"
+    },
+    {
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "megustalalluvia",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/richard-linklater/"
+    },
+    {
+        "name": "Mike Flanagan",
+        "url": null,
+        "user": "jaragon23",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/mike-flanagan/"
     },
     {
         "name": "Steven Spielberg",
         "url": "https://image.tmdb.org/t/p/w342/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
-        "user": "cinemistica",
-        "watch_count": 4,
+        "user": "clairacurtis",
+        "watch_count": 5,
         "person_lboxd_url": "/director/steven-spielberg/"
     },
     {
-        "name": "Bryan Singer",
-        "url": "https://image.tmdb.org/t/p/w342/to8mWJabPoWkphkbYKoutCVSj06.jpg",
-        "user": "cinemistica",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/bryan-singer/"
+        "name": "David Lynch",
+        "url": "https://image.tmdb.org/t/p/w342/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "user": "miloteca",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/david-lynch/"
     },
     {
-        "name": "Sergey Bondarchuk",
-        "url": "https://image.tmdb.org/t/p/w342/tUcNV6ZYK0vkBsNoDCJTizQEjAu.jpg",
-        "user": "cristianponce",
+        "name": "Guy Ritchie",
+        "url": "https://image.tmdb.org/t/p/w342/9pLUnjMgIEWXi0mlHYzie9cKUTD.jpg",
+        "user": "d4ir4",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/guy-ritchie/"
+    },
+    {
+        "name": "Wes Craven",
+        "url": null,
+        "user": "juanwagner",
+        "watch_count": 5,
+        "person_lboxd_url": "/director/wes-craven/"
+    },
+    {
+        "name": "Gore Verbinski",
+        "url": null,
+        "user": "juanwagner",
         "watch_count": 4,
-        "person_lboxd_url": "/director/sergey-bondarchuk/"
+        "person_lboxd_url": "/director/gore-verbinski/"
     },
     {
         "name": "Edgar Wright",
-        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
+        "url": null,
         "user": "megustalalluvia",
         "watch_count": 4,
         "person_lboxd_url": "/director/edgar-wright/"
     },
     {
-        "name": "Sylvester Stallone",
-        "url": "https://image.tmdb.org/t/p/w342/gn3pDWthJqR0VDYGViGD3048og7.jpg",
-        "user": "bel_romero",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/sylvester-stallone/"
-    },
-    {
-        "name": "David Gordon Green",
-        "url": "https://image.tmdb.org/t/p/w342/fJqIVaVwLeFBlZKQTDbzbcvV4XZ.jpg",
-        "user": "lafloromero",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/david-gordon-green/"
-    },
-    {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "leandrocoria",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "rocanx",
         "watch_count": 4,
         "person_lboxd_url": "/director/richard-linklater/"
     },
     {
+        "name": "Ridley Scott",
+        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
+        "user": "megustalalluvia",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/ridley-scott/"
+    },
+    {
+        "name": "Clint Eastwood",
+        "url": null,
+        "user": "tomas95bv",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/clint-eastwood/"
+    },
+    {
+        "name": "Néstor Frenkel",
+        "url": null,
+        "user": "lxonxl",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/nestor-frenkel/"
+    },
+    {
         "name": "Edgar Wright",
-        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
+        "url": null,
         "user": "tucodelentejas",
         "watch_count": 4,
         "person_lboxd_url": "/director/edgar-wright/"
     },
     {
         "name": "Edgar Wright",
-        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
-        "user": "sof_tiramisu",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/edgar-wright/"
-    },
-    {
-        "name": "Sylvester Stallone",
-        "url": "https://image.tmdb.org/t/p/w342/gn3pDWthJqR0VDYGViGD3048og7.jpg",
-        "user": "megustalalluvia",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/sylvester-stallone/"
-    },
-    {
-        "name": "Edgar Wright",
-        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
+        "url": null,
         "user": "alfonsomendoza",
         "watch_count": 4,
         "person_lboxd_url": "/director/edgar-wright/"
     },
     {
-        "name": "Sylvester Stallone",
-        "url": "https://image.tmdb.org/t/p/w342/gn3pDWthJqR0VDYGViGD3048og7.jpg",
-        "user": "lafloromero",
+        "name": "Bryan Singer",
+        "url": null,
+        "user": "tucodelentejas",
         "watch_count": 4,
-        "person_lboxd_url": "/director/sylvester-stallone/"
+        "person_lboxd_url": "/director/bryan-singer/"
     },
     {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "diechanx",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/richard-linklater/"
-    },
-    {
-        "name": "Damien Leone",
-        "url": "https://image.tmdb.org/t/p/w342/nX2kkYD32x2PC9rRU7DrYCRPjFE.jpg",
+        "name": "Bryan Singer",
+        "url": null,
         "user": "alfonsomendoza",
         "watch_count": 4,
-        "person_lboxd_url": "/director/damien-leone/"
-    },
-    {
-        "name": "Edgar Wright",
-        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
-        "user": "tomas95bv",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/edgar-wright/"
+        "person_lboxd_url": "/director/bryan-singer/"
     },
     {
         "name": "Steven Spielberg",
@@ -819,9 +805,23 @@
         "person_lboxd_url": "/director/steven-spielberg/"
     },
     {
+        "name": "George A. Romero",
+        "url": null,
+        "user": "consulting_",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/george-a-romero/"
+    },
+    {
+        "name": "Karan Johar",
+        "url": null,
+        "user": "akasers0",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/karan-johar/"
+    },
+    {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "rocanx",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "diechanx",
         "watch_count": 4,
         "person_lboxd_url": "/director/richard-linklater/"
     },
@@ -833,32 +833,277 @@
         "person_lboxd_url": "/director/christopher-mcquarrie-1/"
     },
     {
-        "name": "George A. Romero",
-        "url": "https://image.tmdb.org/t/p/w342/w2zVF92x149qK79ZxwUowcSp2c6.jpg",
-        "user": "consulting_",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/george-a-romero/"
-    },
-    {
         "name": "Yash Chopra",
-        "url": "https://image.tmdb.org/t/p/w342/uDthb94NlawtgRT8BKufFkZdJR5.jpg",
+        "url": null,
         "user": "akasers0",
         "watch_count": 4,
         "person_lboxd_url": "/director/yash-chopra/"
     },
     {
         "name": "Edgar Wright",
-        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
+        "url": null,
         "user": "d4ir4",
         "watch_count": 4,
         "person_lboxd_url": "/director/edgar-wright/"
     },
     {
-        "name": "Karan Johar",
-        "url": "https://image.tmdb.org/t/p/w342/zip1x7OXOBxXxcdYvKOgw6MnAWm.jpg",
-        "user": "akasers0",
+        "name": "Edgar Wright",
+        "url": null,
+        "user": "tomas95bv",
         "watch_count": 4,
-        "person_lboxd_url": "/director/karan-johar/"
+        "person_lboxd_url": "/director/edgar-wright/"
+    },
+    {
+        "name": "Tony Scott",
+        "url": null,
+        "user": "tomas95bv",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/tony-scott/"
+    },
+    {
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "juli_neme",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/richard-linklater/"
+    },
+    {
+        "name": "Sergey Bondarchuk",
+        "url": null,
+        "user": "cristianponce",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/sergey-bondarchuk/"
+    },
+    {
+        "name": "Bryan Singer",
+        "url": null,
+        "user": "polialvarez",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/bryan-singer/"
+    },
+    {
+        "name": "Edgar Wright",
+        "url": null,
+        "user": "sof_tiramisu",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/edgar-wright/"
+    },
+    {
+        "name": "Sylvester Stallone",
+        "url": "https://image.tmdb.org/t/p/w342/gn3pDWthJqR0VDYGViGD3048og7.jpg",
+        "user": "juli_neme",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/sylvester-stallone/"
+    },
+    {
+        "name": "Damien Leone",
+        "url": "https://image.tmdb.org/t/p/w342/kgHow969kOY5wP1C5pRZnWBxxuH.jpg",
+        "user": "bel_romero",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/damien-leone/"
+    },
+    {
+        "name": "Ridley Scott",
+        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
+        "user": "jaragon23",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/ridley-scott/"
+    },
+    {
+        "name": "Peter Jackson",
+        "url": null,
+        "user": "dododok",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/peter-jackson/"
+    },
+    {
+        "name": "Damien Leone",
+        "url": "https://image.tmdb.org/t/p/w342/kgHow969kOY5wP1C5pRZnWBxxuH.jpg",
+        "user": "leandrocoria",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/damien-leone/"
+    },
+    {
+        "name": "Sylvester Stallone",
+        "url": "https://image.tmdb.org/t/p/w342/gn3pDWthJqR0VDYGViGD3048og7.jpg",
+        "user": "crisamr91",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/sylvester-stallone/"
+    },
+    {
+        "name": "James Cameron",
+        "url": "https://image.tmdb.org/t/p/w342/9NAZnTjBQ9WcXAQEzZpKy4vdQto.jpg",
+        "user": "algocinefila",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/james-cameron/"
+    },
+    {
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "crisamr91",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/richard-linklater/"
+    },
+    {
+        "name": "Yorgos Lanthimos",
+        "url": null,
+        "user": "turco",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/yorgos-lanthimos/"
+    },
+    {
+        "name": "Bryan Singer",
+        "url": null,
+        "user": "lxonxl",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/bryan-singer/"
+    },
+    {
+        "name": "Yorgos Lanthimos",
+        "url": null,
+        "user": "barbiemaestra",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/yorgos-lanthimos/"
+    },
+    {
+        "name": "Wong Kar-wai",
+        "url": "https://image.tmdb.org/t/p/w342/fyksuJqbV8fixJvMOZXZWtQyEtT.jpg",
+        "user": "chicosingorra",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/wong-kar-wai/"
+    },
+    {
+        "name": "Sylvester Stallone",
+        "url": "https://image.tmdb.org/t/p/w342/gn3pDWthJqR0VDYGViGD3048og7.jpg",
+        "user": "lafloromero",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/sylvester-stallone/"
+    },
+    {
+        "name": "Bryan Singer",
+        "url": null,
+        "user": "cinemistica",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/bryan-singer/"
+    },
+    {
+        "name": "Wes Craven",
+        "url": null,
+        "user": "sofialamorte",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/wes-craven/"
+    },
+    {
+        "name": "Peter Jackson",
+        "url": null,
+        "user": "jaragon23",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/peter-jackson/"
+    },
+    {
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "leandrocoria",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/richard-linklater/"
+    },
+    {
+        "name": "Tim Burton",
+        "url": "https://image.tmdb.org/t/p/w342/yHEHAHQpN9PfSEQx1UxZPczhcAi.jpg",
+        "user": "jaragon23",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/tim-burton/"
+    },
+    {
+        "name": "Sylvester Stallone",
+        "url": "https://image.tmdb.org/t/p/w342/gn3pDWthJqR0VDYGViGD3048og7.jpg",
+        "user": "tucodelentejas",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/sylvester-stallone/"
+    },
+    {
+        "name": "Sylvester Stallone",
+        "url": "https://image.tmdb.org/t/p/w342/gn3pDWthJqR0VDYGViGD3048og7.jpg",
+        "user": "bel_romero",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/sylvester-stallone/"
+    },
+    {
+        "name": "Lucía Seles",
+        "url": null,
+        "user": "elbachee",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/lucia-seles/"
+    },
+    {
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "bel_romero",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/richard-linklater/"
+    },
+    {
+        "name": "Wes Craven",
+        "url": null,
+        "user": "jimenalucero",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/wes-craven/"
+    },
+    {
+        "name": "Paul Verhoeven",
+        "url": null,
+        "user": "afroluffy",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/paul-verhoeven-3/"
+    },
+    {
+        "name": "Bryan Singer",
+        "url": null,
+        "user": "rocanx",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/bryan-singer/"
+    },
+    {
+        "name": "Wes Craven",
+        "url": null,
+        "user": "juliborg_",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/wes-craven/"
+    },
+    {
+        "name": "Yorgos Lanthimos",
+        "url": null,
+        "user": "cinemistica",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/yorgos-lanthimos/"
+    },
+    {
+        "name": "George Miller",
+        "url": null,
+        "user": "afroluffy",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/george-miller/"
+    },
+    {
+        "name": "Jorge Nisco",
+        "url": null,
+        "user": "lucasiflores",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/jorge-nisco/"
+    },
+    {
+        "name": "David Gordon Green",
+        "url": null,
+        "user": "lafloromero",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/david-gordon-green/"
+    },
+    {
+        "name": "Bryan Singer",
+        "url": null,
+        "user": "lucasiflores",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/bryan-singer/"
     },
     {
         "name": "Sylvester Stallone",
@@ -868,102 +1113,74 @@
         "person_lboxd_url": "/director/sylvester-stallone/"
     },
     {
+        "name": "Steven Spielberg",
+        "url": "https://image.tmdb.org/t/p/w342/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
+        "user": "cinemistica",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/steven-spielberg/"
+    },
+    {
+        "name": "Sam Liu",
+        "url": null,
+        "user": "svafnerd",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/sam-liu/"
+    },
+    {
+        "name": "Clint Eastwood",
+        "url": null,
+        "user": "lafloromero",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/clint-eastwood/"
+    },
+    {
+        "name": "Sylvester Stallone",
+        "url": "https://image.tmdb.org/t/p/w342/gn3pDWthJqR0VDYGViGD3048og7.jpg",
+        "user": "lucasiflores",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/sylvester-stallone/"
+    },
+    {
+        "name": "Brian De Palma",
+        "url": "https://image.tmdb.org/t/p/w342/t29YojZlOEqNSWvfmY0DDYh3vnb.jpg",
+        "user": "afroluffy",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/brian-de-palma/"
+    },
+    {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "bel_romero",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "juliborg_",
         "watch_count": 4,
         "person_lboxd_url": "/director/richard-linklater/"
     },
     {
-        "name": "Néstor Frenkel",
-        "url": "https://image.tmdb.org/t/p/w342/ryowpVIRmdfsrytsYDTxkzVSziW.jpg",
-        "user": "lxonxl",
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "clairacurtis",
         "watch_count": 4,
-        "person_lboxd_url": "/director/nestor-frenkel/"
+        "person_lboxd_url": "/director/richard-linklater/"
     },
     {
-        "name": "Wes Craven",
-        "url": "https://image.tmdb.org/t/p/w342/eqwl6owrYykeTGTpKxwcAkbEJmg.jpg",
-        "user": "juliborg_",
+        "name": "Edgar Wright",
+        "url": null,
+        "user": "svafnerd",
         "watch_count": 4,
-        "person_lboxd_url": "/director/wes-craven/"
-    },
-    {
-        "name": "Sylvester Stallone",
-        "url": "https://image.tmdb.org/t/p/w342/gn3pDWthJqR0VDYGViGD3048og7.jpg",
-        "user": "tucodelentejas",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/sylvester-stallone/"
-    },
-    {
-        "name": "Christopher Nolan",
-        "url": "https://image.tmdb.org/t/p/w342/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg",
-        "user": "gabinotti",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/christopher-nolan/"
-    },
-    {
-        "name": "Ridley Scott",
-        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
-        "user": "stk5",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/ridley-scott/"
-    },
-    {
-        "name": "Aki Kaurismäki",
-        "url": "https://image.tmdb.org/t/p/w342/t0pdsYfLts7p01OBN1P9UHp1Z0l.jpg",
-        "user": "gabinotti",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/aki-kaurismaki/"
+        "person_lboxd_url": "/director/edgar-wright/"
     },
     {
         "name": "Bryan Singer",
-        "url": "https://image.tmdb.org/t/p/w342/to8mWJabPoWkphkbYKoutCVSj06.jpg",
-        "user": "lucasiflores",
+        "url": null,
+        "user": "lafloromero",
         "watch_count": 4,
         "person_lboxd_url": "/director/bryan-singer/"
     },
     {
-        "name": "Wes Craven",
-        "url": "https://image.tmdb.org/t/p/w342/eqwl6owrYykeTGTpKxwcAkbEJmg.jpg",
-        "user": "jimenalucero",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/wes-craven/"
-    },
-    {
-        "name": "Osgood Perkins",
-        "url": "https://image.tmdb.org/t/p/w342/olBiDWBll8xlfcvcPUusODun6cP.jpg",
-        "user": "clairacurtis",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/oz-perkins/"
-    },
-    {
-        "name": "Jorge Nisco",
+        "name": "Aki Kaurismäki",
         "url": null,
-        "user": "lucasiflores",
+        "user": "gabinotti",
         "watch_count": 4,
-        "person_lboxd_url": "/director/jorge-nisco/"
-    },
-    {
-        "name": "Sylvester Stallone",
-        "url": "https://image.tmdb.org/t/p/w342/gn3pDWthJqR0VDYGViGD3048og7.jpg",
-        "user": "crisamr91",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/sylvester-stallone/"
-    },
-    {
-        "name": "Peter Jackson",
-        "url": "https://image.tmdb.org/t/p/w342/bNc908d59Ba8VDNr4eCcm4G1cR.jpg",
-        "user": "jaragon23",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/peter-jackson/"
-    },
-    {
-        "name": "Damien Leone",
-        "url": "https://image.tmdb.org/t/p/w342/nX2kkYD32x2PC9rRU7DrYCRPjFE.jpg",
-        "user": "bel_romero",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/damien-leone/"
+        "person_lboxd_url": "/director/aki-kaurismaki/"
     },
     {
         "name": "Ridley Scott",
@@ -973,403 +1190,74 @@
         "person_lboxd_url": "/director/ridley-scott/"
     },
     {
-        "name": "Yorgos Lanthimos",
-        "url": "https://image.tmdb.org/t/p/w342/8pqwSOhJDS9Om9xHeaW2ab5uXLS.jpg",
-        "user": "cinemistica",
+        "name": "Ti West",
+        "url": "https://image.tmdb.org/t/p/w342/lZD5Vqg26s9T4MDPNldzmmjJq2c.jpg",
+        "user": "juliborg_",
         "watch_count": 4,
-        "person_lboxd_url": "/director/yorgos-lanthimos/"
+        "person_lboxd_url": "/director/ti-west/"
+    },
+    {
+        "name": "Ridley Scott",
+        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
+        "user": "stk5",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/ridley-scott/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "juliborg_",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "meliolivera97",
         "watch_count": 4,
         "person_lboxd_url": "/director/richard-linklater/"
     },
     {
-        "name": "David Fincher",
-        "url": "https://image.tmdb.org/t/p/w342/tpEczFclQZeKAiCeKZZ0adRvtfz.jpg",
-        "user": "zendrik",
+        "name": "Edward Yang",
+        "url": null,
+        "user": "miloteca",
         "watch_count": 4,
-        "person_lboxd_url": "/director/david-fincher/"
+        "person_lboxd_url": "/director/edward-yang/"
+    },
+    {
+        "name": "Christopher Nolan",
+        "url": null,
+        "user": "gabinotti",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/christopher-nolan/"
     },
     {
         "name": "Edgar Wright",
-        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
+        "url": null,
         "user": "lucasiflores",
         "watch_count": 4,
         "person_lboxd_url": "/director/edgar-wright/"
     },
     {
+        "name": "David Fincher",
+        "url": null,
+        "user": "zendrik",
+        "watch_count": 4,
+        "person_lboxd_url": "/director/david-fincher/"
+    },
+    {
         "name": "Sylvester Stallone",
         "url": "https://image.tmdb.org/t/p/w342/gn3pDWthJqR0VDYGViGD3048og7.jpg",
-        "user": "tomas95bv",
+        "user": "superagustina",
         "watch_count": 4,
         "person_lboxd_url": "/director/sylvester-stallone/"
     },
     {
-        "name": "Yorgos Lanthimos",
-        "url": "https://image.tmdb.org/t/p/w342/8pqwSOhJDS9Om9xHeaW2ab5uXLS.jpg",
-        "user": "barbiemaestra",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/yorgos-lanthimos/"
-    },
-    {
-        "name": "Ridley Scott",
-        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
-        "user": "jaragon23",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/ridley-scott/"
-    },
-    {
-        "name": "Bryan Singer",
-        "url": "https://image.tmdb.org/t/p/w342/to8mWJabPoWkphkbYKoutCVSj06.jpg",
-        "user": "rocanx",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/bryan-singer/"
-    },
-    {
         "name": "Joel Schumacher",
-        "url": "https://image.tmdb.org/t/p/w342/ttXniaNjekrOBjLQpZqTv89AakA.jpg",
+        "url": null,
         "user": "d4ir4",
         "watch_count": 4,
         "person_lboxd_url": "/director/joel-schumacher/"
     },
     {
         "name": "Tim Burton",
-        "url": "https://image.tmdb.org/t/p/w342/wcjuY5vD1nlfwWNbvvTGg5dGoRR.jpg",
-        "user": "jaragon23",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/tim-burton/"
-    },
-    {
-        "name": "George Miller",
-        "url": "https://image.tmdb.org/t/p/w342/35NQ8HjFXQlGYDz9UkhT08lKl5C.jpg",
-        "user": "afroluffy",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/george-miller/"
-    },
-    {
-        "name": "Sam Liu",
-        "url": "https://image.tmdb.org/t/p/w342/cJRXmsIxWuzXn6bA9N0IiEu6A9H.jpg",
-        "user": "svafnerd",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/sam-liu/"
-    },
-    {
-        "name": "Wong Kar-wai",
-        "url": "https://image.tmdb.org/t/p/w342/wjNI9KM9qJSYZHxkjD4Pm81kfc4.jpg",
-        "user": "chicosingorra",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/wong-kar-wai/"
-    },
-    {
-        "name": "Wes Craven",
-        "url": "https://image.tmdb.org/t/p/w342/eqwl6owrYykeTGTpKxwcAkbEJmg.jpg",
-        "user": "sofialamorte",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/wes-craven/"
-    },
-    {
-        "name": "Ti West",
-        "url": "https://image.tmdb.org/t/p/w342/y65ZHU9m830lbdbggxC8eOT123S.jpg",
-        "user": "juliborg_",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/ti-west/"
-    },
-    {
-        "name": "Sylvester Stallone",
-        "url": "https://image.tmdb.org/t/p/w342/gn3pDWthJqR0VDYGViGD3048og7.jpg",
-        "user": "juli_neme",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/sylvester-stallone/"
-    },
-    {
-        "name": "Edward Yang",
-        "url": "https://image.tmdb.org/t/p/w342/mvQ0oSfPgyohdTpr3hETXQy7ilz.jpg",
-        "user": "miloteca",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/edward-yang/"
-    },
-    {
-        "name": "Edgar Wright",
-        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
-        "user": "svafnerd",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/edgar-wright/"
-    },
-    {
-        "name": "Bryan Singer",
-        "url": "https://image.tmdb.org/t/p/w342/to8mWJabPoWkphkbYKoutCVSj06.jpg",
-        "user": "tucodelentejas",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/bryan-singer/"
-    },
-    {
-        "name": "Clint Eastwood",
-        "url": "https://image.tmdb.org/t/p/w342/dU35NnjZ4aGw5abIJe3WXVf3Eey.jpg",
-        "user": "lafloromero",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/clint-eastwood/"
-    },
-    {
-        "name": "Clint Eastwood",
-        "url": "https://image.tmdb.org/t/p/w342/dU35NnjZ4aGw5abIJe3WXVf3Eey.jpg",
-        "user": "tomas95bv",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/clint-eastwood/"
-    },
-    {
-        "name": "Paul Verhoeven",
-        "url": "https://image.tmdb.org/t/p/w342/wxkroRBtM6NKZdx9sYLFfFSGnaR.jpg",
-        "user": "afroluffy",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/paul-verhoeven-3/"
-    },
-    {
-        "name": "Bryan Singer",
-        "url": "https://image.tmdb.org/t/p/w342/to8mWJabPoWkphkbYKoutCVSj06.jpg",
-        "user": "lafloromero",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/bryan-singer/"
-    },
-    {
-        "name": "Yorgos Lanthimos",
-        "url": "https://image.tmdb.org/t/p/w342/8pqwSOhJDS9Om9xHeaW2ab5uXLS.jpg",
-        "user": "turco",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/yorgos-lanthimos/"
-    },
-    {
-        "name": "Damien Leone",
-        "url": "https://image.tmdb.org/t/p/w342/nX2kkYD32x2PC9rRU7DrYCRPjFE.jpg",
-        "user": "leandrocoria",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/damien-leone/"
-    },
-    {
-        "name": "Bryan Singer",
-        "url": "https://image.tmdb.org/t/p/w342/to8mWJabPoWkphkbYKoutCVSj06.jpg",
-        "user": "polialvarez",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/bryan-singer/"
-    },
-    {
-        "name": "Lucía Seles",
-        "url": "https://image.tmdb.org/t/p/w342/pvX6srIQ2lhptlG3V8DnerUbbtf.jpg",
-        "user": "elbachee",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/lucia-seles/"
-    },
-    {
-        "name": "Ridley Scott",
-        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
-        "user": "zendrik",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/ridley-scott/"
-    },
-    {
-        "name": "Bryan Singer",
-        "url": "https://image.tmdb.org/t/p/w342/to8mWJabPoWkphkbYKoutCVSj06.jpg",
-        "user": "lxonxl",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/bryan-singer/"
-    },
-    {
-        "name": "Brian De Palma",
-        "url": "https://image.tmdb.org/t/p/w342/4xleWFdhtVC7faer6Ru2eyEgfTv.jpg",
-        "user": "afroluffy",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/brian-de-palma/"
-    },
-    {
-        "name": "Sylvester Stallone",
-        "url": "https://image.tmdb.org/t/p/w342/gn3pDWthJqR0VDYGViGD3048og7.jpg",
-        "user": "lucasiflores",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/sylvester-stallone/"
-    },
-    {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "meliolivera97",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/richard-linklater/"
-    },
-    {
-        "name": "Sam Liu",
-        "url": "https://image.tmdb.org/t/p/w342/cJRXmsIxWuzXn6bA9N0IiEu6A9H.jpg",
-        "user": "tomas95bv",
-        "watch_count": 4,
-        "person_lboxd_url": "/director/sam-liu/"
-    },
-    {
-        "name": "Kiyoshi Kurosawa",
-        "url": "https://image.tmdb.org/t/p/w342/jddYE0uzNicgSPFKDTV29OUPhjP.jpg",
-        "user": "rsberrocal",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/kiyoshi-kurosawa/"
-    },
-    {
-        "name": "Jordan Peele",
-        "url": "https://image.tmdb.org/t/p/w342/wPcXsgt2GdFMTaH0h2OuXr4UoPz.jpg",
-        "user": "leandrocoria",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/jordan-peele/"
-    },
-    {
-        "name": "Gus Van Sant",
-        "url": "https://image.tmdb.org/t/p/w342/kICHgrSh4eiICjz8piy9fTXIgph.jpg",
-        "user": "stk5",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/gus-van-sant/"
-    },
-    {
-        "name": "Neill Blomkamp",
-        "url": "https://image.tmdb.org/t/p/w342/yj40QEEfjbRFnlwY0XunocNKdAe.jpg",
-        "user": "chicosingorra",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/neill-blomkamp/"
-    },
-    {
-        "name": "Diego Kaplan",
-        "url": null,
-        "user": "lxonxl",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/diego-kaplan/"
-    },
-    {
-        "name": "Edgar Wright",
-        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
-        "user": "lxonxl",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/edgar-wright/"
-    },
-    {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "tucodelentejas",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/richard-linklater/"
-    },
-    {
-        "name": "Robert Zemeckis",
-        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
-        "user": "tucodelentejas",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/robert-zemeckis/"
-    },
-    {
-        "name": "McG",
-        "url": "https://image.tmdb.org/t/p/w342/sEcoHVCqc2IrJkxgixGHrDytsyd.jpg",
-        "user": "dododok",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/mcg-1/"
-    },
-    {
-        "name": "Steven Spielberg",
-        "url": "https://image.tmdb.org/t/p/w342/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
-        "user": "lumbago90",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/steven-spielberg/"
-    },
-    {
-        "name": "Steve Miner",
-        "url": "https://image.tmdb.org/t/p/w342/jI202evRSMXDHCugyWvrAaUuVO4.jpg",
-        "user": "lafloromero",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/steve-miner/"
-    },
-    {
-        "name": "Denis Villeneuve",
-        "url": "https://image.tmdb.org/t/p/w342/433lXlkdMGXzrpwnKM4Ul1sln15.jpg",
-        "user": "dododok",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/denis-villeneuve/"
-    },
-    {
-        "name": "Amir Aether Valen",
-        "url": "https://image.tmdb.org/t/p/w342/gCs0QngEutVgzkAvjvy1MU7qRa2.jpg",
-        "user": "nofloba",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/amir-aether-valen/"
-    },
-    {
-        "name": "Sylvester Stallone",
-        "url": "https://image.tmdb.org/t/p/w342/gn3pDWthJqR0VDYGViGD3048og7.jpg",
-        "user": "consulting_",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/sylvester-stallone/"
-    },
-    {
-        "name": "Robert Zemeckis",
-        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
-        "user": "juli_neme",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/robert-zemeckis/"
-    },
-    {
-        "name": "Jorge Nisco",
-        "url": null,
-        "user": "bel_romero",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/jorge-nisco/"
-    },
-    {
-        "name": "Darren Aronofsky",
-        "url": "https://image.tmdb.org/t/p/w342/tOjz8mVI2HeQBvU6KNjIExMBsXL.jpg",
-        "user": "lumbago90",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/darren-aronofsky/"
-    },
-    {
-        "name": "Yasujirō Ozu",
-        "url": "https://image.tmdb.org/t/p/w342/s0KBnwAxr6Aujbi6cA3inDqH8Fe.jpg",
-        "user": "rsberrocal",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/yasujiro-ozu/"
-    },
-    {
-        "name": "Tim Burton",
-        "url": "https://image.tmdb.org/t/p/w342/wcjuY5vD1nlfwWNbvvTGg5dGoRR.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/yHEHAHQpN9PfSEQx1UxZPczhcAi.jpg",
         "user": "malei13",
         "watch_count": 3,
         "person_lboxd_url": "/director/tim-burton/"
-    },
-    {
-        "name": "Ti West",
-        "url": "https://image.tmdb.org/t/p/w342/y65ZHU9m830lbdbggxC8eOT123S.jpg",
-        "user": "cristianponce",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/ti-west/"
-    },
-    {
-        "name": "Jorge Nisco",
-        "url": null,
-        "user": "crisamr91",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/jorge-nisco/"
-    },
-    {
-        "name": "Ridley Scott",
-        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
-        "user": "turco",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/ridley-scott/"
-    },
-    {
-        "name": "Ti West",
-        "url": "https://image.tmdb.org/t/p/w342/y65ZHU9m830lbdbggxC8eOT123S.jpg",
-        "user": "crisamr91",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/ti-west/"
-    },
-    {
-        "name": "Sebastián Borensztein",
-        "url": null,
-        "user": "malei13",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/sebastian-borensztein/"
     },
     {
         "name": "Diego Kaplan",
@@ -1377,41 +1265,6 @@
         "user": "polialvarez",
         "watch_count": 3,
         "person_lboxd_url": "/director/diego-kaplan/"
-    },
-    {
-        "name": "Steven Spielberg",
-        "url": "https://image.tmdb.org/t/p/w342/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
-        "user": "elbachee",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/steven-spielberg/"
-    },
-    {
-        "name": "Edgar Wright",
-        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
-        "user": "polialvarez",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/edgar-wright/"
-    },
-    {
-        "name": "Satoshi Kon",
-        "url": "https://image.tmdb.org/t/p/w342/b7Oqg1bjS0e2iEzEjYWnsyVVagt.jpg",
-        "user": "crisamr91",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/satoshi-kon/"
-    },
-    {
-        "name": "Brian De Palma",
-        "url": "https://image.tmdb.org/t/p/w342/4xleWFdhtVC7faer6Ru2eyEgfTv.jpg",
-        "user": "stk5",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/brian-de-palma/"
-    },
-    {
-        "name": "Denis Villeneuve",
-        "url": "https://image.tmdb.org/t/p/w342/433lXlkdMGXzrpwnKM4Ul1sln15.jpg",
-        "user": "lumbago90",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/denis-villeneuve/"
     },
     {
         "name": "James Cameron",
@@ -1421,242 +1274,32 @@
         "person_lboxd_url": "/director/james-cameron/"
     },
     {
-        "name": "Robert Zemeckis",
-        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
-        "user": "solbaudry",
+        "name": "Nick Park",
+        "url": "https://image.tmdb.org/t/p/w342/C51kzgPopTjOkLewW9Pt8f2YIG.jpg",
+        "user": "leandrocoria",
         "watch_count": 3,
-        "person_lboxd_url": "/director/robert-zemeckis/"
+        "person_lboxd_url": "/director/nick-park/"
     },
     {
-        "name": "Robert Zemeckis",
-        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
-        "user": "lucasvar",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/robert-zemeckis/"
-    },
-    {
-        "name": "Francis Ford Coppola",
-        "url": "https://image.tmdb.org/t/p/w342/3Pblihd6KjXliie9vj4iQJwbNPU.jpg",
+        "name": "Brian De Palma",
+        "url": "https://image.tmdb.org/t/p/w342/t29YojZlOEqNSWvfmY0DDYh3vnb.jpg",
         "user": "stk5",
         "watch_count": 3,
-        "person_lboxd_url": "/director/francis-ford-coppola/"
-    },
-    {
-        "name": "George Miller",
-        "url": "https://image.tmdb.org/t/p/w342/35NQ8HjFXQlGYDz9UkhT08lKl5C.jpg",
-        "user": "stk5",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/george-miller/"
-    },
-    {
-        "name": "Jorge Nisco",
-        "url": null,
-        "user": "juli_neme",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/jorge-nisco/"
-    },
-    {
-        "name": "Lawrence Kasdan",
-        "url": "https://image.tmdb.org/t/p/w342/jX1PvTXU6212ruyHhJHiFP2ZKQ9.jpg",
-        "user": "cristianponce",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/lawrence-kasdan/"
-    },
-    {
-        "name": "Denis Villeneuve",
-        "url": "https://image.tmdb.org/t/p/w342/433lXlkdMGXzrpwnKM4Ul1sln15.jpg",
-        "user": "juanitagroisman",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/denis-villeneuve/"
-    },
-    {
-        "name": "Peter Jackson",
-        "url": "https://image.tmdb.org/t/p/w342/bNc908d59Ba8VDNr4eCcm4G1cR.jpg",
-        "user": "lumbago90",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/peter-jackson/"
-    },
-    {
-        "name": "Francis Lawrence",
-        "url": "https://image.tmdb.org/t/p/w342/pyGWo5mAwZ2Koe6leB2RjKd7vmc.jpg",
-        "user": "sofialamorte",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/francis-lawrence/"
-    },
-    {
-        "name": "Sergio Leone",
-        "url": "https://image.tmdb.org/t/p/w342/2576qoW8l9Z1nKGM10ar60aIwUu.jpg",
-        "user": "ivan2805",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/sergio-leone/"
-    },
-    {
-        "name": "Yorgos Lanthimos",
-        "url": "https://image.tmdb.org/t/p/w342/8pqwSOhJDS9Om9xHeaW2ab5uXLS.jpg",
-        "user": "zendrik",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/yorgos-lanthimos/"
-    },
-    {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "cinemistica",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/richard-linklater/"
-    },
-    {
-        "name": "Ridley Scott",
-        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
-        "user": "cinemistica",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/ridley-scott/"
-    },
-    {
-        "name": "Tom Six",
-        "url": "https://image.tmdb.org/t/p/w342/rp9BA1HtLeiAWOzM4IbrfrfLJ0l.jpg",
-        "user": "gerardeboedo",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/tom-six-1/"
-    },
-    {
-        "name": "Martin Scorsese",
-        "url": "https://image.tmdb.org/t/p/w342/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg",
-        "user": "yeyito",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/martin-scorsese/"
-    },
-    {
-        "name": "Sam Raimi",
-        "url": "https://image.tmdb.org/t/p/w342/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
-        "user": "car_lita",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/sam-raimi/"
-    },
-    {
-        "name": "Ti West",
-        "url": "https://image.tmdb.org/t/p/w342/y65ZHU9m830lbdbggxC8eOT123S.jpg",
-        "user": "gerardeboedo",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/ti-west/"
-    },
-    {
-        "name": "Bryan Singer",
-        "url": "https://image.tmdb.org/t/p/w342/to8mWJabPoWkphkbYKoutCVSj06.jpg",
-        "user": "zendrik",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/bryan-singer/"
-    },
-    {
-        "name": "Robert Zemeckis",
-        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
-        "user": "akasers0",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/robert-zemeckis/"
-    },
-    {
-        "name": "Nicolas Winding Refn",
-        "url": "https://image.tmdb.org/t/p/w342/ljiTTCvDaKFxbIbkLv1vUvOSLEx.jpg",
-        "user": "akasers0",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/nicolas-winding-refn/"
-    },
-    {
-        "name": "Hideaki Anno",
-        "url": "https://image.tmdb.org/t/p/w342/AfV9h1RW6uALpx751APdUoX8ONc.jpg",
-        "user": "miloteca",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/hideaki-anno/"
-    },
-    {
-        "name": "Pedro Almodóvar",
-        "url": "https://image.tmdb.org/t/p/w342/eRgGaVKEftJ0rbZCOPzCSOBZi9.jpg",
-        "user": "virus_rar",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/pedro-almodovar/"
-    },
-    {
-        "name": "Radu Jude",
-        "url": "https://image.tmdb.org/t/p/w342/rOYPp2WUIvWB2HXNIICT44jB7CY.jpg",
-        "user": "julietary",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/radu-jude/"
-    },
-    {
-        "name": "James Mangold",
-        "url": "https://image.tmdb.org/t/p/w342/pk0GDjn99crNwR4qgCCEokDYd71.jpg",
-        "user": "disnick123",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/james-mangold/"
-    },
-    {
-        "name": "Pablo Parés",
-        "url": "https://image.tmdb.org/t/p/w342/ucjibOwDU9qqtgy1tMPLlhmnPm1.jpg",
-        "user": "gerardeboedo",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/pablo-pares/"
-    },
-    {
-        "name": "Stuart Gordon",
-        "url": "https://image.tmdb.org/t/p/w342/9LZpmQx9pwgFInRbbAFEkyUMGlc.jpg",
-        "user": "car_lita",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/stuart-gordon/"
-    },
-    {
-        "name": "Néstor Frenkel",
-        "url": "https://image.tmdb.org/t/p/w342/ryowpVIRmdfsrytsYDTxkzVSziW.jpg",
-        "user": "meliolivera97",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/nestor-frenkel/"
-    },
-    {
-        "name": "Bryan Singer",
-        "url": "https://image.tmdb.org/t/p/w342/to8mWJabPoWkphkbYKoutCVSj06.jpg",
-        "user": "milurock",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/bryan-singer/"
-    },
-    {
-        "name": "Peter Tscherkassky",
-        "url": "https://image.tmdb.org/t/p/w342/gH3qDFx9g286QbfUS6BLWD3BZ1y.jpg",
-        "user": "franco_c",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/peter-tscherkassky-1/"
-    },
-    {
-        "name": "Yorgos Lanthimos",
-        "url": "https://image.tmdb.org/t/p/w342/8pqwSOhJDS9Om9xHeaW2ab5uXLS.jpg",
-        "user": "nofloba",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/yorgos-lanthimos/"
+        "person_lboxd_url": "/director/brian-de-palma/"
     },
     {
         "name": "Damien Leone",
-        "url": "https://image.tmdb.org/t/p/w342/nX2kkYD32x2PC9rRU7DrYCRPjFE.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/kgHow969kOY5wP1C5pRZnWBxxuH.jpg",
         "user": "rocanx",
         "watch_count": 3,
         "person_lboxd_url": "/director/damien-leone/"
     },
     {
-        "name": "Éric Rohmer",
-        "url": "https://image.tmdb.org/t/p/w342/tLiyKPB6WzSgs8hOMGsKZbchmIh.jpg",
-        "user": "miloteca",
+        "name": "Denis Villeneuve",
+        "url": null,
+        "user": "juanitagroisman",
         "watch_count": 3,
-        "person_lboxd_url": "/director/eric-rohmer/"
-    },
-    {
-        "name": "Edgar Wright",
-        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
-        "user": "disnick123",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/edgar-wright/"
-    },
-    {
-        "name": "Robert Zemeckis",
-        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
-        "user": "svafnerd",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/robert-zemeckis/"
+        "person_lboxd_url": "/director/denis-villeneuve/"
     },
     {
         "name": "James Mangold",
@@ -1666,11 +1309,53 @@
         "person_lboxd_url": "/director/james-mangold/"
     },
     {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "car_lita",
+        "name": "Edgar Wright",
+        "url": null,
+        "user": "polialvarez",
         "watch_count": 3,
-        "person_lboxd_url": "/director/richard-linklater/"
+        "person_lboxd_url": "/director/edgar-wright/"
+    },
+    {
+        "name": "Sebastián Borensztein",
+        "url": null,
+        "user": "malei13",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/sebastian-borensztein/"
+    },
+    {
+        "name": "Bryan Singer",
+        "url": null,
+        "user": "zendrik",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/bryan-singer/"
+    },
+    {
+        "name": "James Wan",
+        "url": null,
+        "user": "nofloba",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/james-wan/"
+    },
+    {
+        "name": "Yorgos Lanthimos",
+        "url": null,
+        "user": "malei13",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/yorgos-lanthimos/"
+    },
+    {
+        "name": "Denis Villeneuve",
+        "url": null,
+        "user": "lumbago90",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/denis-villeneuve/"
+    },
+    {
+        "name": "Jorge Nisco",
+        "url": null,
+        "user": "bel_romero",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/jorge-nisco/"
     },
     {
         "name": "Ridley Scott",
@@ -1680,11 +1365,487 @@
         "person_lboxd_url": "/director/ridley-scott/"
     },
     {
+        "name": "George Miller",
+        "url": null,
+        "user": "stk5",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/george-miller/"
+    },
+    {
+        "name": "Darren Aronofsky",
+        "url": "https://image.tmdb.org/t/p/w342/tOjz8mVI2HeQBvU6KNjIExMBsXL.jpg",
+        "user": "lumbago90",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/darren-aronofsky/"
+    },
+    {
+        "name": "Georges Méliès",
+        "url": "https://image.tmdb.org/t/p/w342/acx5saf22Qj6FV5WAsacRHlZAMn.jpg",
+        "user": "stk5",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/georges-melies-1/"
+    },
+    {
+        "name": "Genndy Tartakovsky",
+        "url": null,
+        "user": "dododok",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/genndy-tartakovsky/"
+    },
+    {
+        "name": "Akira Kurosawa",
+        "url": "https://image.tmdb.org/t/p/w342/eGexa6MZ22T1MZxce1qR3RcAYaS.jpg",
+        "user": "lafloromero",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/akira-kurosawa/"
+    },
+    {
+        "name": "Sam Raimi",
+        "url": "https://image.tmdb.org/t/p/w342/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
+        "user": "car_lita",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/sam-raimi/"
+    },
+    {
+        "name": "Gus Van Sant",
+        "url": "https://image.tmdb.org/t/p/w342/kICHgrSh4eiICjz8piy9fTXIgph.jpg",
+        "user": "stk5",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/gus-van-sant/"
+    },
+    {
+        "name": "Ti West",
+        "url": "https://image.tmdb.org/t/p/w342/lZD5Vqg26s9T4MDPNldzmmjJq2c.jpg",
+        "user": "cristianponce",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/ti-west/"
+    },
+    {
+        "name": "James Cameron",
+        "url": "https://image.tmdb.org/t/p/w342/9NAZnTjBQ9WcXAQEzZpKy4vdQto.jpg",
+        "user": "gabinotti",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/james-cameron/"
+    },
+    {
+        "name": "Yasujirō Ozu",
+        "url": null,
+        "user": "rsberrocal",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/yasujiro-ozu/"
+    },
+    {
+        "name": "Jeff Wamester",
+        "url": null,
+        "user": "svafnerd",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/jeff-wamester/"
+    },
+    {
+        "name": "Robert Zemeckis",
+        "url": null,
+        "user": "svafnerd",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/robert-zemeckis/"
+    },
+    {
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "car_lita",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/richard-linklater/"
+    },
+    {
+        "name": "Yorgos Lanthimos",
+        "url": null,
+        "user": "nofloba",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/yorgos-lanthimos/"
+    },
+    {
+        "name": "Edgar Wright",
+        "url": null,
+        "user": "juli_neme",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/edgar-wright/"
+    },
+    {
+        "name": "Nicolas Winding Refn",
+        "url": "https://image.tmdb.org/t/p/w342/ljiTTCvDaKFxbIbkLv1vUvOSLEx.jpg",
+        "user": "dododok",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/nicolas-winding-refn/"
+    },
+    {
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "tucodelentejas",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/richard-linklater/"
+    },
+    {
+        "name": "Jim Jarmusch",
+        "url": "https://image.tmdb.org/t/p/w342/iMpIrvhoO9SZWhiDkSzaUt9Yd4N.jpg",
+        "user": "miloteca",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/jim-jarmusch/"
+    },
+    {
+        "name": "Robert Zemeckis",
+        "url": null,
+        "user": "tucodelentejas",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/robert-zemeckis/"
+    },
+    {
+        "name": "Jorge Nisco",
+        "url": null,
+        "user": "juli_neme",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/jorge-nisco/"
+    },
+    {
+        "name": "Patricio Guzmán",
+        "url": null,
+        "user": "miloteca",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/patricio-guzman/"
+    },
+    {
+        "name": "Bryan Singer",
+        "url": null,
+        "user": "svafnerd",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/bryan-singer/"
+    },
+    {
+        "name": "Bryan Singer",
+        "url": null,
+        "user": "juli_neme",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/bryan-singer/"
+    },
+    {
+        "name": "Edgar Wright",
+        "url": null,
+        "user": "andreapajares",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/edgar-wright/"
+    },
+    {
         "name": "Quentin Dupieux",
-        "url": "https://image.tmdb.org/t/p/w342/4sgTcy8ME1IC6a2AMdzxGpjm15t.jpg",
+        "url": null,
         "user": "gabinotti",
         "watch_count": 3,
         "person_lboxd_url": "/director/quentin-dupieux/"
+    },
+    {
+        "name": "Jorge Nisco",
+        "url": null,
+        "user": "superagustina",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/jorge-nisco/"
+    },
+    {
+        "name": "Marcelo Piñeyro",
+        "url": null,
+        "user": "andreapajares",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/marcelo-pineyro/"
+    },
+    {
+        "name": "Robert Zemeckis",
+        "url": null,
+        "user": "superagustina",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/robert-zemeckis/"
+    },
+    {
+        "name": "Damián Szifron",
+        "url": null,
+        "user": "andreapajares",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/damian-szifron-1/"
+    },
+    {
+        "name": "Wes Craven",
+        "url": null,
+        "user": "porza9",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/wes-craven/"
+    },
+    {
+        "name": "Víctor Erice",
+        "url": null,
+        "user": "porza9",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/victor-erice/"
+    },
+    {
+        "name": "Néstor Frenkel",
+        "url": null,
+        "user": "disnick123",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/nestor-frenkel/"
+    },
+    {
+        "name": "Edgar Wright",
+        "url": null,
+        "user": "lxonxl",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/edgar-wright/"
+    },
+    {
+        "name": "Neill Blomkamp",
+        "url": null,
+        "user": "chicosingorra",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/neill-blomkamp/"
+    },
+    {
+        "name": "Robert Zemeckis",
+        "url": null,
+        "user": "solbaudry",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/robert-zemeckis/"
+    },
+    {
+        "name": "Steven Spielberg",
+        "url": "https://image.tmdb.org/t/p/w342/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
+        "user": "elbachee",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/steven-spielberg/"
+    },
+    {
+        "name": "Steven Spielberg",
+        "url": "https://image.tmdb.org/t/p/w342/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
+        "user": "lumbago90",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/steven-spielberg/"
+    },
+    {
+        "name": "Ridley Scott",
+        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
+        "user": "turco",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/ridley-scott/"
+    },
+    {
+        "name": "Diego Kaplan",
+        "url": null,
+        "user": "lxonxl",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/diego-kaplan/"
+    },
+    {
+        "name": "Quentin Dupieux",
+        "url": null,
+        "user": "porza9",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/quentin-dupieux/"
+    },
+    {
+        "name": "Peter Jackson",
+        "url": null,
+        "user": "lumbago90",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/peter-jackson/"
+    },
+    {
+        "name": "Radu Jude",
+        "url": "https://image.tmdb.org/t/p/w342/rOYPp2WUIvWB2HXNIICT44jB7CY.jpg",
+        "user": "julietary",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/radu-jude/"
+    },
+    {
+        "name": "Francis Lawrence",
+        "url": null,
+        "user": "sofialamorte",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/francis-lawrence/"
+    },
+    {
+        "name": "Lawrence Kasdan",
+        "url": null,
+        "user": "cristianponce",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/lawrence-kasdan/"
+    },
+    {
+        "name": "Bill Condon",
+        "url": null,
+        "user": "rocanx",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/bill-condon/"
+    },
+    {
+        "name": "Aki Kaurismäki",
+        "url": null,
+        "user": "julietary",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/aki-kaurismaki/"
+    },
+    {
+        "name": "Yorgos Lanthimos",
+        "url": null,
+        "user": "zendrik",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/yorgos-lanthimos/"
+    },
+    {
+        "name": "Daisuke Nishio",
+        "url": null,
+        "user": "cinemistica",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/daisuke-nishio-1/"
+    },
+    {
+        "name": "Sylvester Stallone",
+        "url": "https://image.tmdb.org/t/p/w342/gn3pDWthJqR0VDYGViGD3048og7.jpg",
+        "user": "milurock",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/sylvester-stallone/"
+    },
+    {
+        "name": "Kenny Ortega",
+        "url": null,
+        "user": "cinemistica",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/kenny-ortega/"
+    },
+    {
+        "name": "Sergio Leone",
+        "url": "https://image.tmdb.org/t/p/w342/2576qoW8l9Z1nKGM10ar60aIwUu.jpg",
+        "user": "ivan2805",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/sergio-leone/"
+    },
+    {
+        "name": "Stuart Gordon",
+        "url": "https://image.tmdb.org/t/p/w342/9LZpmQx9pwgFInRbbAFEkyUMGlc.jpg",
+        "user": "car_lita",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/stuart-gordon/"
+    },
+    {
+        "name": "Nicolas Winding Refn",
+        "url": "https://image.tmdb.org/t/p/w342/ljiTTCvDaKFxbIbkLv1vUvOSLEx.jpg",
+        "user": "akasers0",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/nicolas-winding-refn/"
+    },
+    {
+        "name": "Tom Six",
+        "url": null,
+        "user": "gerardeboedo",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/tom-six-1/"
+    },
+    {
+        "name": "Peter Tscherkassky",
+        "url": "https://image.tmdb.org/t/p/w342/gH3qDFx9g286QbfUS6BLWD3BZ1y.jpg",
+        "user": "franco_c",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/peter-tscherkassky-1/"
+    },
+    {
+        "name": "Robert Zemeckis",
+        "url": null,
+        "user": "lucasvar",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/robert-zemeckis/"
+    },
+    {
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "emibarrilete",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/richard-linklater/"
+    },
+    {
+        "name": "Pedro Almodóvar",
+        "url": "https://image.tmdb.org/t/p/w342/dKlaXJk3NLcsC1CKMx6xmyW5BZD.jpg",
+        "user": "virus_rar",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/pedro-almodovar/"
+    },
+    {
+        "name": "Damien Leone",
+        "url": "https://image.tmdb.org/t/p/w342/kgHow969kOY5wP1C5pRZnWBxxuH.jpg",
+        "user": "consulting_",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/damien-leone/"
+    },
+    {
+        "name": "Edgar Wright",
+        "url": null,
+        "user": "disnick123",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/edgar-wright/"
+    },
+    {
+        "name": "Aditya Chopra",
+        "url": null,
+        "user": "akasers0",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/aditya-chopra/"
+    },
+    {
+        "name": "Robert Zemeckis",
+        "url": null,
+        "user": "isa_ycaza3010",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/robert-zemeckis/"
+    },
+    {
+        "name": "Ti West",
+        "url": "https://image.tmdb.org/t/p/w342/lZD5Vqg26s9T4MDPNldzmmjJq2c.jpg",
+        "user": "gerardeboedo",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/ti-west/"
+    },
+    {
+        "name": "Sylvester Stallone",
+        "url": "https://image.tmdb.org/t/p/w342/gn3pDWthJqR0VDYGViGD3048og7.jpg",
+        "user": "consulting_",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/sylvester-stallone/"
+    },
+    {
+        "name": "Néstor Frenkel",
+        "url": null,
+        "user": "meliolivera97",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/nestor-frenkel/"
+    },
+    {
+        "name": "Kiyoshi Kurosawa",
+        "url": "https://image.tmdb.org/t/p/w342/jddYE0uzNicgSPFKDTV29OUPhjP.jpg",
+        "user": "rsberrocal",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/kiyoshi-kurosawa/"
+    },
+    {
+        "name": "Martin Scorsese",
+        "url": null,
+        "user": "yeyito",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/martin-scorsese/"
+    },
+    {
+        "name": "Wes Craven",
+        "url": null,
+        "user": "rocanx",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/wes-craven/"
+    },
+    {
+        "name": "Pablo Parés",
+        "url": null,
+        "user": "gerardeboedo",
+        "watch_count": 3,
+        "person_lboxd_url": "/director/pablo-pares/"
     },
     {
         "name": "Sylvester Stallone",
@@ -1694,151 +1855,88 @@
         "person_lboxd_url": "/director/sylvester-stallone/"
     },
     {
-        "name": "Bryan Singer",
-        "url": "https://image.tmdb.org/t/p/w342/to8mWJabPoWkphkbYKoutCVSj06.jpg",
-        "user": "svafnerd",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/bryan-singer/"
-    },
-    {
-        "name": "Robert Zemeckis",
-        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
-        "user": "isa_ycaza3010",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/robert-zemeckis/"
-    },
-    {
-        "name": "Quentin Dupieux",
-        "url": "https://image.tmdb.org/t/p/w342/4sgTcy8ME1IC6a2AMdzxGpjm15t.jpg",
-        "user": "porza9",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/quentin-dupieux/"
-    },
-    {
-        "name": "Robert Zemeckis",
-        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
-        "user": "gabinotti",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/robert-zemeckis/"
-    },
-    {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "emibarrilete",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/richard-linklater/"
-    },
-    {
-        "name": "Wes Craven",
-        "url": "https://image.tmdb.org/t/p/w342/eqwl6owrYykeTGTpKxwcAkbEJmg.jpg",
-        "user": "porza9",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/wes-craven/"
-    },
-    {
-        "name": "Víctor Erice",
-        "url": "https://image.tmdb.org/t/p/w342/c1iNbHXNIN2qW0kRPCAaeMN4MnZ.jpg",
-        "user": "porza9",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/victor-erice/"
-    },
-    {
-        "name": "Damien Leone",
-        "url": "https://image.tmdb.org/t/p/w342/nX2kkYD32x2PC9rRU7DrYCRPjFE.jpg",
-        "user": "consulting_",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/damien-leone/"
-    },
-    {
-        "name": "Jay Oliva",
-        "url": "https://image.tmdb.org/t/p/w342/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg",
-        "user": "svafnerd",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/jay-oliva-3/"
-    },
-    {
-        "name": "Bill Condon",
-        "url": "https://image.tmdb.org/t/p/w342/dk7EK0mbUxgoDr7ki9kgYHu4cZs.jpg",
-        "user": "rocanx",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/bill-condon/"
-    },
-    {
-        "name": "Aki Kaurismäki",
-        "url": "https://image.tmdb.org/t/p/w342/t0pdsYfLts7p01OBN1P9UHp1Z0l.jpg",
-        "user": "julietary",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/aki-kaurismaki/"
-    },
-    {
-        "name": "Wes Craven",
-        "url": "https://image.tmdb.org/t/p/w342/eqwl6owrYykeTGTpKxwcAkbEJmg.jpg",
-        "user": "rocanx",
-        "watch_count": 3,
-        "person_lboxd_url": "/director/wes-craven/"
-    },
-    {
-        "name": "Shawn Levy",
-        "url": "https://image.tmdb.org/t/p/w342/j1CXZgmfvFeD7S3PYtsEk8H3ebB.jpg",
-        "user": "sofialamorte",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/shawn-levy/"
-    },
-    {
-        "name": "Frank Coraci",
-        "url": "https://image.tmdb.org/t/p/w342/z280cWJmhWgPmR9HrTXUn4BK06o.jpg",
-        "user": "joaqlandi",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/frank-coraci-1/"
-    },
-    {
-        "name": "Tom McLoughlin",
-        "url": "https://image.tmdb.org/t/p/w342/p9H02MZsKos8I9RREyeMty89oGN.jpg",
-        "user": "car_lita",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/tom-mcloughlin-1/"
-    },
-    {
-        "name": "John Carpenter",
-        "url": "https://image.tmdb.org/t/p/w342/3Qp0mg61u1qSZNJh30BFEUZrIMG.jpg",
-        "user": "cristianponce",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/john-carpenter/"
-    },
-    {
-        "name": "M. Night Shyamalan",
-        "url": "https://image.tmdb.org/t/p/w342/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg",
-        "user": "cristianponce",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/m-night-shyamalan/"
-    },
-    {
-        "name": "Robert Zemeckis",
-        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
-        "user": "sofialamorte",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/robert-zemeckis/"
-    },
-    {
         "name": "Martin Scorsese",
-        "url": "https://image.tmdb.org/t/p/w342/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg",
+        "url": null,
         "user": "solbaudry",
         "watch_count": 2,
         "person_lboxd_url": "/director/martin-scorsese/"
     },
     {
-        "name": "Sofia Coppola",
-        "url": "https://image.tmdb.org/t/p/w342/dzHC2LxmarkBxWLhjp2DRa5oCev.jpg",
-        "user": "jimenalucero",
+        "name": "Jonathan Glazer",
+        "url": null,
+        "user": "lucasvar",
         "watch_count": 2,
-        "person_lboxd_url": "/director/sofia-coppola/"
+        "person_lboxd_url": "/director/jonathan-glazer/"
     },
     {
-        "name": "John Lasseter",
-        "url": "https://image.tmdb.org/t/p/w342/xlrE4VD2VbZCDpaNdWCpH1ZihPS.jpg",
-        "user": "solbaudry",
+        "name": "Matt Reeves",
+        "url": null,
+        "user": "lucasvar",
         "watch_count": 2,
-        "person_lboxd_url": "/director/john-lasseter-1/"
+        "person_lboxd_url": "/director/matt-reeves/"
+    },
+    {
+        "name": "David R. Ellis",
+        "url": "https://image.tmdb.org/t/p/w342/zw1ccRyxUBy0y7JDdXTZAYg96xd.jpg",
+        "user": "lucasvar",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/david-r-ellis/"
+    },
+    {
+        "name": "Tim Burton",
+        "url": "https://image.tmdb.org/t/p/w342/yHEHAHQpN9PfSEQx1UxZPczhcAi.jpg",
+        "user": "ordiz90",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/tim-burton/"
+    },
+    {
+        "name": "Mario Bava",
+        "url": "https://image.tmdb.org/t/p/w342/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "user": "car_lita",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/mario-bava-1/"
+    },
+    {
+        "name": "John Landis",
+        "url": "https://image.tmdb.org/t/p/w342/nXKdxxELgAaGecCpxAWCoj6TV3f.jpg",
+        "user": "cristianponce",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/john-landis/"
+    },
+    {
+        "name": "Wes Ball",
+        "url": null,
+        "user": "sofialamorte",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/wes-ball/"
+    },
+    {
+        "name": "John Carpenter",
+        "url": null,
+        "user": "cristianponce",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/john-carpenter/"
+    },
+    {
+        "name": "Diego Kaplan",
+        "url": null,
+        "user": "superagustina",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/diego-kaplan/"
+    },
+    {
+        "name": "Tim Burton",
+        "url": "https://image.tmdb.org/t/p/w342/yHEHAHQpN9PfSEQx1UxZPczhcAi.jpg",
+        "user": "sofialamorte",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/tim-burton/"
+    },
+    {
+        "name": "James Wong",
+        "url": "https://image.tmdb.org/t/p/w342/uIo0Bk5HG4RRuvekKRGANzwBZin.jpg",
+        "user": "superagustina",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/james-wong/"
     },
     {
         "name": "David Leitch",
@@ -1848,11 +1946,18 @@
         "person_lboxd_url": "/director/david-leitch/"
     },
     {
-        "name": "Stanley Kubrick",
-        "url": "https://image.tmdb.org/t/p/w342/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
-        "user": "jimenalucero",
+        "name": "Frank Coraci",
+        "url": null,
+        "user": "joaqlandi",
         "watch_count": 2,
-        "person_lboxd_url": "/director/stanley-kubrick/"
+        "person_lboxd_url": "/director/frank-coraci-1/"
+    },
+    {
+        "name": "John Lasseter",
+        "url": "https://image.tmdb.org/t/p/w342/7EdqiNbr4FRjIhKHyPPdFfEEEFG.jpg",
+        "user": "solbaudry",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/john-lasseter-1/"
     },
     {
         "name": "Joel Coen",
@@ -1864,62 +1969,27 @@
     {
         "name": "Ridley Scott",
         "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
-        "user": "lucasvar",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/ridley-scott/"
-    },
-    {
-        "name": "Ridley Scott",
-        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
         "user": "juanitagroisman",
         "watch_count": 2,
         "person_lboxd_url": "/director/ridley-scott/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
         "user": "juanitagroisman",
         "watch_count": 2,
         "person_lboxd_url": "/director/richard-linklater/"
     },
     {
         "name": "Luca Guadagnino",
-        "url": "https://image.tmdb.org/t/p/w342/vWCkSOW65g8Ha26BzRxn5KhTEnF.jpg",
+        "url": null,
         "user": "juanitagroisman",
         "watch_count": 2,
         "person_lboxd_url": "/director/luca-guadagnino/"
     },
     {
-        "name": "Denis Villeneuve",
-        "url": "https://image.tmdb.org/t/p/w342/433lXlkdMGXzrpwnKM4Ul1sln15.jpg",
-        "user": "lucasvar",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/denis-villeneuve/"
-    },
-    {
-        "name": "Jonathan Glazer",
-        "url": "https://image.tmdb.org/t/p/w342/8pFNxscgellE6rhT5399eM00GAG.jpg",
-        "user": "lucasvar",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/jonathan-glazer/"
-    },
-    {
-        "name": "Yorgos Lanthimos",
-        "url": "https://image.tmdb.org/t/p/w342/8pqwSOhJDS9Om9xHeaW2ab5uXLS.jpg",
-        "user": "solbaudry",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/yorgos-lanthimos/"
-    },
-    {
-        "name": "Danny Boyle",
-        "url": "https://image.tmdb.org/t/p/w342/b5qQpFHmgNyvV1t81ou17Jt2fRj.jpg",
-        "user": "juanitagroisman",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/danny-boyle/"
-    },
-    {
         "name": "Todd Phillips",
-        "url": "https://image.tmdb.org/t/p/w342/A6FPht87DiqXzp456WjakLi2AtP.jpg",
+        "url": null,
         "user": "joaqlandi",
         "watch_count": 2,
         "person_lboxd_url": "/director/todd-phillips/"
@@ -1932,53 +2002,53 @@
         "person_lboxd_url": "/director/sylvester-stallone/"
     },
     {
+        "name": "Yorgos Lanthimos",
+        "url": null,
+        "user": "solbaudry",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/yorgos-lanthimos/"
+    },
+    {
+        "name": "Danny Boyle",
+        "url": "https://image.tmdb.org/t/p/w342/b5qQpFHmgNyvV1t81ou17Jt2fRj.jpg",
+        "user": "juanitagroisman",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/danny-boyle/"
+    },
+    {
         "name": "Eliseo Subiela",
-        "url": "https://image.tmdb.org/t/p/w342/yozVi3JYuQrPhLyi7CVG1KmkSLk.jpg",
+        "url": null,
         "user": "porza9",
         "watch_count": 2,
         "person_lboxd_url": "/director/eliseo-subiela-2/"
     },
     {
-        "name": "Tom Holland",
-        "url": "https://image.tmdb.org/t/p/w342/dWkwc5b0OjJSpk5oUZd6dEDnBlu.jpg",
-        "user": "gerardeboedo",
+        "name": "Hayao Miyazaki",
+        "url": null,
+        "user": "porza9",
         "watch_count": 2,
-        "person_lboxd_url": "/director/tom-holland-1/"
-    },
-    {
-        "name": "Wes Craven",
-        "url": "https://image.tmdb.org/t/p/w342/eqwl6owrYykeTGTpKxwcAkbEJmg.jpg",
-        "user": "gerardeboedo",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/wes-craven/"
-    },
-    {
-        "name": "Wes Anderson",
-        "url": "https://image.tmdb.org/t/p/w342/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg",
-        "user": "emibarrilete",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/wes-anderson/"
+        "person_lboxd_url": "/director/hayao-miyazaki/"
     },
     {
         "name": "Edgar Wright",
-        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
+        "url": null,
         "user": "hbiasotti",
         "watch_count": 2,
         "person_lboxd_url": "/director/edgar-wright/"
     },
     {
         "name": "George Miller",
-        "url": "https://image.tmdb.org/t/p/w342/35NQ8HjFXQlGYDz9UkhT08lKl5C.jpg",
+        "url": null,
         "user": "hbiasotti",
         "watch_count": 2,
         "person_lboxd_url": "/director/george-miller/"
     },
     {
-        "name": "Bong Joon-ho",
-        "url": "https://image.tmdb.org/t/p/w342/tKLJBqbdH6HFj2QxLA5o8Zk7IVs.jpg",
-        "user": "porza9",
+        "name": "Daniela Goggi",
+        "url": null,
+        "user": "franco_c",
         "watch_count": 2,
-        "person_lboxd_url": "/director/bong-joon-ho/"
+        "person_lboxd_url": "/director/daniela-goggi-1/"
     },
     {
         "name": "James Cameron",
@@ -1988,39 +2058,11 @@
         "person_lboxd_url": "/director/james-cameron/"
     },
     {
-        "name": "Tim Burton",
-        "url": "https://image.tmdb.org/t/p/w342/wcjuY5vD1nlfwWNbvvTGg5dGoRR.jpg",
-        "user": "emibarrilete",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/tim-burton/"
-    },
-    {
         "name": "M. Night Shyamalan",
-        "url": "https://image.tmdb.org/t/p/w342/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/9g5IYal9c12tq8XHT65pf0Gqo1f.jpg",
         "user": "hbiasotti",
         "watch_count": 2,
         "person_lboxd_url": "/director/m-night-shyamalan/"
-    },
-    {
-        "name": "Alejandro Montiel",
-        "url": null,
-        "user": "franco_c",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/alejandro-montiel/"
-    },
-    {
-        "name": "Juan Villegas",
-        "url": "https://image.tmdb.org/t/p/w342/qqTJGgzNBvPWjlp7M3nnrDhfSAM.jpg",
-        "user": "franco_c",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/juan-villegas/"
-    },
-    {
-        "name": "Daniela Goggi",
-        "url": "https://image.tmdb.org/t/p/w342/5X1a95b0wgQjHvoXCOVbhVMpJR7.jpg",
-        "user": "franco_c",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/daniela-goggi-1/"
     },
     {
         "name": "Michael Haneke",
@@ -2030,11 +2072,67 @@
         "person_lboxd_url": "/director/michael-haneke/"
     },
     {
+        "name": "Alejandro Montiel",
+        "url": null,
+        "user": "franco_c",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/alejandro-montiel/"
+    },
+    {
+        "name": "Sam Raimi",
+        "url": "https://image.tmdb.org/t/p/w342/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
+        "user": "gerardeboedo",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/sam-raimi/"
+    },
+    {
+        "name": "Steven Kostanski",
+        "url": null,
+        "user": "gerardeboedo",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/steven-kostanski/"
+    },
+    {
+        "name": "Juan Villegas",
+        "url": "https://image.tmdb.org/t/p/w342/qqTJGgzNBvPWjlp7M3nnrDhfSAM.jpg",
+        "user": "franco_c",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/juan-villegas/"
+    },
+    {
+        "name": "Sarah Minter",
+        "url": null,
+        "user": "emibarrilete",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/sarah-minter/"
+    },
+    {
+        "name": "David Bruckner",
+        "url": "https://image.tmdb.org/t/p/w342/ziv4BhpMsaGsqaM6p9sUs62MOzG.jpg",
+        "user": "consulting_",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/david-bruckner-2/"
+    },
+    {
         "name": "Quentin Tarantino",
         "url": "https://image.tmdb.org/t/p/w342/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg",
         "user": "emibarrilete",
         "watch_count": 2,
         "person_lboxd_url": "/director/quentin-tarantino/"
+    },
+    {
+        "name": "Emma Seligman",
+        "url": null,
+        "user": "rsberrocal",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/emma-seligman/"
+    },
+    {
+        "name": "Alonso Ruizpalacios",
+        "url": null,
+        "user": "rsberrocal",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/alonso-ruizpalacios-2/"
     },
     {
         "name": "Ali Abbasi",
@@ -2044,39 +2142,11 @@
         "person_lboxd_url": "/director/ali-abbasi/"
     },
     {
-        "name": "Alonso Ruizpalacios",
-        "url": "https://image.tmdb.org/t/p/w342/aCBWcK4P3yCmovYUVZ9Pcl8RhUP.jpg",
-        "user": "rsberrocal",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/alonso-ruizpalacios-2/"
-    },
-    {
-        "name": "Barbra Streisand",
-        "url": "https://image.tmdb.org/t/p/w342/fno2WhZfI5G6gdD88H5POLyv7eV.jpg",
-        "user": "consulting_",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/barbra-streisand/"
-    },
-    {
-        "name": "John G. Avildsen",
-        "url": "https://image.tmdb.org/t/p/w342/cBpz7xPTfT0cfPhQoGrp7x7esma.jpg",
-        "user": "isa_ycaza3010",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/john-g-avildsen/"
-    },
-    {
-        "name": "James Wong",
-        "url": "https://image.tmdb.org/t/p/w342/uIo0Bk5HG4RRuvekKRGANzwBZin.jpg",
-        "user": "isa_ycaza3010",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/james-wong/"
-    },
-    {
-        "name": "Sarah Minter",
-        "url": "https://image.tmdb.org/t/p/w342/tzFycvKhsB7zSYDcuXIPsw7iZCt.jpg",
+        "name": "Wes Anderson",
+        "url": "https://image.tmdb.org/t/p/w342/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg",
         "user": "emibarrilete",
         "watch_count": 2,
-        "person_lboxd_url": "/director/sarah-minter/"
+        "person_lboxd_url": "/director/wes-anderson/"
     },
     {
         "name": "David R. Ellis",
@@ -2086,11 +2156,25 @@
         "person_lboxd_url": "/director/david-r-ellis/"
     },
     {
-        "name": "Wes Anderson",
-        "url": "https://image.tmdb.org/t/p/w342/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg",
-        "user": "franco_c",
+        "name": "James Wong",
+        "url": "https://image.tmdb.org/t/p/w342/uIo0Bk5HG4RRuvekKRGANzwBZin.jpg",
+        "user": "isa_ycaza3010",
         "watch_count": 2,
-        "person_lboxd_url": "/director/wes-anderson/"
+        "person_lboxd_url": "/director/james-wong/"
+    },
+    {
+        "name": "John G. Avildsen",
+        "url": null,
+        "user": "isa_ycaza3010",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/john-g-avildsen/"
+    },
+    {
+        "name": "Tim Burton",
+        "url": "https://image.tmdb.org/t/p/w342/yHEHAHQpN9PfSEQx1UxZPczhcAi.jpg",
+        "user": "emibarrilete",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/tim-burton/"
     },
     {
         "name": "Ridley Scott",
@@ -2101,49 +2185,70 @@
     },
     {
         "name": "Marcelo Piñeyro",
-        "url": "https://image.tmdb.org/t/p/w342/tTUkiHCLy6nOXL2pVoXJF9awsoo.jpg",
+        "url": null,
         "user": "meliolivera97",
         "watch_count": 2,
         "person_lboxd_url": "/director/marcelo-pineyro/"
     },
     {
-        "name": "Guillermo del Toro",
-        "url": "https://image.tmdb.org/t/p/w342/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg",
-        "user": "malei13",
+        "name": "Wes Anderson",
+        "url": "https://image.tmdb.org/t/p/w342/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg",
+        "user": "franco_c",
         "watch_count": 2,
-        "person_lboxd_url": "/director/guillermo-del-toro/"
+        "person_lboxd_url": "/director/wes-anderson/"
     },
     {
-        "name": "Mario Bava",
-        "url": "https://image.tmdb.org/t/p/w342/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
-        "user": "elbachee",
+        "name": "Kiyoshi Kurosawa",
+        "url": "https://image.tmdb.org/t/p/w342/jddYE0uzNicgSPFKDTV29OUPhjP.jpg",
+        "user": "ivan2805",
         "watch_count": 2,
-        "person_lboxd_url": "/director/mario-bava-1/"
+        "person_lboxd_url": "/director/kiyoshi-kurosawa/"
+    },
+    {
+        "name": "James Cameron",
+        "url": "https://image.tmdb.org/t/p/w342/9NAZnTjBQ9WcXAQEzZpKy4vdQto.jpg",
+        "user": "eljesusferney",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/james-cameron/"
+    },
+    {
+        "name": "Woody Allen",
+        "url": null,
+        "user": "chicosingorra",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/woody-allen/"
+    },
+    {
+        "name": "Shane Carruth",
+        "url": "https://image.tmdb.org/t/p/w342/zytHHEqP385IHKUW7t8JKg85atg.jpg",
+        "user": "chicosingorra",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/shane-carruth/"
     },
     {
         "name": "Quentin Dupieux",
-        "url": "https://image.tmdb.org/t/p/w342/4sgTcy8ME1IC6a2AMdzxGpjm15t.jpg",
+        "url": null,
         "user": "elbachee",
         "watch_count": 2,
         "person_lboxd_url": "/director/quentin-dupieux/"
     },
     {
         "name": "Matt Reeves",
-        "url": "https://image.tmdb.org/t/p/w342/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg",
+        "url": null,
         "user": "sof_tiramisu",
         "watch_count": 2,
         "person_lboxd_url": "/director/matt-reeves/"
     },
     {
         "name": "Paul King",
-        "url": "https://image.tmdb.org/t/p/w342/hDixADZQOBP0E3G9ZxC4kuNHO0.jpg",
+        "url": null,
         "user": "sof_tiramisu",
         "watch_count": 2,
         "person_lboxd_url": "/director/paul-king/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
         "user": "sof_tiramisu",
         "watch_count": 2,
         "person_lboxd_url": "/director/richard-linklater/"
@@ -2156,53 +2261,46 @@
         "person_lboxd_url": "/director/steven-spielberg/"
     },
     {
-        "name": "Michael Mann",
-        "url": "https://image.tmdb.org/t/p/w342/syowcptZIOosLMwVWbXFOU8jVvd.jpg",
-        "user": "elbachee",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/michael-mann/"
-    },
-    {
-        "name": "Woody Allen",
-        "url": "https://image.tmdb.org/t/p/w342/wcPQgZLDibuej1RwNTy1R2U2ZJw.jpg",
-        "user": "chicosingorra",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/woody-allen/"
-    },
-    {
-        "name": "Gareth Evans",
-        "url": "https://image.tmdb.org/t/p/w342/2skpocnewERTPODPNvwgL5czLzG.jpg",
-        "user": "chicosingorra",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/gareth-evans/"
-    },
-    {
         "name": "David Fincher",
-        "url": "https://image.tmdb.org/t/p/w342/tpEczFclQZeKAiCeKZZ0adRvtfz.jpg",
+        "url": null,
         "user": "jimenalucero",
         "watch_count": 2,
         "person_lboxd_url": "/director/david-fincher/"
     },
     {
-        "name": "Junta Yamaguchi",
-        "url": "https://image.tmdb.org/t/p/w342/txtwHn9omAP8KuDWp6xrPlpIOBX.jpg",
-        "user": "rsberrocal",
+        "name": "Freddie Francis",
+        "url": null,
+        "user": "elbachee",
         "watch_count": 2,
-        "person_lboxd_url": "/director/junta-yamaguchi/"
+        "person_lboxd_url": "/director/freddie-francis/"
+    },
+    {
+        "name": "Fernando Birri",
+        "url": "https://image.tmdb.org/t/p/w342/tgatCbyRLh4s96XCmsUEo8rhSRp.jpg",
+        "user": "elbachee",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/fernando-birri/"
+    },
+    {
+        "name": "Sofia Coppola",
+        "url": null,
+        "user": "jimenalucero",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/sofia-coppola/"
+    },
+    {
+        "name": "Stanley Kubrick",
+        "url": null,
+        "user": "jimenalucero",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/stanley-kubrick/"
     },
     {
         "name": "Robert Zemeckis",
-        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
+        "url": null,
         "user": "matiasparkman",
         "watch_count": 2,
         "person_lboxd_url": "/director/robert-zemeckis/"
-    },
-    {
-        "name": "Kiyoshi Kurosawa",
-        "url": "https://image.tmdb.org/t/p/w342/jddYE0uzNicgSPFKDTV29OUPhjP.jpg",
-        "user": "ivan2805",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/kiyoshi-kurosawa/"
     },
     {
         "name": "Sean Baker",
@@ -2213,154 +2311,77 @@
     },
     {
         "name": "Shinya Tsukamoto",
-        "url": "https://image.tmdb.org/t/p/w342/lHt4zpGcyI7QVdFrmzJ2WqEJ5kt.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/eah3SWEeI6F5kz0HszDpobk8BKf.jpg",
         "user": "ivan2805",
         "watch_count": 2,
         "person_lboxd_url": "/director/shinya-tsukamoto-2/"
     },
     {
         "name": "Takashi Miike",
-        "url": "https://image.tmdb.org/t/p/w342/faxjG72MyCOE1NSRrZSFo4KgCIZ.jpg",
+        "url": null,
         "user": "ivan2805",
         "watch_count": 2,
         "person_lboxd_url": "/director/takashi-miike/"
     },
     {
         "name": "John Hyams",
-        "url": "https://image.tmdb.org/t/p/w342/7NosT6z5tAM0HlujmIyLpKJckAy.jpg",
+        "url": null,
         "user": "manutencio",
         "watch_count": 2,
         "person_lboxd_url": "/director/john-hyams/"
     },
     {
-        "name": "Doug Liman",
-        "url": "https://image.tmdb.org/t/p/w342/kIT7NE6MDaiIrjPEbObXk4COFVa.jpg",
-        "user": "davidehrlich",
+        "name": "Robert Zemeckis",
+        "url": null,
+        "user": "eljesusferney",
         "watch_count": 2,
-        "person_lboxd_url": "/director/doug-liman/"
+        "person_lboxd_url": "/director/robert-zemeckis/"
     },
     {
-        "name": "M. Night Shyamalan",
-        "url": "https://image.tmdb.org/t/p/w342/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg",
-        "user": "barbiemaestra",
+        "name": "Álex de la Iglesia",
+        "url": null,
+        "user": "mariannmartini",
         "watch_count": 2,
-        "person_lboxd_url": "/director/m-night-shyamalan/"
-    },
-    {
-        "name": "Fernando Salem",
-        "url": "https://image.tmdb.org/t/p/w342/ypmDYa8nSBq47V72MkxPpLJsxc.jpg",
-        "user": "ytraeloabal",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/fernando-salem/"
-    },
-    {
-        "name": "Gareth Evans",
-        "url": "https://image.tmdb.org/t/p/w342/2skpocnewERTPODPNvwgL5czLzG.jpg",
-        "user": "ytraeloabal",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/gareth-evans/"
-    },
-    {
-        "name": "Alexander Payne",
-        "url": "https://image.tmdb.org/t/p/w342/d8mwLxuCMxMxcE8Qys9sdUb7UZg.jpg",
-        "user": "barbiemaestra",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/alexander-payne/"
-    },
-    {
-        "name": "Alejandro González Iñárritu",
-        "url": "https://image.tmdb.org/t/p/w342/qWrltG9e0ssM3Y9pF86EAgteKHu.jpg",
-        "user": "barbiemaestra",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/alejandro-gonzalez-inarritu/"
-    },
-    {
-        "name": "Emma Seligman",
-        "url": "https://image.tmdb.org/t/p/w342/qtB5lB3wl3m04XF8iyTfhlBzaGn.jpg",
-        "user": "barbiemaestra",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/emma-seligman/"
-    },
-    {
-        "name": "Damien Chazelle",
-        "url": "https://image.tmdb.org/t/p/w342/14kRZ3XxNMyBv717YQSXr3wCucy.jpg",
-        "user": "ytraeloabal",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/damien-chazelle/"
-    },
-    {
-        "name": "Xavier Gens",
-        "url": "https://image.tmdb.org/t/p/w342/zZ2ZtJeBq0yXB1Z5hSztarGt1yN.jpg",
-        "user": "davidehrlich",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/xavier-gens/"
-    },
-    {
-        "name": "Nicolas Winding Refn",
-        "url": "https://image.tmdb.org/t/p/w342/ljiTTCvDaKFxbIbkLv1vUvOSLEx.jpg",
-        "user": "verenjena22",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/nicolas-winding-refn/"
-    },
-    {
-        "name": "Yoshihiro Ueda",
-        "url": "https://image.tmdb.org/t/p/w342/hx0APuExy0pYX1odxc1xIUO6qJy.jpg",
-        "user": "diechanx",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/yoshihiro-ueda/"
+        "person_lboxd_url": "/director/alex-de-la-iglesia-1/"
     },
     {
         "name": "Luca Guadagnino",
-        "url": "https://image.tmdb.org/t/p/w342/vWCkSOW65g8Ha26BzRxn5KhTEnF.jpg",
+        "url": null,
         "user": "turco",
         "watch_count": 2,
         "person_lboxd_url": "/director/luca-guadagnino/"
     },
     {
-        "name": "Damien Chazelle",
-        "url": "https://image.tmdb.org/t/p/w342/14kRZ3XxNMyBv717YQSXr3wCucy.jpg",
+        "name": "John Hyams",
+        "url": null,
         "user": "yeyito",
         "watch_count": 2,
-        "person_lboxd_url": "/director/damien-chazelle/"
-    },
-    {
-        "name": "David Yates",
-        "url": "https://image.tmdb.org/t/p/w342/hAHOxR0NK4cZDumqNIpDoEdGVAh.jpg",
-        "user": "yeyito",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/david-yates/"
+        "person_lboxd_url": "/director/john-hyams/"
     },
     {
         "name": "Luca Guadagnino",
-        "url": "https://image.tmdb.org/t/p/w342/vWCkSOW65g8Ha26BzRxn5KhTEnF.jpg",
+        "url": null,
         "user": "davidehrlich",
         "watch_count": 2,
         "person_lboxd_url": "/director/luca-guadagnino/"
     },
     {
-        "name": "Thomas Vinterberg",
-        "url": "https://image.tmdb.org/t/p/w342/1lChKBPVLqbn7Kl8lHghybBVzgw.jpg",
-        "user": "verenjena22",
+        "name": "David Yates",
+        "url": null,
+        "user": "yeyito",
         "watch_count": 2,
-        "person_lboxd_url": "/director/thomas-vinterberg/"
+        "person_lboxd_url": "/director/david-yates/"
     },
     {
-        "name": "Derek Cianfrance",
-        "url": "https://image.tmdb.org/t/p/w342/6y6RU9AJst5f5TxdeycWCVNyCEt.jpg",
-        "user": "andreapajares",
+        "name": "Damien Chazelle",
+        "url": "https://image.tmdb.org/t/p/w342/8LBuD2byosS7jcYakm8JmBXC0N9.jpg",
+        "user": "yeyito",
         "watch_count": 2,
-        "person_lboxd_url": "/director/derek-cianfrance/"
-    },
-    {
-        "name": "Edgar Wright",
-        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
-        "user": "andreapajares",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/edgar-wright/"
+        "person_lboxd_url": "/director/damien-chazelle/"
     },
     {
         "name": "Andrew Haigh",
-        "url": "https://image.tmdb.org/t/p/w342/pJAv105SAZiQ3lGY2wGURz4bENp.jpg",
+        "url": null,
         "user": "turco",
         "watch_count": 2,
         "person_lboxd_url": "/director/andrew-haigh/"
@@ -2373,60 +2394,88 @@
         "person_lboxd_url": "/director/kiyoshi-kurosawa/"
     },
     {
-        "name": "John G. Avildsen",
-        "url": "https://image.tmdb.org/t/p/w342/cBpz7xPTfT0cfPhQoGrp7x7esma.jpg",
-        "user": "juli_neme",
+        "name": "Derek Cianfrance",
+        "url": "https://image.tmdb.org/t/p/w342/6y6RU9AJst5f5TxdeycWCVNyCEt.jpg",
+        "user": "andreapajares",
         "watch_count": 2,
-        "person_lboxd_url": "/director/john-g-avildsen/"
+        "person_lboxd_url": "/director/derek-cianfrance/"
     },
     {
-        "name": "John Hyams",
-        "url": "https://image.tmdb.org/t/p/w342/7NosT6z5tAM0HlujmIyLpKJckAy.jpg",
-        "user": "yeyito",
+        "name": "Gareth Evans",
+        "url": "https://image.tmdb.org/t/p/w342/2skpocnewERTPODPNvwgL5czLzG.jpg",
+        "user": "ytraeloabal",
         "watch_count": 2,
-        "person_lboxd_url": "/director/john-hyams/"
+        "person_lboxd_url": "/director/gareth-evans/"
+    },
+    {
+        "name": "M. Night Shyamalan",
+        "url": "https://image.tmdb.org/t/p/w342/9g5IYal9c12tq8XHT65pf0Gqo1f.jpg",
+        "user": "barbiemaestra",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/m-night-shyamalan/"
+    },
+    {
+        "name": "Jason Reitman",
+        "url": null,
+        "user": "barbiemaestra",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/jason-reitman/"
+    },
+    {
+        "name": "Fernando Salem",
+        "url": "https://image.tmdb.org/t/p/w342/ypmDYa8nSBq47V72MkxPpLJsxc.jpg",
+        "user": "ytraeloabal",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/fernando-salem/"
+    },
+    {
+        "name": "Emma Seligman",
+        "url": null,
+        "user": "barbiemaestra",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/emma-seligman/"
+    },
+    {
+        "name": "Damien Chazelle",
+        "url": "https://image.tmdb.org/t/p/w342/8LBuD2byosS7jcYakm8JmBXC0N9.jpg",
+        "user": "ytraeloabal",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/damien-chazelle/"
+    },
+    {
+        "name": "Alexander Payne",
+        "url": null,
+        "user": "barbiemaestra",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/alexander-payne/"
+    },
+    {
+        "name": "Doug Liman",
+        "url": "https://image.tmdb.org/t/p/w342/91ObnurSxmBAA0G9aTKOHsOVTnZ.jpg",
+        "user": "davidehrlich",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/doug-liman/"
+    },
+    {
+        "name": "Damien Leone",
+        "url": "https://image.tmdb.org/t/p/w342/kgHow969kOY5wP1C5pRZnWBxxuH.jpg",
+        "user": "diechanx",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/damien-leone/"
     },
     {
         "name": "David R. Ellis",
         "url": "https://image.tmdb.org/t/p/w342/zw1ccRyxUBy0y7JDdXTZAYg96xd.jpg",
-        "user": "juli_neme",
+        "user": "diechanx",
         "watch_count": 2,
         "person_lboxd_url": "/director/david-r-ellis/"
     },
     {
-        "name": "James Foley",
-        "url": "https://image.tmdb.org/t/p/w342/ujAhQvNNnBqa6ZP2C46DMdAp09w.jpg",
-        "user": "zendrik",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/james-foley/"
-    },
-    {
-        "name": "Michael Patrick King",
-        "url": "https://image.tmdb.org/t/p/w342/oSSgEuyYBhPbwR8FF4ayrVI6EU0.jpg",
-        "user": "julietary",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/michael-patrick-king/"
-    },
-    {
         "name": "Edgar Wright",
-        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
+        "url": null,
         "user": "diechanx",
         "watch_count": 2,
         "person_lboxd_url": "/director/edgar-wright/"
-    },
-    {
-        "name": "Jonathan Glazer",
-        "url": "https://image.tmdb.org/t/p/w342/8pFNxscgellE6rhT5399eM00GAG.jpg",
-        "user": "julietary",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/jonathan-glazer/"
-    },
-    {
-        "name": "J. A. Bayona",
-        "url": "https://image.tmdb.org/t/p/w342/cnbbnS7K8Uu6yohAfSRHv5Kxc7r.jpg",
-        "user": "diechanx",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/j-a-bayona/"
     },
     {
         "name": "James Wong",
@@ -2436,39 +2485,95 @@
         "person_lboxd_url": "/director/james-wong/"
     },
     {
-        "name": "Marco Bellocchio",
-        "url": "https://image.tmdb.org/t/p/w342/kPpSeOFc8tsdiyQ0L3pnyLnPCXv.jpg",
-        "user": "julietary",
+        "name": "Nicolas Winding Refn",
+        "url": "https://image.tmdb.org/t/p/w342/ljiTTCvDaKFxbIbkLv1vUvOSLEx.jpg",
+        "user": "verenjena22",
         "watch_count": 2,
-        "person_lboxd_url": "/director/marco-bellocchio/"
+        "person_lboxd_url": "/director/nicolas-winding-refn/"
     },
     {
-        "name": "Demián Rugna",
-        "url": "https://image.tmdb.org/t/p/w342/f1H00UaLvTwDYG614SJWdVLy1SZ.jpg",
-        "user": "brunoap",
+        "name": "Thomas Vinterberg",
+        "url": "https://image.tmdb.org/t/p/w342/1lChKBPVLqbn7Kl8lHghybBVzgw.jpg",
+        "user": "verenjena22",
         "watch_count": 2,
-        "person_lboxd_url": "/director/demian-rugna/"
+        "person_lboxd_url": "/director/thomas-vinterberg/"
+    },
+    {
+        "name": "Xavier Gens",
+        "url": "https://image.tmdb.org/t/p/w342/zZ2ZtJeBq0yXB1Z5hSztarGt1yN.jpg",
+        "user": "davidehrlich",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/xavier-gens/"
     },
     {
         "name": "Mark Waters",
-        "url": "https://image.tmdb.org/t/p/w342/afouy66zeJ1hn7fcjLp8QkcTeQJ.jpg",
+        "url": null,
         "user": "brunoap",
         "watch_count": 2,
         "person_lboxd_url": "/director/mark-waters/"
     },
     {
+        "name": "George Miller",
+        "url": null,
+        "user": "julietp",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/george-miller/"
+    },
+    {
         "name": "James Wan",
-        "url": "https://image.tmdb.org/t/p/w342/mMYVuGyP74c7sFJHFrc5YPwj4Wd.jpg",
+        "url": null,
         "user": "julietp",
         "watch_count": 2,
         "person_lboxd_url": "/director/james-wan/"
     },
     {
-        "name": "George Miller",
-        "url": "https://image.tmdb.org/t/p/w342/35NQ8HjFXQlGYDz9UkhT08lKl5C.jpg",
+        "name": "Thomas Hardiman",
+        "url": "https://image.tmdb.org/t/p/w342/cl2jLXwTMNTZ0x8b1ndmwFj0oEa.jpg",
+        "user": "julietary",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/thomas-hardiman/"
+    },
+    {
+        "name": "Demián Rugna",
+        "url": null,
+        "user": "brunoap",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/demian-rugna/"
+    },
+    {
+        "name": "Werner Herzog",
+        "url": "https://image.tmdb.org/t/p/w342/qKlz1oM482Xf0jTPfLiR6qXlLYK.jpg",
+        "user": "julietary",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/werner-herzog/"
+    },
+    {
+        "name": "Woody Allen",
+        "url": null,
+        "user": "julietary",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/woody-allen/"
+    },
+    {
+        "name": "Hiromasa Yonebayashi",
+        "url": null,
+        "user": "999den",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/hiromasa-yonebayashi/"
+    },
+    {
+        "name": "Martin Scorsese",
+        "url": null,
         "user": "julietp",
         "watch_count": 2,
-        "person_lboxd_url": "/director/george-miller/"
+        "person_lboxd_url": "/director/martin-scorsese/"
+    },
+    {
+        "name": "Gore Verbinski",
+        "url": null,
+        "user": "brenmenendez",
+        "watch_count": 2,
+        "person_lboxd_url": "/director/gore-verbinski/"
     },
     {
         "name": "Rob Zombie",
@@ -2478,255 +2583,759 @@
         "person_lboxd_url": "/director/rob-zombie/"
     },
     {
-        "name": "Gore Verbinski",
-        "url": "https://image.tmdb.org/t/p/w342/rSQRdmLNAwdKxrtvBSSlBmWeSsj.jpg",
-        "user": "brenmenendez",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/gore-verbinski/"
-    },
-    {
         "name": "Juan José Jusid",
-        "url": "https://image.tmdb.org/t/p/w342/5VcibsZa8QsuccZDwGGafk9PTcV.jpg",
+        "url": null,
         "user": "brenmenendez",
         "watch_count": 2,
         "person_lboxd_url": "/director/juan-jose-jusid/"
     },
     {
-        "name": "Martin Scorsese",
-        "url": "https://image.tmdb.org/t/p/w342/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg",
-        "user": "julietp",
-        "watch_count": 2,
-        "person_lboxd_url": "/director/martin-scorsese/"
-    },
-    {
-        "name": "Jane Schoenbrun",
-        "url": "https://image.tmdb.org/t/p/w342/wk1k21ImEp2QxnNibOCLGDT5NIN.jpg",
+        "name": "Iain Softley",
+        "url": null,
         "user": "matiasparkman",
         "watch_count": 1,
-        "person_lboxd_url": "/director/jane-schoenbrun/"
+        "person_lboxd_url": "/director/iain-softley-1/"
     },
     {
-        "name": "Greg McLean",
-        "url": "https://image.tmdb.org/t/p/w342/jojdN7TPMPeMVxOtvsxJ3iIaYar.jpg",
+        "name": "Luis Puenzo",
+        "url": null,
+        "user": "lauritaf",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/luis-puenzo/"
+    },
+    {
+        "name": "Bruce Malmuth",
+        "url": null,
+        "user": "lauritaf",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/bruce-malmuth/"
+    },
+    {
+        "name": "Doug Liman",
+        "url": "https://image.tmdb.org/t/p/w342/91ObnurSxmBAA0G9aTKOHsOVTnZ.jpg",
+        "user": "lauritaf",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/doug-liman/"
+    },
+    {
+        "name": "Mark Waters",
+        "url": null,
+        "user": "lauritaf",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/mark-waters/"
+    },
+    {
+        "name": "Rowdy Herrington",
+        "url": "https://image.tmdb.org/t/p/w342/fUMl2WpYLJbQh3uRMlBAL7fdeBq.jpg",
+        "user": "lauritaf",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/rowdy-herrington/"
+    },
+    {
+        "name": "Bradley Raymond",
+        "url": null,
+        "user": "mariannmartini",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/bradley-raymond/"
+    },
+    {
+        "name": "Hirokazu Kore-eda",
+        "url": null,
         "user": "matiasparkman",
         "watch_count": 1,
-        "person_lboxd_url": "/director/greg-mclean-1/"
+        "person_lboxd_url": "/director/hirokazu-kore-eda/"
     },
     {
-        "name": "Herk Harvey",
-        "url": "https://image.tmdb.org/t/p/w342/3QxMAsXAfmxJYDFq1PwlQnk90ce.jpg",
+        "name": "Daniel Ray",
+        "url": null,
         "user": "matiasparkman",
         "watch_count": 1,
-        "person_lboxd_url": "/director/herk-harvey/"
+        "person_lboxd_url": "/director/daniel-ray/"
     },
     {
-        "name": "Hernán Guerschuny",
-        "url": "https://image.tmdb.org/t/p/w342/lZXlQ4ou691JkeyvUzPvOr8uCTQ.jpg",
+        "name": "David Gordon Green",
+        "url": null,
         "user": "matiasparkman",
         "watch_count": 1,
-        "person_lboxd_url": "/director/hernan-guerschuny/"
+        "person_lboxd_url": "/director/david-gordon-green/"
     },
     {
-        "name": "Pascal Laugier",
-        "url": "https://image.tmdb.org/t/p/w342/1s4nJTsl921VAOwyBoXqByvOS19.jpg",
-        "user": "manutencio",
+        "name": "Hans Weingartner",
+        "url": "https://image.tmdb.org/t/p/w342/yOIpYBIiOIgbc2GNyrb57ZvWQyd.jpg",
+        "user": "mariannmartini",
         "watch_count": 1,
-        "person_lboxd_url": "/director/pascal-laugier/"
+        "person_lboxd_url": "/director/hans-weingartner/"
+    },
+    {
+        "name": "Isao Takahata",
+        "url": null,
+        "user": "mariannmartini",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/isao-takahata-1/"
+    },
+    {
+        "name": "Lone Scherfig",
+        "url": null,
+        "user": "mariannmartini",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/lone-scherfig-1/"
+    },
+    {
+        "name": "Jorge Nisco",
+        "url": null,
+        "user": "milomilo_milo",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/jorge-nisco/"
+    },
+    {
+        "name": "Bryan Singer",
+        "url": null,
+        "user": "milomilo_milo",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/bryan-singer/"
+    },
+    {
+        "name": "Yorgos Lanthimos",
+        "url": null,
+        "user": "meliolivera97",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/yorgos-lanthimos/"
     },
     {
         "name": "Pedro Almodóvar",
-        "url": "https://image.tmdb.org/t/p/w342/eRgGaVKEftJ0rbZCOPzCSOBZi9.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/dKlaXJk3NLcsC1CKMx6xmyW5BZD.jpg",
         "user": "manutencio",
         "watch_count": 1,
         "person_lboxd_url": "/director/pedro-almodovar/"
     },
     {
-        "name": "Ridley Scott",
-        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
+        "name": "Joel Coen",
+        "url": "https://image.tmdb.org/t/p/w342/rgVaJNkZCgMarUcZuUAsVfXMWk3.jpg",
         "user": "manutencio",
         "watch_count": 1,
-        "person_lboxd_url": "/director/ridley-scott/"
+        "person_lboxd_url": "/director/joel-coen/"
     },
     {
-        "name": "Robert Eggers",
+        "name": "Jorge Pinarello",
         "url": null,
         "user": "manutencio",
         "watch_count": 1,
-        "person_lboxd_url": "/director/robert-eggers/"
+        "person_lboxd_url": "/director/jorge-pinarello/"
     },
     {
-        "name": "Luis Ortega",
-        "url": "https://image.tmdb.org/t/p/w342/h3HwOm9QwkusqUrImb8kQJsGTiN.jpg",
-        "user": "meliolivera97",
+        "name": "Lucila Las Heras",
+        "url": null,
+        "user": "manutencio",
         "watch_count": 1,
-        "person_lboxd_url": "/director/luis-ortega/"
+        "person_lboxd_url": "/director/lucila-las-heras/"
     },
     {
-        "name": "Peter Berg",
-        "url": "https://image.tmdb.org/t/p/w342/1pR16H0zqRG49ns8cYykYpodgGF.jpg",
+        "name": "Christopher Nolan",
+        "url": null,
+        "user": "majogonzalez",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/christopher-nolan/"
+    },
+    {
+        "name": "Dean Craig",
+        "url": null,
+        "user": "majogonzalez",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/dean-craig/"
+    },
+    {
+        "name": "Luis Puenzo",
+        "url": null,
+        "user": "majogonzalez",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/luis-puenzo/"
+    },
+    {
+        "name": "Richard LaGravenese",
+        "url": null,
+        "user": "majogonzalez",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/richard-lagravenese/"
+    },
+    {
+        "name": "Wolfgang Petersen",
+        "url": "https://image.tmdb.org/t/p/w342/g4F3DMUruouQX8mpUNHRGKMlmd1.jpg",
+        "user": "majogonzalez",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/wolfgang-petersen/"
+    },
+    {
+        "name": "Richard Linklater",
+        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "user": "sartenquemada",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/richard-linklater/"
+    },
+    {
+        "name": "Sebastián Borensztein",
+        "url": null,
+        "user": "sartenquemada",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/sebastian-borensztein/"
+    },
+    {
+        "name": "Shawn Levy",
+        "url": "https://image.tmdb.org/t/p/w342/b1ulkCHz8biG87LjLQQiMCebEZo.jpg",
+        "user": "sartenquemada",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/shawn-levy/"
+    },
+    {
+        "name": "Yasujirō Ozu",
+        "url": null,
+        "user": "sartenquemada",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/yasujiro-ozu/"
+    },
+    {
+        "name": "Santiago Requejo",
+        "url": null,
+        "user": "sartenquemada",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/santiago-requejo/"
+    },
+    {
+        "name": "James Watkins",
+        "url": null,
         "user": "solbaudry",
         "watch_count": 1,
-        "person_lboxd_url": "/director/peter-berg/"
+        "person_lboxd_url": "/director/james-watkins/"
     },
     {
-        "name": "Kristian Levring",
-        "url": "https://image.tmdb.org/t/p/w342/xegQ3w2bNYfBRvnBa4ZsuF4uWAq.jpg",
+        "name": "Ashima Chibber",
+        "url": null,
+        "user": "soymceleste",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/ashima-chibber/"
+    },
+    {
+        "name": "Tim Burton",
+        "url": "https://image.tmdb.org/t/p/w342/yHEHAHQpN9PfSEQx1UxZPczhcAi.jpg",
+        "user": "soymceleste",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/tim-burton/"
+    },
+    {
+        "name": "Michael Sucsy",
+        "url": null,
         "user": "verenjena22",
         "watch_count": 1,
-        "person_lboxd_url": "/director/kristian-levring/"
+        "person_lboxd_url": "/director/michael-sucsy/"
     },
     {
-        "name": "Maneesh Sharma",
-        "url": "https://image.tmdb.org/t/p/w342/yW9iGmwLCgjgaS9Bgp3CiKxQVcU.jpg",
+        "name": "Justine Triet",
+        "url": null,
         "user": "verenjena22",
         "watch_count": 1,
-        "person_lboxd_url": "/director/maneesh-sharma/"
+        "person_lboxd_url": "/director/justine-triet/"
     },
     {
-        "name": "María Luisa Bemberg",
-        "url": "https://image.tmdb.org/t/p/w342/sh2PArpS6HV3OWl3SZlaTeGlRt6.jpg",
+        "name": "Kelsey Mann",
+        "url": null,
         "user": "verenjena22",
         "watch_count": 1,
-        "person_lboxd_url": "/director/maria-luisa-bemberg/"
+        "person_lboxd_url": "/director/kelsey-mann/"
     },
     {
-        "name": "Garth Davis",
-        "url": "https://image.tmdb.org/t/p/w342/lqxIIqqe7T64Oj6I9mofH2irDfd.jpg",
+        "name": "Eli Roth",
+        "url": null,
         "user": "yeyito",
         "watch_count": 1,
-        "person_lboxd_url": "/director/garth-davis/"
+        "person_lboxd_url": "/director/eli-roth/"
     },
     {
         "name": "Halina Reijn",
-        "url": "https://image.tmdb.org/t/p/w342/su9FMcM5wKfZiSNs35OLlot4hLd.jpg",
+        "url": null,
         "user": "virus_rar",
         "watch_count": 1,
         "person_lboxd_url": "/director/halina-reijn/"
     },
     {
         "name": "Joachim Trier",
-        "url": "https://image.tmdb.org/t/p/w342/9N4tq2bIccxiQwPh1UGBv1OMlA6.jpg",
+        "url": null,
         "user": "virus_rar",
         "watch_count": 1,
         "person_lboxd_url": "/director/joachim-trier/"
     },
     {
         "name": "Luca Guadagnino",
-        "url": "https://image.tmdb.org/t/p/w342/vWCkSOW65g8Ha26BzRxn5KhTEnF.jpg",
+        "url": null,
         "user": "virus_rar",
         "watch_count": 1,
         "person_lboxd_url": "/director/luca-guadagnino/"
     },
     {
         "name": "Shoko Nakamura",
-        "url": "https://image.tmdb.org/t/p/w342/lIPoHRbL7JKBwwf9FeR36utOUfO.jpg",
+        "url": null,
         "user": "virus_rar",
         "watch_count": 1,
         "person_lboxd_url": "/director/shoko-nakamura-1/"
     },
     {
-        "name": "Warren Beatty",
-        "url": "https://image.tmdb.org/t/p/w342/4IDilrr21iRKv75QOwNKJPC3WgW.jpg",
+        "name": "Rodrigo Moreno",
+        "url": "https://image.tmdb.org/t/p/w342/ffrwertO1hAdl8H7wxIlbqWHzby.jpg",
         "user": "turco",
         "watch_count": 1,
-        "person_lboxd_url": "/director/warren-beatty/"
+        "person_lboxd_url": "/director/rodrigo-moreno/"
+    },
+    {
+        "name": "Baz Luhrmann",
+        "url": null,
+        "user": "ordiz90",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/baz-luhrmann/"
+    },
+    {
+        "name": "Celine Song",
+        "url": null,
+        "user": "ordiz90",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/celine-song/"
+    },
+    {
+        "name": "Darren Aronofsky",
+        "url": "https://image.tmdb.org/t/p/w342/tOjz8mVI2HeQBvU6KNjIExMBsXL.jpg",
+        "user": "ordiz90",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/darren-aronofsky/"
+    },
+    {
+        "name": "Felix van Groeningen",
+        "url": null,
+        "user": "ordiz90",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/felix-van-groeningen/"
+    },
+    {
+        "name": "Danny Boyle",
+        "url": "https://image.tmdb.org/t/p/w342/b5qQpFHmgNyvV1t81ou17Jt2fRj.jpg",
+        "user": "pablo098",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/danny-boyle/"
+    },
+    {
+        "name": "David Tedeschi",
+        "url": null,
+        "user": "pablo098",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/david-tedeschi/"
+    },
+    {
+        "name": "Joe Stephenson",
+        "url": null,
+        "user": "pablo098",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/joe-stephenson/"
+    },
+    {
+        "name": "Laurent Bouzereau",
+        "url": null,
+        "user": "pablo098",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/laurent-bouzereau/"
+    },
+    {
+        "name": "Patrik Eklund",
+        "url": null,
+        "user": "pablo098",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/patrik-eklund/"
+    },
+    {
+        "name": "Cord Jefferson",
+        "url": null,
+        "user": "popihara",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/cord-jefferson/"
+    },
+    {
+        "name": "Jonathan Glazer",
+        "url": null,
+        "user": "popihara",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/jonathan-glazer/"
+    },
+    {
+        "name": "Justine Triet",
+        "url": null,
+        "user": "popihara",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/justine-triet/"
+    },
+    {
+        "name": "Yorgos Lanthimos",
+        "url": null,
+        "user": "popihara",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/yorgos-lanthimos/"
+    },
+    {
+        "name": "James Franco",
+        "url": "https://image.tmdb.org/t/p/w342/bjmAntHGiibLZixH8nTNVBzaFQn.jpg",
+        "user": "ratatambor",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/james-franco/"
+    },
+    {
+        "name": "Lee Unkrich",
+        "url": "https://image.tmdb.org/t/p/w342/crb297utC6W4HSstOe5djDPTwEN.jpg",
+        "user": "ratatambor",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/lee-unkrich/"
+    },
+    {
+        "name": "Luis Puenzo",
+        "url": null,
+        "user": "ratatambor",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/luis-puenzo/"
+    },
+    {
+        "name": "Nicolás del Boca",
+        "url": null,
+        "user": "ratatambor",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/nicolas-del-boca/"
+    },
+    {
+        "name": "Ridley Scott",
+        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
+        "user": "ratatambor",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/ridley-scott/"
+    },
+    {
+        "name": "Juan José Jusid",
+        "url": null,
+        "user": "robertinos98",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/juan-jose-jusid/"
+    },
+    {
+        "name": "Todd Phillips",
+        "url": null,
+        "user": "robertinos98",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/todd-phillips/"
+    },
+    {
+        "name": "Alejandro Doria",
+        "url": null,
+        "user": "priiperez",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/alejandro-doria/"
+    },
+    {
+        "name": "Andrew Fleming",
+        "url": null,
+        "user": "priiperez",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/andrew-fleming/"
+    },
+    {
+        "name": "Danny DeVito",
+        "url": null,
+        "user": "priiperez",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/danny-devito/"
+    },
+    {
+        "name": "Isao Takahata",
+        "url": null,
+        "user": "priiperez",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/isao-takahata-1/"
+    },
+    {
+        "name": "John Lee Hancock",
+        "url": null,
+        "user": "priiperez",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/john-lee-hancock/"
+    },
+    {
+        "name": "Alice Wu",
+        "url": null,
+        "user": "999den",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/alice-wu/"
+    },
+    {
+        "name": "S.J. Clarkson",
+        "url": "https://image.tmdb.org/t/p/w342/qr8aWSrL86cKsOuKeRnWpsAXp3p.jpg",
+        "user": "cinetomica",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/sj-clarkson/"
+    },
+    {
+        "name": "Ben Taylor",
+        "url": null,
+        "user": "davidehrlich",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/ben-taylor-3/"
+    },
+    {
+        "name": "Adam Shankman",
+        "url": null,
+        "user": "antxwilliams",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/adam-shankman/"
+    },
+    {
+        "name": "James Foley",
+        "url": null,
+        "user": "antxwilliams",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/james-foley/"
+    },
+    {
+        "name": "Victor Fleming",
+        "url": null,
+        "user": "999den",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/victor-fleming/"
+    },
+    {
+        "name": "William Oldroyd",
+        "url": null,
+        "user": "999den",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/william-oldroyd/"
+    },
+    {
+        "name": "Yoshifumi Kondo",
+        "url": "https://image.tmdb.org/t/p/w342/kMGHxgP7tz4diYcGp4P4a7sHsBC.jpg",
+        "user": "999den",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/yoshifumi-kondo/"
+    },
+    {
+        "name": "Alice Rohrwacher",
+        "url": null,
+        "user": "chapi",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/alice-rohrwacher-2/"
+    },
+    {
+        "name": "Ariel Piluso",
+        "url": null,
+        "user": "chapi",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/ariel-piluso/"
+    },
+    {
+        "name": "Coralie Fargeat",
+        "url": null,
+        "user": "chapi",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/coralie-fargeat/"
+    },
+    {
+        "name": "Lucrecia Martel",
+        "url": null,
+        "user": "chapi",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/lucrecia-martel-1/"
+    },
+    {
+        "name": "Michael Haneke",
+        "url": "https://image.tmdb.org/t/p/w342/9wDbsPQ5lu9A04FJ1pVi9y1dRjn.jpg",
+        "user": "chapi",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/michael-haneke/"
+    },
+    {
+        "name": "Carlos Sorín",
+        "url": "https://image.tmdb.org/t/p/w342/uweyjMdOLSN6nDAOPF5NipZ6rPc.jpg",
+        "user": "brunoap",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/carlos-sorin/"
+    },
+    {
+        "name": "Tom Ford",
+        "url": "https://image.tmdb.org/t/p/w342/vrjL4RHp2uAHmsOHnwS9yE7s5NP.jpg",
+        "user": "brenmenendez",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/tom-ford/"
+    },
+    {
+        "name": "Wes Anderson",
+        "url": "https://image.tmdb.org/t/p/w342/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg",
+        "user": "brenmenendez",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/wes-anderson/"
+    },
+    {
+        "name": "Adam Elliot",
+        "url": "https://image.tmdb.org/t/p/w342/yTNizUKqeUIn7WWabFQhnSi0GmS.jpg",
+        "user": "brunoap",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/adam-elliot/"
     },
     {
         "name": "Alex Garland",
         "url": "https://image.tmdb.org/t/p/w342/qSWzYnDw68xm4i5xprH9BwQ6q25.jpg",
-        "user": "davidehrlich",
+        "user": "brunoap",
         "watch_count": 1,
         "person_lboxd_url": "/director/alex-garland/"
     },
     {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
-        "user": "andreapajares",
+        "name": "Camilo Zaccaría Soprani",
+        "url": null,
+        "user": "joaquinzeta",
         "watch_count": 1,
-        "person_lboxd_url": "/director/richard-linklater/"
+        "person_lboxd_url": "/director/camilo-zaccaria-soprani/"
     },
     {
-        "name": "Stephen Frears",
-        "url": "https://image.tmdb.org/t/p/w342/2QPhgz395c8MjRpBMidUdSWXOBN.jpg",
-        "user": "andreapajares",
+        "name": "José A. Ferreyra",
+        "url": null,
+        "user": "joaquinzeta",
         "watch_count": 1,
-        "person_lboxd_url": "/director/stephen-frears/"
+        "person_lboxd_url": "/director/jose-a-ferreyra/"
     },
     {
-        "name": "Steven Spielberg",
-        "url": "https://image.tmdb.org/t/p/w342/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
-        "user": "andreapajares",
+        "name": "Werner Herzog",
+        "url": "https://image.tmdb.org/t/p/w342/qKlz1oM482Xf0jTPfLiR6qXlLYK.jpg",
+        "user": "joaquinzeta",
         "watch_count": 1,
-        "person_lboxd_url": "/director/steven-spielberg/"
+        "person_lboxd_url": "/director/werner-herzog/"
     },
     {
-        "name": "Denis Villeneuve",
-        "url": "https://image.tmdb.org/t/p/w342/433lXlkdMGXzrpwnKM4Ul1sln15.jpg",
-        "user": "brunoap",
+        "name": "Keenen Ivory Wayans",
+        "url": "https://image.tmdb.org/t/p/w342/e9XRdXolDV8RjGPHPXH6IISDTSP.jpg",
+        "user": "greysheep",
         "watch_count": 1,
-        "person_lboxd_url": "/director/denis-villeneuve/"
+        "person_lboxd_url": "/director/keenen-ivory-wayans/"
     },
     {
-        "name": "Fernando E. Solanas",
-        "url": "https://image.tmdb.org/t/p/w342/iagqlE7LYudXnX88gajkfiWRtnl.jpg",
-        "user": "brunoap",
+        "name": "Simon Curtis",
+        "url": null,
+        "user": "greysheep",
         "watch_count": 1,
-        "person_lboxd_url": "/director/fernando-e-solanas/"
+        "person_lboxd_url": "/director/simon-curtis/"
     },
     {
-        "name": "J. A. Bayona",
-        "url": "https://image.tmdb.org/t/p/w342/cnbbnS7K8Uu6yohAfSRHv5Kxc7r.jpg",
-        "user": "brunoap",
+        "name": "Gabriel Condron",
+        "url": null,
+        "user": "greysheep",
         "watch_count": 1,
-        "person_lboxd_url": "/director/j-a-bayona/"
+        "person_lboxd_url": "/director/gabriel-condron/"
     },
     {
-        "name": "Bruce Malmuth",
-        "url": "https://image.tmdb.org/t/p/w342/pLtbV6LEHwOfWUmXth5tBPonmtV.jpg",
-        "user": "brenmenendez",
+        "name": "Tommy Wiseau",
+        "url": "https://image.tmdb.org/t/p/w342/mDiPtAoCFOM2NoHI0Jx1Zh2t5rV.jpg",
+        "user": "giseflowers",
         "watch_count": 1,
-        "person_lboxd_url": "/director/bruce-malmuth/"
+        "person_lboxd_url": "/director/tommy-wiseau/"
     },
     {
-        "name": "Catherine Hardwicke",
-        "url": "https://image.tmdb.org/t/p/w342/AcuShXY2w2soOxgpMjRjir40rq6.jpg",
-        "user": "brenmenendez",
+        "name": "Santiago Requejo",
+        "url": null,
+        "user": "giseflowers",
         "watch_count": 1,
-        "person_lboxd_url": "/director/catherine-hardwicke/"
+        "person_lboxd_url": "/director/santiago-requejo/"
     },
     {
-        "name": "J. A. Bayona",
-        "url": "https://image.tmdb.org/t/p/w342/cnbbnS7K8Uu6yohAfSRHv5Kxc7r.jpg",
+        "name": "Nicolás del Boca",
+        "url": null,
+        "user": "giseflowers",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/nicolas-del-boca/"
+    },
+    {
+        "name": "Daniel Barone",
+        "url": "https://image.tmdb.org/t/p/w342/ymG4iBbFgL67E5DxdluOoWZQCpD.jpg",
+        "user": "giseflowers",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/daniel-barone/"
+    },
+    {
+        "name": "Daniel Tinayre",
+        "url": null,
+        "user": "giseflowers",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/daniel-tinayre/"
+    },
+    {
+        "name": "Wes Ball",
+        "url": null,
         "user": "exoghost99",
         "watch_count": 1,
-        "person_lboxd_url": "/director/j-a-bayona/"
+        "person_lboxd_url": "/director/wes-ball/"
     },
     {
-        "name": "Jaume Collet-Serra",
-        "url": "https://image.tmdb.org/t/p/w342/s1MdlS2wnzfKevPfXK63V1qkwfI.jpg",
-        "user": "exoghost99",
+        "name": "Santiago Correa",
+        "url": null,
+        "user": "feliedu",
         "watch_count": 1,
-        "person_lboxd_url": "/director/jaume-collet-serra/"
-    },
-    {
-        "name": "Jon M. Chu",
-        "url": "https://image.tmdb.org/t/p/w342/85kOxm7w4nGRwyhquj9wtUM8KUW.jpg",
-        "user": "exoghost99",
-        "watch_count": 1,
-        "person_lboxd_url": "/director/jon-m-chu-2/"
+        "person_lboxd_url": "/director/santiago-correa/"
     },
     {
         "name": "Shawn Levy",
-        "url": "https://image.tmdb.org/t/p/w342/j1CXZgmfvFeD7S3PYtsEk8H3ebB.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/b1ulkCHz8biG87LjLQQiMCebEZo.jpg",
         "user": "exoghost99",
         "watch_count": 1,
         "person_lboxd_url": "/director/shawn-levy/"
     },
     {
-        "name": "Wes Ball",
-        "url": "https://image.tmdb.org/t/p/w342/zVPXrhuAxYAWlwDEWCaqeUPycFx.jpg",
+        "name": "Jon M. Chu",
+        "url": null,
         "user": "exoghost99",
         "watch_count": 1,
-        "person_lboxd_url": "/director/wes-ball/"
+        "person_lboxd_url": "/director/jon-m-chu-2/"
+    },
+    {
+        "name": "Jaume Collet-Serra",
+        "url": null,
+        "user": "exoghost99",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/jaume-collet-serra/"
+    },
+    {
+        "name": "J. A. Bayona",
+        "url": null,
+        "user": "exoghost99",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/j-a-bayona/"
+    },
+    {
+        "name": "James Wong",
+        "url": "https://image.tmdb.org/t/p/w342/uIo0Bk5HG4RRuvekKRGANzwBZin.jpg",
+        "user": "gali_cgn",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/james-wong/"
+    },
+    {
+        "name": "Julio Midú",
+        "url": null,
+        "user": "gali_cgn",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/julio-midu/"
+    },
+    {
+        "name": "Francisco Norden",
+        "url": null,
+        "user": "eljesusferney",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/francisco-norden/"
+    },
+    {
+        "name": "Frank Capra",
+        "url": null,
+        "user": "eljesusferney",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/frank-capra/"
+    },
+    {
+        "name": "Keenen Ivory Wayans",
+        "url": "https://image.tmdb.org/t/p/w342/e9XRdXolDV8RjGPHPXH6IISDTSP.jpg",
+        "user": "eljesusferney",
+        "watch_count": 1,
+        "person_lboxd_url": "/director/keenen-ivory-wayans/"
     }
 ]
