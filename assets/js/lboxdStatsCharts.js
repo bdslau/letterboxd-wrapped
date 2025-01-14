@@ -6,7 +6,7 @@ google.charts.setOnLoadCallback(drawCharts); // Ensure all charts are drawn afte
 // Function to draw all charts
 function drawCharts() {
     // PLOT: Best Picture Winners
-    fetch('/assets/docs/best_pic_winners.json')
+    fetch('https://raw.githubusercontent.com/bdslau/letterboxd-wrapped/main/assets/docs/best_pic_winners.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load best_pic_winners.json');
             return response.json();
