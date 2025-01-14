@@ -27,7 +27,7 @@ function drawCharts() {
     
     
     // PLOT: Top 100 Argentina
-    fetch('/assets/docs/top100_Arg.json')
+    fetch('https://raw.githubusercontent.com/bdslau/letterboxd-wrapped/main/assets/docs/top100_Arg.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load top100_Arg.json');
             return response.json();
@@ -48,7 +48,7 @@ function drawCharts() {
     
     
     // PLOT: Top Releases Resumitos
-    fetch('/assets/docs/top_releases_resumitos.json')
+    fetch('https://raw.githubusercontent.com/bdslau/letterboxd-wrapped/main/assets/docs/top_releases_resumitos.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load top_releases_resumitos.json');
             return response.json();
@@ -69,7 +69,7 @@ function drawCharts() {
     
 
     // PLOT: Top Movies Resumitos
-    fetch('/assets/docs/top_movies_resumitos.json')
+    fetch('https://raw.githubusercontent.com/bdslau/letterboxd-wrapped/main/assets/docs/top_movies_resumitos.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load top_movies_resumitos.json');
             return response.json();
@@ -90,7 +90,7 @@ function drawCharts() {
 
     
     // PLOT: Top Watched on Stream Resumitos
-    fetch('/assets/docs/top_stream_resumitos.json')
+    fetch('https://raw.githubusercontent.com/bdslau/letterboxd-wrapped/main/assets/docs/top_stream_resumitos.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load top_stream_resumitos.json');
             return response.json();
@@ -111,7 +111,7 @@ function drawCharts() {
 
     
     // PLOT: graphics made with user_ratings data
-    fetch('/assets/docs/user_ratings.json')
+    fetch('https://raw.githubusercontent.com/bdslau/letterboxd-wrapped/main/assets/docs/user_ratings.json')
     .then(response => {
         if (!response.ok) throw new Error('Failed to load user_ratings.json');
         return response.json();
