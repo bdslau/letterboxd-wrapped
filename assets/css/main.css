@@ -76,5 +76,6 @@ button:active {
 
     .input-container {
         width: 20px;
+        padding-left: 40px;
     }
 }

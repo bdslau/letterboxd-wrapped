@@ -1,14 +1,7 @@
 [
     {
-        "name": "Aki Kaurismäki",
-        "url": null,
-        "user": "crisamr91",
-        "avg_user_rating": 5.0,
-        "person_lboxd_url": "/director/aki-kaurismaki/"
-    },
-    {
         "name": "Alejandro González Iñárritu",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/qWrltG9e0ssM3Y9pF86EAgteKHu.jpg",
         "user": "barbiemaestra",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/alejandro-gonzalez-inarritu/"
@@ -43,77 +36,63 @@
     },
     {
         "name": "Brian De Palma",
-        "url": "https://image.tmdb.org/t/p/w342/t29YojZlOEqNSWvfmY0DDYh3vnb.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/4xleWFdhtVC7faer6Ru2eyEgfTv.jpg",
         "user": "juanmastrott",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/brian-de-palma/"
     },
     {
-        "name": "Damien Chazelle",
-        "url": "https://image.tmdb.org/t/p/w342/8LBuD2byosS7jcYakm8JmBXC0N9.jpg",
-        "user": "crisamr91",
-        "avg_user_rating": 5.0,
-        "person_lboxd_url": "/director/damien-chazelle/"
-    },
-    {
         "name": "Damián Szifron",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/zCC1SUcjoDuJui9qgFjJIgr6kDq.jpg",
         "user": "valentin23",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/damian-szifron-1/"
     },
     {
         "name": "Denis Villeneuve",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/433lXlkdMGXzrpwnKM4Ul1sln15.jpg",
         "user": "clairacurtis",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/denis-villeneuve/"
     },
     {
         "name": "Edgar Wright",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
         "user": "consulting_",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/edgar-wright/"
     },
     {
         "name": "Edgar Wright",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
         "user": "svafnerd",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/edgar-wright/"
     },
     {
         "name": "Frank Darabont",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/7LqmE3p1XTwCdNCOmBxovq210Qk.jpg",
         "user": "lxonxl",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/frank-darabont/"
     },
     {
         "name": "Gore Verbinski",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/rSQRdmLNAwdKxrtvBSSlBmWeSsj.jpg",
         "user": "brenmenendez",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/gore-verbinski/"
     },
     {
         "name": "Gore Verbinski",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/rSQRdmLNAwdKxrtvBSSlBmWeSsj.jpg",
         "user": "d4ir4",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/gore-verbinski/"
     },
     {
-        "name": "Henry Selick",
-        "url": null,
-        "user": "malei13",
-        "avg_user_rating": 5.0,
-        "person_lboxd_url": "/director/henry-selick/"
-    },
-    {
         "name": "Ingmar Bergman",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
         "user": "nofloba",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/ingmar-bergman/"
@@ -133,50 +112,43 @@
         "person_lboxd_url": "/director/james-cameron/"
     },
     {
-        "name": "James Cameron",
-        "url": "https://image.tmdb.org/t/p/w342/9NAZnTjBQ9WcXAQEzZpKy4vdQto.jpg",
-        "user": "eljesusferney",
-        "avg_user_rating": 5.0,
-        "person_lboxd_url": "/director/james-cameron/"
-    },
-    {
         "name": "John Carpenter",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/3Qp0mg61u1qSZNJh30BFEUZrIMG.jpg",
         "user": "cristianponce",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/john-carpenter/"
     },
     {
         "name": "Martin Scorsese",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg",
         "user": "valentin23",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/martin-scorsese/"
     },
     {
         "name": "Olivier Assayas",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/ybg3hz6jRrQJMrQfdeRRVsNVmu4.jpg",
         "user": "tomas95bv",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/olivier-assayas/"
     },
     {
         "name": "Paul King",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/hDixADZQOBP0E3G9ZxC4kuNHO0.jpg",
         "user": "leandrocoria",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/paul-king/"
     },
     {
         "name": "Peter Jackson",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/bNc908d59Ba8VDNr4eCcm4G1cR.jpg",
         "user": "algocinefila",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/peter-jackson/"
     },
     {
         "name": "Peter Jackson",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/bNc908d59Ba8VDNr4eCcm4G1cR.jpg",
         "user": "lumbago90",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/peter-jackson/"
@@ -189,50 +161,29 @@
         "person_lboxd_url": "/director/quentin-tarantino/"
     },
     {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
-        "user": "crisamr91",
-        "avg_user_rating": 5.0,
-        "person_lboxd_url": "/director/richard-linklater/"
-    },
-    {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
-        "user": "isa_ycaza3010",
-        "avg_user_rating": 5.0,
-        "person_lboxd_url": "/director/richard-linklater/"
-    },
-    {
         "name": "Rob Reiner",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/rcmPU3YlhHQVzZlV197qhmRsgEL.jpg",
         "user": "crisamr91",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/rob-reiner/"
     },
     {
         "name": "Robert Zemeckis",
-        "url": null,
-        "user": "eljesusferney",
-        "avg_user_rating": 5.0,
-        "person_lboxd_url": "/director/robert-zemeckis/"
-    },
-    {
-        "name": "Robert Zemeckis",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
         "user": "milurock",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/robert-zemeckis/"
     },
     {
         "name": "Robert Zemeckis",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
         "user": "svafnerd",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/robert-zemeckis/"
     },
     {
         "name": "Rose Glass",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/qsUviDuBAwcILnDLxGGqnzyxcvx.jpg",
         "user": "crisamr91",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/rose-glass/"
@@ -246,7 +197,7 @@
     },
     {
         "name": "Stanley Kubrick",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
         "user": "jimenalucero",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/stanley-kubrick/"
@@ -288,7 +239,7 @@
     },
     {
         "name": "Tim Burton",
-        "url": "https://image.tmdb.org/t/p/w342/yHEHAHQpN9PfSEQx1UxZPczhcAi.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/wcjuY5vD1nlfwWNbvvTGg5dGoRR.jpg",
         "user": "sofialamorte",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/tim-burton/"
@@ -302,7 +253,7 @@
     },
     {
         "name": "Wim Wenders",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/AbqrYglSgaMfetQAeqdHaqiPSof.jpg",
         "user": "cielitoalz",
         "avg_user_rating": 5.0,
         "person_lboxd_url": "/director/wim-wenders/"
@@ -344,14 +295,14 @@
     },
     {
         "name": "Robert Zemeckis",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
         "user": "isa_ycaza3010",
         "avg_user_rating": 4.83,
         "person_lboxd_url": "/director/robert-zemeckis/"
     },
     {
         "name": "Robert Zemeckis",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
         "user": "solbaudry",
         "avg_user_rating": 4.83,
         "person_lboxd_url": "/director/robert-zemeckis/"
@@ -365,7 +316,7 @@
     },
     {
         "name": "Alfonso Cuarón",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/gaHhrzPfxfc3cbQLkDt54gtP3n1.jpg",
         "user": "juli_vegg",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/alfonso-cuaron/"
@@ -379,7 +330,7 @@
     },
     {
         "name": "Bob Fosse",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/xWTGPJmWMZh6n5GhGfOB4rdDrVG.jpg",
         "user": "nofloba",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/bob-fosse/"
@@ -393,42 +344,56 @@
     },
     {
         "name": "David Yates",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/hAHOxR0NK4cZDumqNIpDoEdGVAh.jpg",
         "user": "yeyito",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/david-yates/"
     },
     {
         "name": "Demián Rugna",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/f1H00UaLvTwDYG614SJWdVLy1SZ.jpg",
         "user": "brunoap",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/demian-rugna/"
     },
     {
         "name": "Denis Villeneuve",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/433lXlkdMGXzrpwnKM4Ul1sln15.jpg",
         "user": "cielitoalz",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/denis-villeneuve/"
     },
     {
         "name": "Denis Villeneuve",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/433lXlkdMGXzrpwnKM4Ul1sln15.jpg",
+        "user": "jaragon23",
+        "avg_user_rating": 4.75,
+        "person_lboxd_url": "/director/denis-villeneuve/"
+    },
+    {
+        "name": "Denis Villeneuve",
+        "url": "https://image.tmdb.org/t/p/w342/433lXlkdMGXzrpwnKM4Ul1sln15.jpg",
         "user": "juliborg_",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/denis-villeneuve/"
     },
     {
         "name": "Denis Villeneuve",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/433lXlkdMGXzrpwnKM4Ul1sln15.jpg",
         "user": "lucasvar",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/denis-villeneuve/"
     },
     {
+        "name": "Denis Villeneuve",
+        "url": "https://image.tmdb.org/t/p/w342/433lXlkdMGXzrpwnKM4Ul1sln15.jpg",
+        "user": "zendrik",
+        "avg_user_rating": 4.75,
+        "person_lboxd_url": "/director/denis-villeneuve/"
+    },
+    {
         "name": "George Miller",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/35NQ8HjFXQlGYDz9UkhT08lKl5C.jpg",
         "user": "svafnerd",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/george-miller/"
@@ -442,49 +407,49 @@
     },
     {
         "name": "Hayao Miyazaki",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/mG3cfxtA5jqDc7fpKgyzZMKoXDh.jpg",
         "user": "rsberrocal",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/hayao-miyazaki/"
     },
     {
         "name": "James Gray",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/dfggvmgzy7DtGAUXXShf1Y8Yml6.jpg",
         "user": "cinemistica",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/james-gray/"
     },
     {
         "name": "John Ford",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/ffgVJWV8pDomSdTkjOqdrwMX9G6.jpg",
         "user": "jaragon23",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/john-ford-2/"
     },
     {
         "name": "Luca Guadagnino",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/vWCkSOW65g8Ha26BzRxn5KhTEnF.jpg",
         "user": "clairacurtis",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/luca-guadagnino/"
     },
     {
         "name": "Marc Webb",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/95FAAT150Mi6DB8VcJgEeOplOsU.jpg",
         "user": "clairacurtis",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/marc-webb/"
     },
     {
         "name": "Mark Waters",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/afouy66zeJ1hn7fcjLp8QkcTeQJ.jpg",
         "user": "dododok",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/mark-waters/"
     },
     {
         "name": "Paul Thomas Anderson",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/wKAs2LtLYSUzt3ZZ8pnxMwuEWuR.jpg",
         "user": "megustalalluvia",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/paul-thomas-anderson/"
@@ -498,14 +463,14 @@
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
         "user": "clairacurtis",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/richard-linklater/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
         "user": "leandrocoria",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/richard-linklater/"
@@ -519,7 +484,7 @@
     },
     {
         "name": "S. Craig Zahler",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/vomw5TlCtMtKFSsgOtwkit464nd.jpg",
         "user": "gabinotti",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/s-craig-zahler/"
@@ -547,21 +512,21 @@
     },
     {
         "name": "Wim Wenders",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/AbqrYglSgaMfetQAeqdHaqiPSof.jpg",
         "user": "juanmastrott",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/wim-wenders/"
     },
     {
         "name": "Yorgos Lanthimos",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/8pqwSOhJDS9Om9xHeaW2ab5uXLS.jpg",
         "user": "algocinefila",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/yorgos-lanthimos/"
     },
     {
         "name": "Yorgos Lanthimos",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/8pqwSOhJDS9Om9xHeaW2ab5uXLS.jpg",
         "user": "solbaudry",
         "avg_user_rating": 4.75,
         "person_lboxd_url": "/director/yorgos-lanthimos/"
@@ -574,8 +539,15 @@
         "person_lboxd_url": "/director/quentin-tarantino/"
     },
     {
+        "name": "Edgar Wright",
+        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
+        "user": "crisamr91",
+        "avg_user_rating": 4.67,
+        "person_lboxd_url": "/director/edgar-wright/"
+    },
+    {
         "name": "Martin Scorsese",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg",
         "user": "algocinefila",
         "avg_user_rating": 4.67,
         "person_lboxd_url": "/director/martin-scorsese/"
@@ -589,14 +561,14 @@
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
         "user": "pitusacognitiva",
         "avg_user_rating": 4.67,
         "person_lboxd_url": "/director/richard-linklater/"
     },
     {
         "name": "Robert Zemeckis",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
         "user": "tucodelentejas",
         "avg_user_rating": 4.67,
         "person_lboxd_url": "/director/robert-zemeckis/"
@@ -617,28 +589,28 @@
     },
     {
         "name": "Yorgos Lanthimos",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/8pqwSOhJDS9Om9xHeaW2ab5uXLS.jpg",
         "user": "nofloba",
         "avg_user_rating": 4.67,
         "person_lboxd_url": "/director/yorgos-lanthimos/"
     },
     {
         "name": "Edgar Wright",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
         "user": "juanwagner",
         "avg_user_rating": 4.62,
         "person_lboxd_url": "/director/edgar-wright/"
     },
     {
         "name": "Wong Kar-wai",
-        "url": "https://image.tmdb.org/t/p/w342/fyksuJqbV8fixJvMOZXZWtQyEtT.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/wjNI9KM9qJSYZHxkjD4Pm81kfc4.jpg",
         "user": "chicosingorra",
         "avg_user_rating": 4.62,
         "person_lboxd_url": "/director/wong-kar-wai/"
     },
     {
         "name": "David Yates",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/hAHOxR0NK4cZDumqNIpDoEdGVAh.jpg",
         "user": "juli_vegg",
         "avg_user_rating": 4.6,
         "person_lboxd_url": "/director/david-yates/"
@@ -652,14 +624,14 @@
     },
     {
         "name": "Néstor Frenkel",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/ryowpVIRmdfsrytsYDTxkzVSziW.jpg",
         "user": "milurock",
         "avg_user_rating": 4.56,
         "person_lboxd_url": "/director/nestor-frenkel/"
     },
     {
         "name": "Adam McKay",
-        "url": "https://image.tmdb.org/t/p/w342/kTvIO50fNgZYukwcXjgJ8HFRO9l.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/vOyZXNJq7Oo01LPtSD5AZHjctgH.jpg",
         "user": "barbiemaestra",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/adam-mckay/"
@@ -673,7 +645,7 @@
     },
     {
         "name": "Alfonso Cuarón",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/gaHhrzPfxfc3cbQLkDt54gtP3n1.jpg",
         "user": "pitusacognitiva",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/alfonso-cuaron/"
@@ -708,119 +680,98 @@
     },
     {
         "name": "Brian De Palma",
-        "url": "https://image.tmdb.org/t/p/w342/t29YojZlOEqNSWvfmY0DDYh3vnb.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/4xleWFdhtVC7faer6Ru2eyEgfTv.jpg",
         "user": "cinemistica",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/brian-de-palma/"
     },
     {
         "name": "Brian De Palma",
-        "url": "https://image.tmdb.org/t/p/w342/t29YojZlOEqNSWvfmY0DDYh3vnb.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/4xleWFdhtVC7faer6Ru2eyEgfTv.jpg",
         "user": "jaragon23",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/brian-de-palma/"
     },
     {
-        "name": "Christopher Nolan",
-        "url": null,
-        "user": "tomas95bv",
-        "avg_user_rating": 4.5,
-        "person_lboxd_url": "/director/christopher-nolan/"
-    },
-    {
         "name": "Clint Eastwood",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/dU35NnjZ4aGw5abIJe3WXVf3Eey.jpg",
         "user": "megustalalluvia",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/clint-eastwood/"
     },
     {
         "name": "Clint Eastwood",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/dU35NnjZ4aGw5abIJe3WXVf3Eey.jpg",
         "user": "polialvarez",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/clint-eastwood/"
     },
     {
         "name": "Craig Gillespie",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/pVHspL9QWsXCm3t3VXEaCJ9y8Zz.jpg",
         "user": "polialvarez",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/craig-gillespie/"
     },
     {
         "name": "Damien Chazelle",
-        "url": "https://image.tmdb.org/t/p/w342/8LBuD2byosS7jcYakm8JmBXC0N9.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/14kRZ3XxNMyBv717YQSXr3wCucy.jpg",
         "user": "ytraeloabal",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/damien-chazelle/"
     },
     {
         "name": "David Fincher",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/tpEczFclQZeKAiCeKZZ0adRvtfz.jpg",
         "user": "jimenalucero",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/david-fincher/"
     },
     {
-        "name": "Dean DeBlois",
-        "url": null,
-        "user": "juli_neme",
+        "name": "Demián Rugna",
+        "url": "https://image.tmdb.org/t/p/w342/f1H00UaLvTwDYG614SJWdVLy1SZ.jpg",
+        "user": "crisamr91",
         "avg_user_rating": 4.5,
-        "person_lboxd_url": "/director/dean-deblois/"
+        "person_lboxd_url": "/director/demian-rugna/"
     },
     {
         "name": "Denis Villeneuve",
-        "url": null,
-        "user": "jaragon23",
-        "avg_user_rating": 4.5,
-        "person_lboxd_url": "/director/denis-villeneuve/"
-    },
-    {
-        "name": "Denis Villeneuve",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/433lXlkdMGXzrpwnKM4Ul1sln15.jpg",
         "user": "juanitagroisman",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/denis-villeneuve/"
     },
     {
         "name": "Emerald Fennell",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/ytyHUsPb7Saulczm8nCJHypIWQF.jpg",
         "user": "chicosingorra",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/emerald-fennell-1/"
     },
     {
         "name": "Emma Seligman",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/qtB5lB3wl3m04XF8iyTfhlBzaGn.jpg",
         "user": "barbiemaestra",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/emma-seligman/"
     },
     {
         "name": "Francis Ford Coppola",
-        "url": "https://image.tmdb.org/t/p/w342/IwGgkmW6IoJ9vuNF0T9CU3FYUX.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/3Pblihd6KjXliie9vj4iQJwbNPU.jpg",
         "user": "afroluffy",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/francis-ford-coppola/"
     },
     {
-        "name": "Greta Gerwig",
-        "url": null,
-        "user": "polialvarez",
-        "avg_user_rating": 4.5,
-        "person_lboxd_url": "/director/greta-gerwig/"
-    },
-    {
         "name": "Hayao Miyazaki",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/mG3cfxtA5jqDc7fpKgyzZMKoXDh.jpg",
         "user": "dododok",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/hayao-miyazaki/"
     },
     {
         "name": "Henry Selick",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/2LvtcpV8njWrp2W9eXmTNjsAWev.jpg",
         "user": "algocinefila",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/henry-selick/"
@@ -841,7 +792,7 @@
     },
     {
         "name": "John Carney",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/a85YTkbKqmF0ht2gr5XF652eQIe.jpg",
         "user": "afroluffy",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/john-carney/"
@@ -855,91 +806,84 @@
     },
     {
         "name": "M. Night Shyamalan",
-        "url": "https://image.tmdb.org/t/p/w342/9g5IYal9c12tq8XHT65pf0Gqo1f.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg",
         "user": "barbiemaestra",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/m-night-shyamalan/"
     },
     {
         "name": "Martin McDonagh",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/pyDaAVKa8akTLHXzeTyF8oGymXN.jpg",
         "user": "pitusacognitiva",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/martin-mcdonagh/"
     },
     {
         "name": "Martin Scorsese",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg",
         "user": "pitusacognitiva",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/martin-scorsese/"
     },
     {
-        "name": "Martin Scorsese",
-        "url": null,
-        "user": "zendrik",
-        "avg_user_rating": 4.5,
-        "person_lboxd_url": "/director/martin-scorsese/"
-    },
-    {
         "name": "María Luisa Bemberg",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/sh2PArpS6HV3OWl3SZlaTeGlRt6.jpg",
         "user": "cielitoalz",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/maria-luisa-bemberg/"
     },
     {
         "name": "Matt Reeves",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg",
         "user": "megustalalluvia",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/matt-reeves/"
     },
     {
         "name": "Michael Mann",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/syowcptZIOosLMwVWbXFOU8jVvd.jpg",
         "user": "tomas95bv",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/michael-mann/"
     },
     {
         "name": "Mike Leigh",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/eQAc3gIjhAFTgHVQ3kfpbkUe97M.jpg",
         "user": "miloteca",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/mike-leigh/"
     },
     {
         "name": "Néstor Frenkel",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/ryowpVIRmdfsrytsYDTxkzVSziW.jpg",
         "user": "juanwagner",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/nestor-frenkel/"
     },
     {
         "name": "Paul Feig",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/lcD0BkGKWKynUwtPSEDLAsFdIJX.jpg",
         "user": "svafnerd",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/paul-feig/"
     },
     {
         "name": "Paul King",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/hDixADZQOBP0E3G9ZxC4kuNHO0.jpg",
         "user": "rsberrocal",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/paul-king/"
     },
     {
         "name": "Peter Jackson",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/bNc908d59Ba8VDNr4eCcm4G1cR.jpg",
         "user": "hbiasotti",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/peter-jackson/"
     },
     {
         "name": "Peter Jackson",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/bNc908d59Ba8VDNr4eCcm4G1cR.jpg",
         "user": "jaragon23",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/peter-jackson/"
@@ -953,21 +897,21 @@
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
         "user": "donjorge86",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/richard-linklater/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
         "user": "emibarrilete",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/richard-linklater/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
         "user": "milurock",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/richard-linklater/"
@@ -981,21 +925,28 @@
     },
     {
         "name": "Robert Zemeckis",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
         "user": "alfonsomendoza",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/robert-zemeckis/"
     },
     {
         "name": "Robert Zemeckis",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
+        "user": "crisamr91",
+        "avg_user_rating": 4.5,
+        "person_lboxd_url": "/director/robert-zemeckis/"
+    },
+    {
+        "name": "Robert Zemeckis",
+        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
         "user": "juli_neme",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/robert-zemeckis/"
     },
     {
         "name": "Roman Polanski",
-        "url": "https://image.tmdb.org/t/p/w342/5yMO7d7NsODZtCwF22Xnlp3oVnE.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/yHwHSXdZatkoLgIjPeW14GKlrZs.jpg",
         "user": "algocinefila",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/roman-polanski/"
@@ -1037,17 +988,10 @@
     },
     {
         "name": "Stanley Kubrick",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
         "user": "megustalalluvia",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/stanley-kubrick/"
-    },
-    {
-        "name": "Steven Spielberg",
-        "url": "https://image.tmdb.org/t/p/w342/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
-        "user": "andreapajares",
-        "avg_user_rating": 4.5,
-        "person_lboxd_url": "/director/steven-spielberg/"
     },
     {
         "name": "Steven Spielberg",
@@ -1057,50 +1001,43 @@
         "person_lboxd_url": "/director/steven-spielberg/"
     },
     {
-        "name": "Sylvester Stallone",
-        "url": "https://image.tmdb.org/t/p/w342/gn3pDWthJqR0VDYGViGD3048og7.jpg",
-        "user": "superagustina",
-        "avg_user_rating": 4.5,
-        "person_lboxd_url": "/director/sylvester-stallone/"
-    },
-    {
         "name": "Tim Burton",
-        "url": "https://image.tmdb.org/t/p/w342/yHEHAHQpN9PfSEQx1UxZPczhcAi.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/wcjuY5vD1nlfwWNbvvTGg5dGoRR.jpg",
         "user": "emibarrilete",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/tim-burton/"
     },
     {
         "name": "Timo Tjahjanto",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/gYBBoFnY4ualTvxwThF3FTLfzas.jpg",
         "user": "jaragon23",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/timo-tjahjanto/"
     },
     {
         "name": "Wes Craven",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/eqwl6owrYykeTGTpKxwcAkbEJmg.jpg",
         "user": "gerardeboedo",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/wes-craven/"
     },
     {
         "name": "Yorgos Lanthimos",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/8pqwSOhJDS9Om9xHeaW2ab5uXLS.jpg",
         "user": "donjorge86",
         "avg_user_rating": 4.5,
         "person_lboxd_url": "/director/yorgos-lanthimos/"
     },
     {
         "name": "Francis Ford Coppola",
-        "url": "https://image.tmdb.org/t/p/w342/IwGgkmW6IoJ9vuNF0T9CU3FYUX.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/3Pblihd6KjXliie9vj4iQJwbNPU.jpg",
         "user": "juli_vegg",
         "avg_user_rating": 4.38,
         "person_lboxd_url": "/director/francis-ford-coppola/"
     },
     {
         "name": "Denis Villeneuve",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/433lXlkdMGXzrpwnKM4Ul1sln15.jpg",
         "user": "lumbago90",
         "avg_user_rating": 4.33,
         "person_lboxd_url": "/director/denis-villeneuve/"
@@ -1114,28 +1051,21 @@
     },
     {
         "name": "Lawrence Kasdan",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/jX1PvTXU6212ruyHhJHiFP2ZKQ9.jpg",
         "user": "cristianponce",
         "avg_user_rating": 4.33,
         "person_lboxd_url": "/director/lawrence-kasdan/"
     },
     {
         "name": "M. Night Shyamalan",
-        "url": "https://image.tmdb.org/t/p/w342/9g5IYal9c12tq8XHT65pf0Gqo1f.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg",
         "user": "cinemistica",
         "avg_user_rating": 4.33,
         "person_lboxd_url": "/director/m-night-shyamalan/"
     },
     {
-        "name": "Robert Zemeckis",
-        "url": null,
-        "user": "superagustina",
-        "avg_user_rating": 4.33,
-        "person_lboxd_url": "/director/robert-zemeckis/"
-    },
-    {
         "name": "Wong Kar-wai",
-        "url": "https://image.tmdb.org/t/p/w342/fyksuJqbV8fixJvMOZXZWtQyEtT.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/wjNI9KM9qJSYZHxkjD4Pm81kfc4.jpg",
         "user": "polialvarez",
         "avg_user_rating": 4.33,
         "person_lboxd_url": "/director/wong-kar-wai/"
@@ -1149,14 +1079,14 @@
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
         "user": "akasers0",
         "avg_user_rating": 4.3,
         "person_lboxd_url": "/director/richard-linklater/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
         "user": "alfonsomendoza",
         "avg_user_rating": 4.3,
         "person_lboxd_url": "/director/richard-linklater/"
@@ -1170,35 +1100,42 @@
     },
     {
         "name": "Alonso Ruizpalacios",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/aCBWcK4P3yCmovYUVZ9Pcl8RhUP.jpg",
         "user": "rsberrocal",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/alonso-ruizpalacios-2/"
     },
     {
         "name": "Bryan Singer",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/to8mWJabPoWkphkbYKoutCVSj06.jpg",
         "user": "ccamilacarro",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/bryan-singer/"
     },
     {
         "name": "Christopher Nolan",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg",
         "user": "ccamilacarro",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/christopher-nolan/"
     },
     {
         "name": "Christopher Nolan",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg",
         "user": "d4ir4",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/christopher-nolan/"
     },
     {
+        "name": "Clint Eastwood",
+        "url": "https://image.tmdb.org/t/p/w342/dU35NnjZ4aGw5abIJe3WXVf3Eey.jpg",
+        "user": "tomas95bv",
+        "avg_user_rating": 4.25,
+        "person_lboxd_url": "/director/clint-eastwood/"
+    },
+    {
         "name": "Damien Chazelle",
-        "url": "https://image.tmdb.org/t/p/w342/8LBuD2byosS7jcYakm8JmBXC0N9.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/14kRZ3XxNMyBv717YQSXr3wCucy.jpg",
         "user": "yeyito",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/damien-chazelle/"
@@ -1212,28 +1149,21 @@
     },
     {
         "name": "Denis Villeneuve",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/433lXlkdMGXzrpwnKM4Ul1sln15.jpg",
         "user": "d4ir4",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/denis-villeneuve/"
     },
     {
-        "name": "Denis Villeneuve",
-        "url": null,
-        "user": "zendrik",
-        "avg_user_rating": 4.25,
-        "person_lboxd_url": "/director/denis-villeneuve/"
-    },
-    {
         "name": "Edgar Wright",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
         "user": "diechanx",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/edgar-wright/"
     },
     {
         "name": "Emma Seligman",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/qtB5lB3wl3m04XF8iyTfhlBzaGn.jpg",
         "user": "rsberrocal",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/emma-seligman/"
@@ -1247,7 +1177,7 @@
     },
     {
         "name": "Franklin J. Schaffner",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/m04NRi0fxmE3xBZMwnIkpkjItBe.jpg",
         "user": "mrpereza",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/franklin-j-schaffner/"
@@ -1260,15 +1190,8 @@
         "person_lboxd_url": "/director/gareth-edwards/"
     },
     {
-        "name": "Gareth Evans",
-        "url": "https://image.tmdb.org/t/p/w342/2skpocnewERTPODPNvwgL5czLzG.jpg",
-        "user": "alfonsomendoza",
-        "avg_user_rating": 4.25,
-        "person_lboxd_url": "/director/gareth-evans/"
-    },
-    {
         "name": "Gore Verbinski",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/rSQRdmLNAwdKxrtvBSSlBmWeSsj.jpg",
         "user": "lucasiflores",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/gore-verbinski/"
@@ -1282,49 +1205,35 @@
     },
     {
         "name": "Hayao Miyazaki",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/mG3cfxtA5jqDc7fpKgyzZMKoXDh.jpg",
         "user": "sofialamorte",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/hayao-miyazaki/"
     },
     {
         "name": "J. A. Bayona",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/cnbbnS7K8Uu6yohAfSRHv5Kxc7r.jpg",
         "user": "ccamilacarro",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/j-a-bayona/"
     },
     {
         "name": "Lee Sang-geun",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/bWU85OThLY3LJCBZ0ugLqH5TSHl.jpg",
         "user": "dododok",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/lee-sang-geun/"
     },
     {
         "name": "Luca Guadagnino",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/vWCkSOW65g8Ha26BzRxn5KhTEnF.jpg",
         "user": "chicosingorra",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/luca-guadagnino/"
     },
     {
-        "name": "Luca Guadagnino",
-        "url": null,
-        "user": "turco",
-        "avg_user_rating": 4.25,
-        "person_lboxd_url": "/director/luca-guadagnino/"
-    },
-    {
         "name": "Mark Waters",
-        "url": null,
-        "user": "andreapajares",
-        "avg_user_rating": 4.25,
-        "person_lboxd_url": "/director/mark-waters/"
-    },
-    {
-        "name": "Mark Waters",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/afouy66zeJ1hn7fcjLp8QkcTeQJ.jpg",
         "user": "lucasiflores",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/mark-waters/"
@@ -1338,7 +1247,7 @@
     },
     {
         "name": "Matt Reeves",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg",
         "user": "bel_romero",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/matt-reeves/"
@@ -1351,13 +1260,6 @@
         "person_lboxd_url": "/director/nicolas-winding-refn/"
     },
     {
-        "name": "Néstor Frenkel",
-        "url": null,
-        "user": "juli_neme",
-        "avg_user_rating": 4.25,
-        "person_lboxd_url": "/director/nestor-frenkel/"
-    },
-    {
         "name": "Paco Plaza",
         "url": "https://image.tmdb.org/t/p/w342/7STjUYAbJyr3gMKm9Qvfy5ESpIt.jpg",
         "user": "leandrocoria",
@@ -1366,7 +1268,7 @@
     },
     {
         "name": "Quentin Dupieux",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/4sgTcy8ME1IC6a2AMdzxGpjm15t.jpg",
         "user": "elbachee",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/quentin-dupieux/"
@@ -1380,21 +1282,21 @@
     },
     {
         "name": "Rob Reiner",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/rcmPU3YlhHQVzZlV197qhmRsgEL.jpg",
         "user": "sofialamorte",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/rob-reiner/"
     },
     {
         "name": "Robert Zemeckis",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
         "user": "sofialamorte",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/robert-zemeckis/"
     },
     {
         "name": "Sam Wrench",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/odEmgv7BYazCIMgwuMHRZ3ZIwpy.jpg",
         "user": "juliborg_",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/sam-wrench/"
@@ -1408,7 +1310,7 @@
     },
     {
         "name": "Sarah Minter",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/tzFycvKhsB7zSYDcuXIPsw7iZCt.jpg",
         "user": "emibarrilete",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/sarah-minter/"
@@ -1426,6 +1328,13 @@
         "user": "lafloromero",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/sergio-leone/"
+    },
+    {
+        "name": "Shawn Levy",
+        "url": "https://image.tmdb.org/t/p/w342/j1CXZgmfvFeD7S3PYtsEk8H3ebB.jpg",
+        "user": "polialvarez",
+        "avg_user_rating": 4.25,
+        "person_lboxd_url": "/director/shawn-levy/"
     },
     {
         "name": "Steven Spielberg",
@@ -1457,84 +1366,91 @@
     },
     {
         "name": "Yash Chopra",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/uDthb94NlawtgRT8BKufFkZdJR5.jpg",
         "user": "akasers0",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/yash-chopra/"
     },
     {
         "name": "Yorgos Lanthimos",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/8pqwSOhJDS9Om9xHeaW2ab5uXLS.jpg",
         "user": "lafloromero",
         "avg_user_rating": 4.25,
         "person_lboxd_url": "/director/yorgos-lanthimos/"
     },
     {
         "name": "Aditya Chopra",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/eXYKfA6bg12pn9LPrWeRfxYQwcb.jpg",
         "user": "akasers0",
         "avg_user_rating": 4.17,
         "person_lboxd_url": "/director/aditya-chopra/"
     },
     {
         "name": "Brian De Palma",
-        "url": "https://image.tmdb.org/t/p/w342/t29YojZlOEqNSWvfmY0DDYh3vnb.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/4xleWFdhtVC7faer6Ru2eyEgfTv.jpg",
         "user": "stk5",
         "avg_user_rating": 4.17,
         "person_lboxd_url": "/director/brian-de-palma/"
     },
     {
         "name": "Edgar Wright",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
         "user": "disnick123",
         "avg_user_rating": 4.17,
         "person_lboxd_url": "/director/edgar-wright/"
     },
     {
         "name": "George Miller",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/35NQ8HjFXQlGYDz9UkhT08lKl5C.jpg",
         "user": "stk5",
         "avg_user_rating": 4.17,
         "person_lboxd_url": "/director/george-miller/"
     },
     {
+        "name": "Kenny Ortega",
+        "url": "https://image.tmdb.org/t/p/w342/cZrsOBr1tp1nNPJ5xj3uao2XQbJ.jpg",
+        "user": "alfonsomendoza",
+        "avg_user_rating": 4.17,
+        "person_lboxd_url": "/director/kenny-ortega/"
+    },
+    {
         "name": "Néstor Frenkel",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/ryowpVIRmdfsrytsYDTxkzVSziW.jpg",
         "user": "meliolivera97",
         "avg_user_rating": 4.17,
         "person_lboxd_url": "/director/nestor-frenkel/"
     },
     {
         "name": "Víctor Erice",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/c1iNbHXNIN2qW0kRPCAaeMN4MnZ.jpg",
         "user": "porza9",
         "avg_user_rating": 4.17,
         "person_lboxd_url": "/director/victor-erice/"
     },
     {
         "name": "Yorgos Lanthimos",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/8pqwSOhJDS9Om9xHeaW2ab5uXLS.jpg",
         "user": "juliborg_",
         "avg_user_rating": 4.17,
         "person_lboxd_url": "/director/yorgos-lanthimos/"
     },
     {
         "name": "Sergey Bondarchuk",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/tUcNV6ZYK0vkBsNoDCJTizQEjAu.jpg",
         "user": "cristianponce",
         "avg_user_rating": 4.12,
         "person_lboxd_url": "/director/sergey-bondarchuk/"
     },
     {
         "name": "Wes Craven",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/eqwl6owrYykeTGTpKxwcAkbEJmg.jpg",
         "user": "juliborg_",
         "avg_user_rating": 4.12,
         "person_lboxd_url": "/director/wes-craven/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
         "user": "lucasiflores",
         "avg_user_rating": 4.1,
         "person_lboxd_url": "/director/richard-linklater/"
@@ -1548,63 +1464,56 @@
     },
     {
         "name": "Alexander Payne",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/d8mwLxuCMxMxcE8Qys9sdUb7UZg.jpg",
         "user": "barbiemaestra",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/alexander-payne/"
     },
     {
         "name": "Alice Rohrwacher",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/l1vF7WGjF9si1wpRu8ABysQgvfJ.jpg",
         "user": "porza9",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/alice-rohrwacher-2/"
     },
     {
         "name": "Damien Leone",
-        "url": "https://image.tmdb.org/t/p/w342/kgHow969kOY5wP1C5pRZnWBxxuH.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/nX2kkYD32x2PC9rRU7DrYCRPjFE.jpg",
         "user": "bel_romero",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/damien-leone/"
     },
     {
         "name": "David Lynch",
-        "url": "https://image.tmdb.org/t/p/w342/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/b6TnSpuqeOlbq7aHH9G4inmQ1v9.jpg",
         "user": "dododok",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/david-lynch/"
     },
     {
         "name": "Demián Rugna",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/f1H00UaLvTwDYG614SJWdVLy1SZ.jpg",
         "user": "lucasiflores",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/demian-rugna/"
     },
     {
         "name": "Don Letts",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/dMvtHGyOd3erjjn6xE3seLpTZYW.jpg",
         "user": "dododok",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/don-letts/"
     },
     {
-        "name": "Garry Marshall",
-        "url": "https://image.tmdb.org/t/p/w342/az6Hm9QyS1tkCXXppa6bXsIDArW.jpg",
-        "user": "andreapajares",
-        "avg_user_rating": 4.0,
-        "person_lboxd_url": "/director/garry-marshall/"
-    },
-    {
         "name": "George Miller",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/35NQ8HjFXQlGYDz9UkhT08lKl5C.jpg",
         "user": "hbiasotti",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/george-miller/"
     },
     {
         "name": "George Miller",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/35NQ8HjFXQlGYDz9UkhT08lKl5C.jpg",
         "user": "julietp",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/george-miller/"
@@ -1632,42 +1541,49 @@
     },
     {
         "name": "Laura Citarella",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/zby9FNc91M0od2oUUDzhBSMlpgu.jpg",
         "user": "ytraeloabal",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/laura-citarella/"
     },
     {
+        "name": "Luca Guadagnino",
+        "url": "https://image.tmdb.org/t/p/w342/vWCkSOW65g8Ha26BzRxn5KhTEnF.jpg",
+        "user": "turco",
+        "avg_user_rating": 4.0,
+        "person_lboxd_url": "/director/luca-guadagnino/"
+    },
+    {
         "name": "M. Night Shyamalan",
-        "url": "https://image.tmdb.org/t/p/w342/9g5IYal9c12tq8XHT65pf0Gqo1f.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg",
         "user": "zendrik",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/m-night-shyamalan/"
     },
     {
         "name": "Martin Scorsese",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg",
         "user": "julietp",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/martin-scorsese/"
     },
     {
         "name": "Martin Scorsese",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg",
         "user": "solbaudry",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/martin-scorsese/"
     },
     {
         "name": "Matt Reeves",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg",
         "user": "lucasvar",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/matt-reeves/"
     },
     {
         "name": "Matt Reeves",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg",
         "user": "lxonxl",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/matt-reeves/"
@@ -1681,43 +1597,29 @@
     },
     {
         "name": "Néstor Frenkel",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/ryowpVIRmdfsrytsYDTxkzVSziW.jpg",
         "user": "disnick123",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/nestor-frenkel/"
     },
     {
         "name": "Néstor Frenkel",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/ryowpVIRmdfsrytsYDTxkzVSziW.jpg",
         "user": "lxonxl",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/nestor-frenkel/"
     },
     {
         "name": "Pedro Almodóvar",
-        "url": "https://image.tmdb.org/t/p/w342/dKlaXJk3NLcsC1CKMx6xmyW5BZD.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/eRgGaVKEftJ0rbZCOPzCSOBZi9.jpg",
         "user": "virus_rar",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/pedro-almodovar/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
-        "user": "andreapajares",
-        "avg_user_rating": 4.0,
-        "person_lboxd_url": "/director/richard-linklater/"
-    },
-    {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
         "user": "bel_romero",
-        "avg_user_rating": 4.0,
-        "person_lboxd_url": "/director/richard-linklater/"
-    },
-    {
-        "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
-        "user": "juli_neme",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/richard-linklater/"
     },
@@ -1730,21 +1632,14 @@
     },
     {
         "name": "Ron Howard",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg",
         "user": "ccamilacarro",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/ron-howard/"
     },
     {
-        "name": "Sam Raimi",
-        "url": "https://image.tmdb.org/t/p/w342/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
-        "user": "stk5",
-        "avg_user_rating": 4.0,
-        "person_lboxd_url": "/director/sam-raimi/"
-    },
-    {
         "name": "Sam Wrench",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/odEmgv7BYazCIMgwuMHRZ3ZIwpy.jpg",
         "user": "disnick123",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/sam-wrench/"
@@ -1765,21 +1660,21 @@
     },
     {
         "name": "Sofia Coppola",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/dzHC2LxmarkBxWLhjp2DRa5oCev.jpg",
         "user": "jimenalucero",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/sofia-coppola/"
     },
     {
         "name": "Stephen Sommers",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/wGhd7IF1Buf7qPXuC4y1t02hams.jpg",
         "user": "lxonxl",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/stephen-sommers/"
     },
     {
         "name": "Takeshi Kitano",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/9fyYreFJT8CPe8Ok2y1LE0btNYS.jpg",
         "user": "porza9",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/takeshi-kitano/"
@@ -1793,21 +1688,14 @@
     },
     {
         "name": "Tim Burton",
-        "url": "https://image.tmdb.org/t/p/w342/yHEHAHQpN9PfSEQx1UxZPczhcAi.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/wcjuY5vD1nlfwWNbvvTGg5dGoRR.jpg",
         "user": "ccamilacarro",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/tim-burton/"
     },
     {
-        "name": "Tim Burton",
-        "url": "https://image.tmdb.org/t/p/w342/yHEHAHQpN9PfSEQx1UxZPczhcAi.jpg",
-        "user": "ordiz90",
-        "avg_user_rating": 4.0,
-        "person_lboxd_url": "/director/tim-burton/"
-    },
-    {
         "name": "Tom Holland",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/dWkwc5b0OjJSpk5oUZd6dEDnBlu.jpg",
         "user": "gerardeboedo",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/tom-holland-1/"
@@ -1821,66 +1709,52 @@
     },
     {
         "name": "Yorgos Lanthimos",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/8pqwSOhJDS9Om9xHeaW2ab5uXLS.jpg",
         "user": "disnick123",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/yorgos-lanthimos/"
     },
     {
         "name": "Yorgos Lanthimos",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/8pqwSOhJDS9Om9xHeaW2ab5uXLS.jpg",
         "user": "lumbago90",
         "avg_user_rating": 4.0,
         "person_lboxd_url": "/director/yorgos-lanthimos/"
     },
     {
-        "name": "Álex de la Iglesia",
-        "url": null,
-        "user": "mariannmartini",
-        "avg_user_rating": 4.0,
-        "person_lboxd_url": "/director/alex-de-la-iglesia-1/"
-    },
-    {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
         "user": "brenmenendez",
         "avg_user_rating": 3.9,
         "person_lboxd_url": "/director/richard-linklater/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
         "user": "consulting_",
         "avg_user_rating": 3.9,
         "person_lboxd_url": "/director/richard-linklater/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
         "user": "ytraeloabal",
         "avg_user_rating": 3.9,
         "person_lboxd_url": "/director/richard-linklater/"
     },
     {
-        "name": "Ridley Scott",
-        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
-        "user": "zendrik",
-        "avg_user_rating": 3.9,
-        "person_lboxd_url": "/director/ridley-scott/"
-    },
-    {
         "name": "Bryan Singer",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/to8mWJabPoWkphkbYKoutCVSj06.jpg",
         "user": "tucodelentejas",
         "avg_user_rating": 3.88,
         "person_lboxd_url": "/director/bryan-singer/"
     },
     {
-        "name": "John Cassavetes",
-        "url": null,
-        "user": "miloteca",
-        "avg_user_rating": 3.86,
-        "person_lboxd_url": "/director/john-cassavetes/"
+        "name": "David Fincher",
+        "url": "https://image.tmdb.org/t/p/w342/tpEczFclQZeKAiCeKZZ0adRvtfz.jpg",
+        "user": "zendrik",
+        "avg_user_rating": 3.88,
+        "person_lboxd_url": "/director/david-fincher/"
     },
     {
         "name": "Darren Aronofsky",
@@ -1891,7 +1765,7 @@
     },
     {
         "name": "Edgar Wright",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
         "user": "lxonxl",
         "avg_user_rating": 3.83,
         "person_lboxd_url": "/director/edgar-wright/"
@@ -1905,35 +1779,35 @@
     },
     {
         "name": "Ti West",
-        "url": "https://image.tmdb.org/t/p/w342/lZD5Vqg26s9T4MDPNldzmmjJq2c.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/y65ZHU9m830lbdbggxC8eOT123S.jpg",
         "user": "gerardeboedo",
         "avg_user_rating": 3.83,
         "person_lboxd_url": "/director/ti-west/"
     },
     {
         "name": "Yorgos Lanthimos",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/8pqwSOhJDS9Om9xHeaW2ab5uXLS.jpg",
         "user": "mrpereza",
         "avg_user_rating": 3.83,
         "person_lboxd_url": "/director/yorgos-lanthimos/"
     },
     {
         "name": "Chris Columbus",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/yCyEz90NqjEXKZ7HYcEhDXlLlPc.jpg",
         "user": "juli_vegg",
         "avg_user_rating": 3.8,
         "person_lboxd_url": "/director/chris-columbus/"
     },
     {
         "name": "David Lynch",
-        "url": "https://image.tmdb.org/t/p/w342/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/b6TnSpuqeOlbq7aHH9G4inmQ1v9.jpg",
         "user": "miloteca",
         "avg_user_rating": 3.8,
         "person_lboxd_url": "/director/david-lynch/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
         "user": "disnick123",
         "avg_user_rating": 3.8,
         "person_lboxd_url": "/director/richard-linklater/"
@@ -1947,63 +1821,49 @@
     },
     {
         "name": "Andrew Haigh",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/pJAv105SAZiQ3lGY2wGURz4bENp.jpg",
         "user": "turco",
         "avg_user_rating": 3.75,
         "person_lboxd_url": "/director/andrew-haigh/"
     },
     {
         "name": "Asghar Farhadi",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/smzSD4fVFInrAyVzsZcEjnROGew.jpg",
         "user": "mrpereza",
         "avg_user_rating": 3.75,
         "person_lboxd_url": "/director/asghar-farhadi/"
     },
     {
         "name": "Damien Leone",
-        "url": "https://image.tmdb.org/t/p/w342/kgHow969kOY5wP1C5pRZnWBxxuH.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/nX2kkYD32x2PC9rRU7DrYCRPjFE.jpg",
         "user": "gerardeboedo",
         "avg_user_rating": 3.75,
         "person_lboxd_url": "/director/damien-leone/"
     },
     {
-        "name": "David R. Ellis",
-        "url": "https://image.tmdb.org/t/p/w342/zw1ccRyxUBy0y7JDdXTZAYg96xd.jpg",
-        "user": "superagustina",
-        "avg_user_rating": 3.75,
-        "person_lboxd_url": "/director/david-r-ellis/"
-    },
-    {
         "name": "Edgar Wright",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
         "user": "hbiasotti",
         "avg_user_rating": 3.75,
         "person_lboxd_url": "/director/edgar-wright/"
     },
     {
         "name": "George Miller",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/35NQ8HjFXQlGYDz9UkhT08lKl5C.jpg",
         "user": "gabinotti",
         "avg_user_rating": 3.75,
         "person_lboxd_url": "/director/george-miller/"
     },
     {
         "name": "J. A. Bayona",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/cnbbnS7K8Uu6yohAfSRHv5Kxc7r.jpg",
         "user": "diechanx",
         "avg_user_rating": 3.75,
         "person_lboxd_url": "/director/j-a-bayona/"
     },
     {
-        "name": "James Wong",
-        "url": "https://image.tmdb.org/t/p/w342/uIo0Bk5HG4RRuvekKRGANzwBZin.jpg",
-        "user": "superagustina",
-        "avg_user_rating": 3.75,
-        "person_lboxd_url": "/director/james-wong/"
-    },
-    {
         "name": "John Lasseter",
-        "url": "https://image.tmdb.org/t/p/w342/7EdqiNbr4FRjIhKHyPPdFfEEEFG.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/xlrE4VD2VbZCDpaNdWCpH1ZihPS.jpg",
         "user": "solbaudry",
         "avg_user_rating": 3.75,
         "person_lboxd_url": "/director/john-lasseter-1/"
@@ -2017,14 +1877,14 @@
     },
     {
         "name": "Luca Guadagnino",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/vWCkSOW65g8Ha26BzRxn5KhTEnF.jpg",
         "user": "davidehrlich",
         "avg_user_rating": 3.75,
         "person_lboxd_url": "/director/luca-guadagnino/"
     },
     {
         "name": "Mark Waters",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/afouy66zeJ1hn7fcjLp8QkcTeQJ.jpg",
         "user": "brunoap",
         "avg_user_rating": 3.75,
         "person_lboxd_url": "/director/mark-waters/"
@@ -2038,21 +1898,21 @@
     },
     {
         "name": "Paul King",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/hDixADZQOBP0E3G9ZxC4kuNHO0.jpg",
         "user": "sof_tiramisu",
         "avg_user_rating": 3.75,
         "person_lboxd_url": "/director/paul-king/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
         "user": "juanitagroisman",
         "avg_user_rating": 3.75,
         "person_lboxd_url": "/director/richard-linklater/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
         "user": "meliolivera97",
         "avg_user_rating": 3.75,
         "person_lboxd_url": "/director/richard-linklater/"
@@ -2066,52 +1926,52 @@
     },
     {
         "name": "Robert Zemeckis",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
         "user": "matiasparkman",
         "avg_user_rating": 3.75,
         "person_lboxd_url": "/director/robert-zemeckis/"
     },
     {
         "name": "Yorgos Lanthimos",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/8pqwSOhJDS9Om9xHeaW2ab5uXLS.jpg",
         "user": "turco",
         "avg_user_rating": 3.75,
         "person_lboxd_url": "/director/yorgos-lanthimos/"
     },
     {
-        "name": "Damián Szifron",
-        "url": null,
-        "user": "andreapajares",
-        "avg_user_rating": 3.67,
-        "person_lboxd_url": "/director/damian-szifron-1/"
-    },
-    {
         "name": "Martin Scorsese",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg",
         "user": "yeyito",
         "avg_user_rating": 3.67,
         "person_lboxd_url": "/director/martin-scorsese/"
     },
     {
         "name": "Robert Zemeckis",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
         "user": "gabinotti",
         "avg_user_rating": 3.67,
         "person_lboxd_url": "/director/robert-zemeckis/"
     },
     {
         "name": "Tim Burton",
-        "url": "https://image.tmdb.org/t/p/w342/yHEHAHQpN9PfSEQx1UxZPczhcAi.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/wcjuY5vD1nlfwWNbvvTGg5dGoRR.jpg",
         "user": "malei13",
         "avg_user_rating": 3.67,
         "person_lboxd_url": "/director/tim-burton/"
     },
     {
         "name": "Pedro Almodóvar",
-        "url": "https://image.tmdb.org/t/p/w342/dKlaXJk3NLcsC1CKMx6xmyW5BZD.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/eRgGaVKEftJ0rbZCOPzCSOBZi9.jpg",
         "user": "malei13",
         "avg_user_rating": 3.62,
         "person_lboxd_url": "/director/pedro-almodovar/"
+    },
+    {
+        "name": "Ridley Scott",
+        "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
+        "user": "zendrik",
+        "avg_user_rating": 3.62,
+        "person_lboxd_url": "/director/ridley-scott/"
     },
     {
         "name": "Sylvester Stallone",
@@ -2122,24 +1982,24 @@
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
         "user": "lucasvar",
         "avg_user_rating": 3.6,
         "person_lboxd_url": "/director/richard-linklater/"
     },
     {
         "name": "Barbra Streisand",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/fno2WhZfI5G6gdD88H5POLyv7eV.jpg",
         "user": "consulting_",
         "avg_user_rating": 3.5,
         "person_lboxd_url": "/director/barbra-streisand/"
     },
     {
-        "name": "Ben Stiller",
-        "url": null,
-        "user": "malei13",
+        "name": "Damien Leone",
+        "url": "https://image.tmdb.org/t/p/w342/nX2kkYD32x2PC9rRU7DrYCRPjFE.jpg",
+        "user": "stk5",
         "avg_user_rating": 3.5,
-        "person_lboxd_url": "/director/ben-stiller/"
+        "person_lboxd_url": "/director/damien-leone/"
     },
     {
         "name": "David Leitch",
@@ -2150,7 +2010,7 @@
     },
     {
         "name": "James Wan",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/mMYVuGyP74c7sFJHFrc5YPwj4Wd.jpg",
         "user": "julietp",
         "avg_user_rating": 3.5,
         "person_lboxd_url": "/director/james-wan/"
@@ -2170,50 +2030,50 @@
         "person_lboxd_url": "/director/joe-dante/"
     },
     {
-        "name": "John G. Avildsen",
-        "url": null,
-        "user": "superagustina",
+        "name": "John Lasseter",
+        "url": "https://image.tmdb.org/t/p/w342/xlrE4VD2VbZCDpaNdWCpH1ZihPS.jpg",
+        "user": "malei13",
         "avg_user_rating": 3.5,
-        "person_lboxd_url": "/director/john-g-avildsen/"
+        "person_lboxd_url": "/director/john-lasseter-1/"
     },
     {
         "name": "Kristoffer Borgli",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/vihxXj8z450fz0D1pmfulIqPJvz.jpg",
         "user": "rocanx",
         "avg_user_rating": 3.5,
         "person_lboxd_url": "/director/kristoffer-borgli/"
     },
     {
         "name": "Matt Reeves",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg",
         "user": "sof_tiramisu",
         "avg_user_rating": 3.5,
         "person_lboxd_url": "/director/matt-reeves/"
     },
     {
         "name": "Michael Mann",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/syowcptZIOosLMwVWbXFOU8jVvd.jpg",
         "user": "elbachee",
         "avg_user_rating": 3.5,
         "person_lboxd_url": "/director/michael-mann/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
         "user": "diechanx",
         "avg_user_rating": 3.5,
         "person_lboxd_url": "/director/richard-linklater/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
         "user": "sof_tiramisu",
         "avg_user_rating": 3.5,
         "person_lboxd_url": "/director/richard-linklater/"
     },
     {
         "name": "Richard Linklater",
-        "url": "https://image.tmdb.org/t/p/w342/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/mNoP4U6cwtBGcjAFoSRylxaJCZQ.jpg",
         "user": "tucodelentejas",
         "avg_user_rating": 3.5,
         "person_lboxd_url": "/director/richard-linklater/"
@@ -2227,10 +2087,17 @@
     },
     {
         "name": "Robert Zemeckis",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
         "user": "lucasvar",
         "avg_user_rating": 3.5,
         "person_lboxd_url": "/director/robert-zemeckis/"
+    },
+    {
+        "name": "Sebastián Borensztein",
+        "url": null,
+        "user": "malei13",
+        "avg_user_rating": 3.5,
+        "person_lboxd_url": "/director/sebastian-borensztein/"
     },
     {
         "name": "Sylvester Stallone",
@@ -2241,7 +2108,7 @@
     },
     {
         "name": "Todd Phillips",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/A6FPht87DiqXzp456WjakLi2AtP.jpg",
         "user": "joaqlandi",
         "avg_user_rating": 3.5,
         "person_lboxd_url": "/director/todd-phillips/"
@@ -2262,24 +2129,31 @@
     },
     {
         "name": "Éric Rohmer",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/tLiyKPB6WzSgs8hOMGsKZbchmIh.jpg",
         "user": "miloteca",
         "avg_user_rating": 3.33,
         "person_lboxd_url": "/director/eric-rohmer/"
     },
     {
         "name": "David Cronenberg",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/3xh4e2gWHDilMLtucHzDGsmJMuQ.jpg",
         "user": "rocanx",
         "avg_user_rating": 3.25,
         "person_lboxd_url": "/director/david-cronenberg/"
     },
     {
         "name": "Denis Villeneuve",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/433lXlkdMGXzrpwnKM4Ul1sln15.jpg",
         "user": "miloteca",
         "avg_user_rating": 3.25,
         "person_lboxd_url": "/director/denis-villeneuve/"
+    },
+    {
+        "name": "Edgar Wright",
+        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
+        "user": "andreapajares",
+        "avg_user_rating": 3.25,
+        "person_lboxd_url": "/director/edgar-wright/"
     },
     {
         "name": "Fernando Birri",
@@ -2290,7 +2164,7 @@
     },
     {
         "name": "Marcelo Piñeyro",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/tTUkiHCLy6nOXL2pVoXJF9awsoo.jpg",
         "user": "meliolivera97",
         "avg_user_rating": 3.25,
         "person_lboxd_url": "/director/marcelo-pineyro/"
@@ -2325,24 +2199,38 @@
     },
     {
         "name": "Takashi Miike",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/faxjG72MyCOE1NSRrZSFo4KgCIZ.jpg",
         "user": "ivan2805",
         "avg_user_rating": 3.25,
         "person_lboxd_url": "/director/takashi-miike/"
     },
     {
         "name": "Ti West",
-        "url": "https://image.tmdb.org/t/p/w342/lZD5Vqg26s9T4MDPNldzmmjJq2c.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/y65ZHU9m830lbdbggxC8eOT123S.jpg",
         "user": "rocanx",
         "avg_user_rating": 3.25,
         "person_lboxd_url": "/director/ti-west/"
     },
     {
         "name": "Wes Craven",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/eqwl6owrYykeTGTpKxwcAkbEJmg.jpg",
         "user": "jimenalucero",
         "avg_user_rating": 3.25,
         "person_lboxd_url": "/director/wes-craven/"
+    },
+    {
+        "name": "Jim Jarmusch",
+        "url": "https://image.tmdb.org/t/p/w342/iMpIrvhoO9SZWhiDkSzaUt9Yd4N.jpg",
+        "user": "miloteca",
+        "avg_user_rating": 3.17,
+        "person_lboxd_url": "/director/jim-jarmusch/"
+    },
+    {
+        "name": "John G. Avildsen",
+        "url": "https://image.tmdb.org/t/p/w342/cBpz7xPTfT0cfPhQoGrp7x7esma.jpg",
+        "user": "juli_neme",
+        "avg_user_rating": 3.0,
+        "person_lboxd_url": "/director/john-g-avildsen/"
     },
     {
         "name": "Nicolas Winding Refn",
@@ -2367,7 +2255,7 @@
     },
     {
         "name": "Edgar Wright",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg",
         "user": "sof_tiramisu",
         "avg_user_rating": 2.88,
         "person_lboxd_url": "/director/edgar-wright/"
@@ -2381,7 +2269,7 @@
     },
     {
         "name": "Damien Leone",
-        "url": "https://image.tmdb.org/t/p/w342/kgHow969kOY5wP1C5pRZnWBxxuH.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/nX2kkYD32x2PC9rRU7DrYCRPjFE.jpg",
         "user": "diechanx",
         "avg_user_rating": 2.75,
         "person_lboxd_url": "/director/damien-leone/"
@@ -2394,15 +2282,29 @@
         "person_lboxd_url": "/director/david-r-ellis/"
     },
     {
+        "name": "Derek Cianfrance",
+        "url": "https://image.tmdb.org/t/p/w342/6y6RU9AJst5f5TxdeycWCVNyCEt.jpg",
+        "user": "andreapajares",
+        "avg_user_rating": 2.75,
+        "person_lboxd_url": "/director/derek-cianfrance/"
+    },
+    {
         "name": "John Hyams",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/7NosT6z5tAM0HlujmIyLpKJckAy.jpg",
         "user": "yeyito",
         "avg_user_rating": 2.75,
         "person_lboxd_url": "/director/john-hyams/"
     },
     {
-        "name": "Alejandro Doria",
+        "name": "Jorge Nisco",
         "url": null,
+        "user": "juli_neme",
+        "avg_user_rating": 2.67,
+        "person_lboxd_url": "/director/jorge-nisco/"
+    },
+    {
+        "name": "Alejandro Doria",
+        "url": "https://image.tmdb.org/t/p/w342/2p2F4z4Ahza8NYm2DBqSMH4Vh22.jpg",
         "user": "car_lita",
         "avg_user_rating": 2.5,
         "person_lboxd_url": "/director/alejandro-doria/"
@@ -2416,7 +2318,7 @@
     },
     {
         "name": "Demián Rugna",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/f1H00UaLvTwDYG614SJWdVLy1SZ.jpg",
         "user": "car_lita",
         "avg_user_rating": 2.5,
         "person_lboxd_url": "/director/demian-rugna/"
@@ -2430,7 +2332,7 @@
     },
     {
         "name": "John Hyams",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/7NosT6z5tAM0HlujmIyLpKJckAy.jpg",
         "user": "manutencio",
         "avg_user_rating": 2.5,
         "person_lboxd_url": "/director/john-hyams/"
@@ -2444,14 +2346,14 @@
     },
     {
         "name": "Renny Harlin",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/IhXiDrZBrsLZpB5K5BmzUGkp4G.jpg",
         "user": "rocanx",
         "avg_user_rating": 2.5,
         "person_lboxd_url": "/director/renny-harlin/"
     },
     {
         "name": "Steve Miner",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/jI202evRSMXDHCugyWvrAaUuVO4.jpg",
         "user": "car_lita",
         "avg_user_rating": 2.5,
         "person_lboxd_url": "/director/steve-miner/"
@@ -2464,36 +2366,43 @@
         "person_lboxd_url": "/director/wes-anderson/"
     },
     {
+        "name": "David R. Ellis",
+        "url": "https://image.tmdb.org/t/p/w342/zw1ccRyxUBy0y7JDdXTZAYg96xd.jpg",
+        "user": "juli_neme",
+        "avg_user_rating": 2.25,
+        "person_lboxd_url": "/director/david-r-ellis/"
+    },
+    {
         "name": "Doug Liman",
-        "url": "https://image.tmdb.org/t/p/w342/91ObnurSxmBAA0G9aTKOHsOVTnZ.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/kIT7NE6MDaiIrjPEbObXk4COFVa.jpg",
         "user": "davidehrlich",
         "avg_user_rating": 2.25,
         "person_lboxd_url": "/director/doug-liman/"
     },
     {
         "name": "Juan José Jusid",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/5VcibsZa8QsuccZDwGGafk9PTcV.jpg",
         "user": "brenmenendez",
         "avg_user_rating": 2.25,
         "person_lboxd_url": "/director/juan-jose-jusid/"
     },
     {
         "name": "Luca Guadagnino",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/vWCkSOW65g8Ha26BzRxn5KhTEnF.jpg",
         "user": "juanitagroisman",
         "avg_user_rating": 2.25,
         "person_lboxd_url": "/director/luca-guadagnino/"
     },
     {
         "name": "Rose Glass",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/qsUviDuBAwcILnDLxGGqnzyxcvx.jpg",
         "user": "car_lita",
         "avg_user_rating": 2.25,
         "person_lboxd_url": "/director/rose-glass/"
     },
     {
         "name": "Shinya Tsukamoto",
-        "url": "https://image.tmdb.org/t/p/w342/eah3SWEeI6F5kz0HszDpobk8BKf.jpg",
+        "url": "https://image.tmdb.org/t/p/w342/lHt4zpGcyI7QVdFrmzJ2WqEJ5kt.jpg",
         "user": "ivan2805",
         "avg_user_rating": 2.25,
         "person_lboxd_url": "/director/shinya-tsukamoto-2/"
@@ -2513,6 +2422,13 @@
         "person_lboxd_url": "/director/xavier-gens/"
     },
     {
+        "name": "John G. Avildsen",
+        "url": "https://image.tmdb.org/t/p/w342/cBpz7xPTfT0cfPhQoGrp7x7esma.jpg",
+        "user": "isa_ycaza3010",
+        "avg_user_rating": 2.0,
+        "person_lboxd_url": "/director/john-g-avildsen/"
+    },
+    {
         "name": "Ridley Scott",
         "url": "https://image.tmdb.org/t/p/w342/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
         "user": "juanitagroisman",
@@ -2521,14 +2437,14 @@
     },
     {
         "name": "Frank Coraci",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/z280cWJmhWgPmR9HrTXUn4BK06o.jpg",
         "user": "joaqlandi",
         "avg_user_rating": 1.75,
         "person_lboxd_url": "/director/frank-coraci-1/"
     },
     {
         "name": "Woody Allen",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/wcPQgZLDibuej1RwNTy1R2U2ZJw.jpg",
         "user": "julietary",
         "avg_user_rating": 1.75,
         "person_lboxd_url": "/director/woody-allen/"
@@ -2549,42 +2465,35 @@
     },
     {
         "name": "Aki Kaurismäki",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/t0pdsYfLts7p01OBN1P9UHp1Z0l.jpg",
         "user": "julietary",
         "avg_user_rating": 1.33,
         "person_lboxd_url": "/director/aki-kaurismaki/"
     },
     {
         "name": "Daniela Goggi",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/5X1a95b0wgQjHvoXCOVbhVMpJR7.jpg",
         "user": "franco_c",
         "avg_user_rating": 0.5,
         "person_lboxd_url": "/director/daniela-goggi-1/"
     },
     {
-        "name": "Hiromasa Yonebayashi",
-        "url": null,
-        "user": "999den",
-        "avg_user_rating": 0.0,
-        "person_lboxd_url": "/director/hiromasa-yonebayashi/"
-    },
-    {
         "name": "Jonathan Glazer",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/8pFNxscgellE6rhT5399eM00GAG.jpg",
         "user": "julietary",
         "avg_user_rating": 0.0,
         "person_lboxd_url": "/director/jonathan-glazer/"
     },
     {
         "name": "Marco Bellocchio",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/kPpSeOFc8tsdiyQ0L3pnyLnPCXv.jpg",
         "user": "julietary",
         "avg_user_rating": 0.0,
         "person_lboxd_url": "/director/marco-bellocchio/"
     },
     {
         "name": "Michael Patrick King",
-        "url": null,
+        "url": "https://image.tmdb.org/t/p/w342/oSSgEuyYBhPbwR8FF4ayrVI6EU0.jpg",
         "user": "julietary",
         "avg_user_rating": 0.0,
         "person_lboxd_url": "/director/michael-patrick-king/"
