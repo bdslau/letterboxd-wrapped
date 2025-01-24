@@ -6,7 +6,7 @@ google.charts.setOnLoadCallback(drawCharts); // Ensure all charts are drawn afte
 // Function to draw all charts
 function drawCharts() {
     // PLOT: Movies watched per day of the week
-    fetch('https://raw.githubusercontent.com/bdslau/letterboxd-wrapped/refs/heads/main/assets/docs/user_days.json')
+    fetch('/assets/docs/user_days.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load user_days.json');
             return response.json();
