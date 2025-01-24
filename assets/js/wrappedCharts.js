@@ -6,7 +6,7 @@ google.charts.setOnLoadCallback(drawCharts); // Ensure all charts are drawn afte
 // Function to draw all charts
 function drawCharts() {
     // PLOT: Movies watched per day of the week
-    fetch('../docs/user_days.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/user_days.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load user_days.json');
             return response.json();
@@ -27,7 +27,7 @@ function drawCharts() {
     
         
     // PLOT: Top Releases of the Year
-    fetch('../docs/user_topReleases.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/user_topReleases.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load user_topReleases.json');
             return response.json();
@@ -48,7 +48,7 @@ function drawCharts() {
     
         
     // PLOT: Display stats
-    fetch('../docs/display_stats.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/display_stats.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load display_stats.json');
             return response.json();
@@ -69,7 +69,7 @@ function drawCharts() {
 
 
     // PLOT: Top Movies of the Year
-    fetch('../docs/user_topAllMovies.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/user_topAllMovies.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load user_topAllMovies.json');
             return response.json();
@@ -90,7 +90,7 @@ function drawCharts() {
 
     
     // PLOT: Ratings and movies watched per week
-    fetch('../docs/user_weekly_data.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/user_weekly_data.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load user_weekly_data.json');
             return response.json();
@@ -113,7 +113,7 @@ function drawCharts() {
 
 
     // PLOT: Most watched GENRES
-    fetch('../docs/genresWatched_data.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/genresWatched_data.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load genresWatched_data.json');
             return response.json();
@@ -134,7 +134,7 @@ function drawCharts() {
 
 
     // PLOT: Highest rated GENRES
-    fetch('../docs/genresRated_data.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/genresRated_data.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load genresRated_data.json');
             return response.json();
@@ -155,7 +155,7 @@ function drawCharts() {
 
 
     // PLOT: Most watched COUNTRIES
-    fetch('../docs/countriesWatched_data.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/countriesWatched_data.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load countriesWatched_data.json');
             return response.json();
@@ -176,7 +176,7 @@ function drawCharts() {
 
 
     // PLOT: Highest rated COUNTRIES
-    fetch('../docs/countriesRated_data.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/countriesRated_data.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load countriesRated_data.json');
             return response.json();
@@ -197,7 +197,7 @@ function drawCharts() {
 
 
     // PLOT: Most watched LANGUAGES
-    fetch('../docs/languagesWatched_data.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/languagesWatched_data.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load languagesWatched_data.json');
             return response.json();
@@ -218,7 +218,7 @@ function drawCharts() {
 
 
     // PLOT: Highest rated LANGUAGES
-    fetch('../docs/languagesRated_data.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/languagesRated_data.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load languagesRated_data.json');
             return response.json();
@@ -239,7 +239,7 @@ function drawCharts() {
 
 
     // PLOT: Most watched ACTORS
-    fetch('../docs/actors_watched.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/actors_watched.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load actors_watched.json');
             return response.json();
@@ -260,7 +260,7 @@ function drawCharts() {
 
 
     // PLOT: Highest rated ACTORS
-    fetch('../docs/actors_rated.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/actors_rated.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load actors_rated.json');
             return response.json();
@@ -281,7 +281,7 @@ function drawCharts() {
 
 
     // PLOT: Most watched DIRECTORS
-    fetch('../docs/directors_watched.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/directors_watched.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load directors_watched.json');
             return response.json();
@@ -302,7 +302,7 @@ function drawCharts() {
 
 
     // PLOT: Highest rated DIRECTORS
-    fetch('../docs/directors_rated.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/directors_rated.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load directors_rated.json');
             return response.json();
@@ -323,7 +323,7 @@ function drawCharts() {
 
 
     // PLOT: Films per rating STAR
-    fetch('../docs/ratings_data.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/ratings_data.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load ratings_data.json');
             return response.json();
@@ -344,7 +344,7 @@ function drawCharts() {
     
     
     // PLOT: proportion of RELEASES watched
-    fetch('../docs/releasesProportion.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/releasesProportion.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load releasesProportion.json');
             return response.json();
@@ -365,7 +365,7 @@ function drawCharts() {
 
 
     // PLOT: biggest POSITIVE difference
-    fetch('../docs/positive_diff.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/positive_diff.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load positive_diff.json');
             return response.json();
@@ -386,7 +386,7 @@ function drawCharts() {
     
     
     // PLOT: Biggest NEGATIVE difference
-    fetch('../docs/negative_diff.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/negative_diff.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load negative_diff.json');
             return response.json();
@@ -407,7 +407,7 @@ function drawCharts() {
     
     
     // PLOT: High and Low movies
-    fetch('../docs/high_low_data.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/high_low_data.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load high_low_data.json');
             return response.json();
@@ -428,7 +428,7 @@ function drawCharts() {
     
     
     // PLOT: Pronto Pinarello Movies
-    fetch('../docs/prontoMovies.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/prontoMovies.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load prontoMovies.json');
             return response.json();
@@ -449,7 +449,7 @@ function drawCharts() {
     
     
     // PLOT: Mapped countries
-    fetch('../docs/all_countries.json')
+    fetch('https://github.com/bdslau/letterboxd-wrapped/blob/main/assets/docs/all_countries.json')
         .then(response => {
             if (!response.ok) throw new Error('Failed to load all_countries.json');
             return response.json();
@@ -2318,7 +2318,7 @@ function movieMap(user_data) {
     const maxColor = '#036666'; // Dark green
 
     // Create a color scale based on watch_count with more steps
-    const maxCount = Math.max(...Object.values(countryWatchCount), 1);
+    const maxCount = Math.max(https://github.com/bdslau/letterboxd-wrapped/blob/main/assets.Object.values(countryWatchCount), 1);
     const colorScale = d3.scaleLinear()
         .domain([0, maxCount]) // Define domain from 0 to maxCount
         .range([minColor, maxColor]) // Use custom colors
