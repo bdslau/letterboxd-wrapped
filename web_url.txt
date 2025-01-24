@@ -1,0 +1,12 @@
+for htmls in main -----------------------------
+old: /css
+new: /letterboxd-wrapped/css
+
+old: /js
+new: /letterboxd-wrapped/js
+
+
+
+for js files -----------------------------
+old: /docs
+new: /letterboxd-wrapped/docs
